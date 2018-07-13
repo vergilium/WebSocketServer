@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectdatabase version="6">
+  <linkdatabase>
+    <link topicid="!!CLASSES" displaystring="Classes">
+      <target id="html">../output/!!CLASSES.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!CLASSES.html</target>
+    </link>
+    <link topicid="!!FILES" displaystring="Files">
+      <target id="html">../output/!!FILES.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!FILES.html</target>
+    </link>
+    <link topicid="!!MEMBEROVERVIEW_Connection" displaystring="Connection Members">
+      <target id="html">../output/!!MEMBEROVERVIEW_Connection.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBEROVERVIEW_Connection.html</target>
+    </link>
+    <link topicid="!!MEMBEROVERVIEW_DataPacket" displaystring="DataPacket Members">
+      <target id="html">../output/!!MEMBEROVERVIEW_DataPacket.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBEROVERVIEW_DataPacket.html</target>
+    </link>
+    <link topicid="!!MEMBEROVERVIEW_LastNumbers" displaystring="LastNumbers Members">
+      <target id="html">../output/!!MEMBEROVERVIEW_LastNumbers.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBEROVERVIEW_LastNumbers.html</target>
+    </link>
+    <link topicid="!!MEMBEROVERVIEW_Program" displaystring="Program Members">
+      <target id="html">../output/!!MEMBEROVERVIEW_Program.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBEROVERVIEW_Program.html</target>
+    </link>
+    <link topicid="!!MEMBEROVERVIEW_User" displaystring="User Members">
+      <target id="html">../output/!!MEMBEROVERVIEW_User.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBEROVERVIEW_User.html</target>
+    </link>
+    <link topicid="!!MEMBEROVERVIEW_UserCollection" displaystring="UserCollection Members">
+      <target id="html">../output/!!MEMBEROVERVIEW_UserCollection.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBEROVERVIEW_UserCollection.html</target>
+    </link>
+    <link topicid="!!MEMBERTYPE_Enumerations_Program" displaystring="Program Enumerations">
+      <target id="html">../output/!!MEMBERTYPE_Enumerations_Program.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBERTYPE_Enumerations_Program.html</target>
+    </link>
+    <link topicid="!!MEMBERTYPE_Enumerations_User" displaystring="User Enumerations">
+      <target id="html">../output/!!MEMBERTYPE_Enumerations_User.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBERTYPE_Enumerations_User.html</target>
+    </link>
+    <link topicid="!!MEMBERTYPE_Events_UserCollection" displaystring="UserCollection Events">
+      <target id="html">../output/!!MEMBERTYPE_Events_UserCollection.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBERTYPE_Events_UserCollection.html</target>
+    </link>
+    <link topicid="!!MEMBERTYPE_Fields_Connection" displaystring="Connection Fields">
+      <target id="html">../output/!!MEMBERTYPE_Fields_Connection.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBERTYPE_Fields_Connection.html</target>
+    </link>
+    <link topicid="!!MEMBERTYPE_Fields_LastNumbers" displaystring="LastNumbers Fields">
+      <target id="html">../output/!!MEMBERTYPE_Fields_LastNumbers.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBERTYPE_Fields_LastNumbers.html</target>
+    </link>
+    <link topicid="!!MEMBERTYPE_Fields_Program" displaystring="Program Fields">
+      <target id="html">../output/!!MEMBERTYPE_Fields_Program.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBERTYPE_Fields_Program.html</target>
+    </link>
+    <link topicid="!!MEMBERTYPE_Methods_Connection" displaystring="Connection Methods">
+      <target id="html">../output/!!MEMBERTYPE_Methods_Connection.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBERTYPE_Methods_Connection.html</target>
+    </link>
+    <link topicid="!!MEMBERTYPE_Methods_LastNumbers" displaystring="LastNumbers Methods">
+      <target id="html">../output/!!MEMBERTYPE_Methods_LastNumbers.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBERTYPE_Methods_LastNumbers.html</target>
+    </link>
+    <link topicid="!!MEMBERTYPE_Methods_Program" displaystring="Program Methods">
+      <target id="html">../output/!!MEMBERTYPE_Methods_Program.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBERTYPE_Methods_Program.html</target>
+    </link>
+    <link topicid="!!MEMBERTYPE_Methods_UserCollection" displaystring="UserCollection Methods">
+      <target id="html">../output/!!MEMBERTYPE_Methods_UserCollection.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBERTYPE_Methods_UserCollection.html</target>
+    </link>
+    <link topicid="!!MEMBERTYPE_Properties_DataPacket" displaystring="DataPacket Properties">
+      <target id="html">../output/!!MEMBERTYPE_Properties_DataPacket.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBERTYPE_Properties_DataPacket.html</target>
+    </link>
+    <link topicid="!!MEMBERTYPE_Properties_User" displaystring="User Properties">
+      <target id="html">../output/!!MEMBERTYPE_Properties_User.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/!!MEMBERTYPE_Properties_User.html</target>
+    </link>
+    <link topicid="Alert" displaystring="Alert">
+      <target id="html">../output/Program_DisplayStyle.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_DisplayStyle.html</target>
+    </link>
+    <link topicid="ClientPlayer" displaystring="ClientPlayer">
+      <target id="html">../output/User_UserTypes.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_UserTypes.html</target>
+    </link>
+    <link topicid="Connection" displaystring="Connection Class">
+      <target id="html">../output/Connection.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection.html</target>
+    </link>
+    <link topicid="Connection._bets" displaystring="Connection._bets Field">
+      <target id="html">../output/Connection__bets.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection__bets.html</target>
+    </link>
+    <link topicid="Connection.Bets@String" displaystring="Connection.Bets Method">
+      <target id="html">../output/Connection_Bets@String.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_Bets@String.html</target>
+    </link>
+    <link topicid="Connection.CloseConnection" displaystring="Connection.CloseConnection Method">
+      <target id="html">../output/Connection_CloseConnection.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_CloseConnection.html</target>
+    </link>
+    <link topicid="Connection.connectedTime" displaystring="Connection.connectedTime Field">
+      <target id="html">../output/Connection_connectedTime.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_connectedTime.html</target>
+    </link>
+    <link topicid="Connection.Connection" displaystring="Connection.Connection Method">
+      <target id="html">../output/Connection_Connection.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_Connection.html</target>
+    </link>
+    <link topicid="Connection.Context" displaystring="Connection.Context Field">
+      <target id="html">../output/Connection_Context.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_Context.html</target>
+    </link>
+    <link topicid="Connection.cr" displaystring="Connection.cr Field">
+      <target id="html">../output/Connection_cr.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_cr.html</target>
+    </link>
+    <link topicid="Connection.GetSummBets" displaystring="Connection.GetSummBets Method">
+      <target id="html">../output/Connection_GetSummBets.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_GetSummBets.html</target>
+    </link>
+    <link topicid="Connection.ID" displaystring="Connection.ID Field">
+      <target id="html">../output/Connection_ID.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_ID.html</target>
+    </link>
+    <link topicid="Connection.logon" displaystring="Connection.logon Field">
+      <target id="html">../output/Connection_logon.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_logon.html</target>
+    </link>
+    <link topicid="Connection.New@UserContext" displaystring="Connection.New Constructor">
+      <target id="html">../output/Connection_New@UserContext.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_New@UserContext.html</target>
+    </link>
+    <link topicid="Connection.NullBets" displaystring="Connection.NullBets Method">
+      <target id="html">../output/Connection_NullBets.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_NullBets.html</target>
+    </link>
+    <link topicid="Connection.online" displaystring="Connection.online Field">
+      <target id="html">../output/Connection_online.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_online.html</target>
+    </link>
+    <link topicid="Connection.timer" displaystring="Connection.timer Field">
+      <target id="html">../output/Connection_timer.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_timer.html</target>
+    </link>
+    <link topicid="Connection.TRM" displaystring="Connection.TRM Field">
+      <target id="html">../output/Connection_TRM.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_TRM.html</target>
+    </link>
+    <link topicid="Connection.vb" displaystring="Connection.vb">
+      <target id="html">../output/Connection_vb.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_vb.html</target>
+    </link>
+    <link topicid="Connection.win" displaystring="Connection.win Field">
+      <target id="html">../output/Connection_win.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Connection_win.html</target>
+    </link>
+    <link topicid="DataPacket" displaystring="DataPacket Class">
+      <target id="html">../output/DataPacket.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/DataPacket.html</target>
+    </link>
+    <link topicid="DataPacket.Arguments" displaystring="DataPacket.Arguments Property">
+      <target id="html">../output/DataPacket_Arguments.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/DataPacket_Arguments.html</target>
+    </link>
+    <link topicid="DataPacket.Command" displaystring="DataPacket.Command Property">
+      <target id="html">../output/DataPacket_Command.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/DataPacket_Command.html</target>
+    </link>
+    <link topicid="DataPacket.New@String" displaystring="DataPacket.New Constructor">
+      <target id="html">../output/DataPacket_New@String.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/DataPacket_New@String.html</target>
+    </link>
+    <link topicid="DataPacket.vb" displaystring="DataPacket.vb">
+      <target id="html">../output/DataPacket_vb.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/DataPacket_vb.html</target>
+    </link>
+    <link topicid="debug_all" displaystring="debug_all">
+      <target id="html">../output/Program_DebugModes.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_DebugModes.html</target>
+    </link>
+    <link topicid="debug_list" displaystring="debug_list">
+      <target id="html">../output/Program_DebugModes.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_DebugModes.html</target>
+    </link>
+    <link topicid="debug_none" displaystring="debug_none">
+      <target id="html">../output/Program_DebugModes.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_DebugModes.html</target>
+    </link>
+    <link topicid="DebugInfo" displaystring="DebugInfo">
+      <target id="html">../output/Program_DisplayStyle.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_DisplayStyle.html</target>
+    </link>
+    <link topicid="HookConService" displaystring="HookConService">
+      <target id="html">../output/User_UserTypes.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_UserTypes.html</target>
+    </link>
+    <link topicid="Information" displaystring="Information">
+      <target id="html">../output/Program_DisplayStyle.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_DisplayStyle.html</target>
+    </link>
+    <link topicid="LastNumbers" displaystring="LastNumbers Class">
+      <target id="html">../output/LastNumbers.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/LastNumbers.html</target>
+    </link>
+    <link topicid="LastNumbers._allNums" displaystring="LastNumbers._allNums Field">
+      <target id="html">../output/LastNumbers__allNums.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/LastNumbers__allNums.html</target>
+    </link>
+    <link topicid="LastNumbers.Add@Integer" displaystring="LastNumbers.Add Method">
+      <target id="html">../output/LastNumbers_Add@Integer.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/LastNumbers_Add@Integer.html</target>
+    </link>
+    <link topicid="LastNumbers.GetStr@String" displaystring="LastNumbers.GetStr Method">
+      <target id="html">../output/LastNumbers_GetStr@String.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/LastNumbers_GetStr@String.html</target>
+    </link>
+    <link topicid="LastNumbers.vb" displaystring="LastNumbers.vb">
+      <target id="html">../output/LastNumbers_vb.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/LastNumbers_vb.html</target>
+    </link>
+    <link topicid="Log" displaystring="Log">
+      <target id="html">../output/Program_DisplayStyle.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_DisplayStyle.html</target>
+    </link>
+    <link topicid="LogFile" displaystring="LogFile">
+      <target id="html">../output/Program_DisplayStyle.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_DisplayStyle.html</target>
+    </link>
+    <link topicid="Program" displaystring="Program Module">
+      <target id="html">../output/Program.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program.html</target>
+    </link>
+    <link topicid="Program._users" displaystring="Program._users Field">
+      <target id="html">../output/Program__users.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program__users.html</target>
+    </link>
+    <link topicid="Program.allNums" displaystring="Program.allNums Field">
+      <target id="html">../output/Program_allNums.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_allNums.html</target>
+    </link>
+    <link topicid="Program.BuildDefDmode" displaystring="Program.BuildDefDmode Method">
+      <target id="html">../output/Program_BuildDefDmode.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_BuildDefDmode.html</target>
+    </link>
+    <link topicid="Program.CalculateWin@String" displaystring="Program.CalculateWin Method">
+      <target id="html">../output/Program_CalculateWin@String.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_CalculateWin@String.html</target>
+    </link>
+    <link topicid="Program.ChangeDmode" displaystring="Program.ChangeDmode Method">
+      <target id="html">../output/Program_ChangeDmode.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_ChangeDmode.html</target>
+    </link>
+    <link topicid="Program.ChangeDmodeList" displaystring="Program.ChangeDmodeList Method">
+      <target id="html">../output/Program_ChangeDmodeList.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_ChangeDmodeList.html</target>
+    </link>
+    <link topicid="Program.CheckIP@String" displaystring="Program.CheckIP Method">
+      <target id="html">../output/Program_CheckIP@String.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_CheckIP@String.html</target>
+    </link>
+    <link topicid="Program.ConnectToServer" displaystring="Program.ConnectToServer Method">
+      <target id="html">../output/Program_ConnectToServer.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_ConnectToServer.html</target>
+    </link>
+    <link topicid="Program.debugList" displaystring="Program.debugList Field">
+      <target id="html">../output/Program_debugList.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_debugList.html</target>
+    </link>
+    <link topicid="Program.debugMode" displaystring="Program.debugMode Field">
+      <target id="html">../output/Program_debugMode.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_debugMode.html</target>
+    </link>
+    <link topicid="Program.DebugModes" displaystring="Program.DebugModes Enumeration">
+      <target id="html">../output/Program_DebugModes.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_DebugModes.html</target>
+    </link>
+    <link topicid="Program.debugPhpFile" displaystring="Program.debugPhpFile Field">
+      <target id="html">../output/Program_debugPhpFile.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_debugPhpFile.html</target>
+    </link>
+    <link topicid="Program.DisconnectFromServer" displaystring="Program.DisconnectFromServer Method">
+      <target id="html">../output/Program_DisconnectFromServer.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_DisconnectFromServer.html</target>
+    </link>
+    <link topicid="Program.DisplayStyle" displaystring="Program.DisplayStyle Enumeration">
+      <target id="html">../output/Program_DisplayStyle.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_DisplayStyle.html</target>
+    </link>
+    <link topicid="Program.donePing" displaystring="Program.donePing Field">
+      <target id="html">../output/Program_donePing.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_donePing.html</target>
+    </link>
+    <link topicid="Program.fixstate" displaystring="Program.fixstate Field">
+      <target id="html">../output/Program_fixstate.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_fixstate.html</target>
+    </link>
+    <link topicid="Program.gamestate" displaystring="Program.gamestate Field">
+      <target id="html">../output/Program_gamestate.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_gamestate.html</target>
+    </link>
+    <link topicid="Program.GetConnObject@String@Boolean" displaystring="Program.GetConnObject Method">
+      <target id="html">../output/Program_GetConnObject@String@Boolean.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_GetConnObject@String@Boolean.html</target>
+    </link>
+    <link topicid="Program.GetDateConn@String" displaystring="Program.GetDateConn Method">
+      <target id="html">../output/Program_GetDateConn@String.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_GetDateConn@String.html</target>
+    </link>
+    <link topicid="Program.GetIPbyTRM@String" displaystring="Program.GetIPbyTRM Method">
+      <target id="html">../output/Program_GetIPbyTRM@String.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_GetIPbyTRM@String.html</target>
+    </link>
+    <link topicid="Program.GetListClients" displaystring="Program.GetListClients Method">
+      <target id="html">../output/Program_GetListClients.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_GetListClients.html</target>
+    </link>
+    <link topicid="Program.IsIP@String" displaystring="Program.IsIP Method">
+      <target id="html">../output/Program_IsIP@String.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_IsIP@String.html</target>
+    </link>
+    <link topicid="Program.logLevel" displaystring="Program.logLevel Field">
+      <target id="html">../output/Program_logLevel.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_logLevel.html</target>
+    </link>
+    <link topicid="Program.Main" displaystring="Program.Main Method">
+      <target id="html">../output/Program_Main.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_Main.html</target>
+    </link>
+    <link topicid="Program.OnConnect@UserContext" displaystring="Program.OnConnect Method">
+      <target id="html">../output/Program_OnConnect@UserContext.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_OnConnect@UserContext.html</target>
+    </link>
+    <link topicid="Program.OnDisconnect@UserContext" displaystring="Program.OnDisconnect Method">
+      <target id="html">../output/Program_OnDisconnect@UserContext.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_OnDisconnect@UserContext.html</target>
+    </link>
+    <link topicid="Program.OnlineConnections" displaystring="Program.OnlineConnections Field">
+      <target id="html">../output/Program_OnlineConnections.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_OnlineConnections.html</target>
+    </link>
+    <link topicid="Program.OnReceive@UserContext" displaystring="Program.OnReceive Method">
+      <target id="html">../output/Program_OnReceive@UserContext.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_OnReceive@UserContext.html</target>
+    </link>
+    <link topicid="Program.OnSend@UserContext" displaystring="Program.OnSend Method">
+      <target id="html">../output/Program_OnSend@UserContext.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_OnSend@UserContext.html</target>
+    </link>
+    <link topicid="Program.phpHelperEvent@String@UserContext" displaystring="Program.phpHelperEvent Method">
+      <target id="html">../output/Program_phpHelperEvent@String@UserContext.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_phpHelperEvent@String@UserContext.html</target>
+    </link>
+    <link topicid="Program.pingtmrint" displaystring="Program.pingtmrint Field">
+      <target id="html">../output/Program_pingtmrint.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_pingtmrint.html</target>
+    </link>
+    <link topicid="Program.SendMsg@String@String" displaystring="Program.SendMsg Method">
+      <target id="html">../output/Program_SendMsg@String@String.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_SendMsg@String@String.html</target>
+    </link>
+    <link topicid="Program.SendMsg2All@String" displaystring="Program.SendMsg2All Method">
+      <target id="html">../output/Program_SendMsg2All@String.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_SendMsg2All@String.html</target>
+    </link>
+    <link topicid="Program.SendMsg2AllBut1@String@String" displaystring="Program.SendMsg2AllBut1 Method">
+      <target id="html">../output/Program_SendMsg2AllBut1@String@String.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_SendMsg2AllBut1@String@String.html</target>
+    </link>
+    <link topicid="Program.SendSrvMsg@String" displaystring="Program.SendSrvMsg Method">
+      <target id="html">../output/Program_SendSrvMsg@String.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_SendSrvMsg@String.html</target>
+    </link>
+    <link topicid="Program.ServerClosed" displaystring="Program.ServerClosed Field">
+      <target id="html">../output/Program_ServerClosed.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_ServerClosed.html</target>
+    </link>
+    <link topicid="Program.vb" displaystring="Program.vb">
+      <target id="html">../output/Program_vb.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_vb.html</target>
+    </link>
+    <link topicid="Program.wrLine@String@DisplayStyle" displaystring="Program.wrLine Method">
+      <target id="html">../output/Program_wrLine@String@DisplayStyle.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_wrLine@String@DisplayStyle.html</target>
+    </link>
+    <link topicid="Text" displaystring="Text">
+      <target id="html">../output/Program_DisplayStyle.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_DisplayStyle.html</target>
+    </link>
+    <link topicid="Title" displaystring="Title">
+      <target id="html">../output/Program_DisplayStyle.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/Program_DisplayStyle.html</target>
+    </link>
+    <link topicid="UnknownClient" displaystring="UnknownClient">
+      <target id="html">../output/User_UserTypes.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_UserTypes.html</target>
+    </link>
+    <link topicid="User" displaystring="User Class">
+      <target id="html">../output/User.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User.html</target>
+    </link>
+    <link topicid="User.Bets" displaystring="User.Bets Property">
+      <target id="html">../output/User_Bets.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_Bets.html</target>
+    </link>
+    <link topicid="User.Credit" displaystring="User.Credit Property">
+      <target id="html">../output/User_Credit.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_Credit.html</target>
+    </link>
+    <link topicid="User.IP" displaystring="User.IP Property">
+      <target id="html">../output/User_IP.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_IP.html</target>
+    </link>
+    <link topicid="User.IsLoggedIn" displaystring="User.IsLoggedIn Property">
+      <target id="html">../output/User_IsLoggedIn.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_IsLoggedIn.html</target>
+    </link>
+    <link topicid="User.IsOnline" displaystring="User.IsOnline Property">
+      <target id="html">../output/User_IsOnline.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_IsOnline.html</target>
+    </link>
+    <link topicid="User.New@Object" displaystring="User.New Constructor">
+      <target id="html">../output/User_New@Object.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_New@Object.html</target>
+    </link>
+    <link topicid="User.Port" displaystring="User.Port Property">
+      <target id="html">../output/User_Port.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_Port.html</target>
+    </link>
+    <link topicid="User.SocketObject" displaystring="User.SocketObject Property">
+      <target id="html">../output/User_SocketObject.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_SocketObject.html</target>
+    </link>
+    <link topicid="User.TRM" displaystring="User.TRM Property">
+      <target id="html">../output/User_TRM.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_TRM.html</target>
+    </link>
+    <link topicid="User.UserName" displaystring="User.UserName Property">
+      <target id="html">../output/User_UserName.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_UserName.html</target>
+    </link>
+    <link topicid="User.UserTypes" displaystring="User.UserTypes Enumeration">
+      <target id="html">../output/User_UserTypes.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_UserTypes.html</target>
+    </link>
+    <link topicid="User.WinValue" displaystring="User.WinValue Property">
+      <target id="html">../output/User_WinValue.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_WinValue.html</target>
+    </link>
+    <link topicid="User.wskGUID" displaystring="User.wskGUID Property">
+      <target id="html">../output/User_wskGUID.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_wskGUID.html</target>
+    </link>
+    <link topicid="UserCollection" displaystring="UserCollection Class">
+      <target id="html">../output/UserCollection.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/UserCollection.html</target>
+    </link>
+    <link topicid="UserCollection._Remove" displaystring="UserCollection._Remove Event">
+      <target id="html">../output/UserCollection__Remove.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/UserCollection__Remove.html</target>
+    </link>
+    <link topicid="UserCollection.Add@Object" displaystring="UserCollection.Add Method">
+      <target id="html">../output/UserCollection_Add@Object.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/UserCollection_Add@Object.html</target>
+    </link>
+    <link topicid="UserCollection.Clear@Object" displaystring="UserCollection.Clear Method">
+      <target id="html">../output/UserCollection_Clear@Object.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/UserCollection_Clear@Object.html</target>
+    </link>
+    <link topicid="UserCollection.FindUsr@String@Boolean" displaystring="UserCollection.FindUsr Method">
+      <target id="html">../output/UserCollection_FindUsr@String@Boolean.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/UserCollection_FindUsr@String@Boolean.html</target>
+    </link>
+    <link topicid="UserCollection.HasName@String" displaystring="UserCollection.HasName Method">
+      <target id="html">../output/UserCollection_HasName@String.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/UserCollection_HasName@String.html</target>
+    </link>
+    <link topicid="UserCollection.vb" displaystring="UserCollection.vb">
+      <target id="html">../output/UserCollection_vb.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/UserCollection_vb.html</target>
+    </link>
+    <link topicid="WebServer" displaystring="WebServer">
+      <target id="html">../output/User_UserTypes.html</target>
+      <target id="htmlhelp">mk:@MSITStore:Help.chm::/User_UserTypes.html</target>
+    </link>
+  </linkdatabase>
+  <classinformation>
+    <namespace name="My" language="3">
+      <namespace name="Resources" language="3">
+        <class name="Resources" language="3" type="9" using="System">
+          <field name="resourceCulture"></field>
+          <field name="resourceMan"></field>
+          <property name="Culture" info="Global.System.Globalization.CultureInfo"></property>
+          <property name="ResourceManager" info="Global.System.Resources.ResourceManager"></property>
+        </class>
+      </namespace>
+      <class name="MySettings" language="3" type="0" using="">
+        <ancestor name="Global.System.Configuration.ApplicationSettingsBase"></ancestor>
+        <field name="addedHandler"></field>
+        <field name="addedHandlerLockObject"></field>
+        <field name="defaultInstance"></field>
+        <property name="[Default]" info="MySettings"></property>
+        <property name="debugPhpFile" info="String"></property>
+        <property name="Port" info="Integer"></property>
+        <property name="PortHelper" info="Integer"></property>
+        <property name="Server" info="String"></property>
+        <method name="AutoSaveSettings"></method>
+      </class>
+      <class name="MySettingsProperty" language="3" type="9" using="">
+        <property name="Settings" info="Global.WebSocketServer.My.MySettings"></property>
+      </class>
+    </namespace>
+    <class name="Connection" language="3" type="0" using="Alchemy.Classes">
+      <field name="_bets"></field>
+      <field name="connectedTime"></field>
+      <field name="Context"></field>
+      <field name="cr"></field>
+      <field name="ID"></field>
+      <field name="logon"></field>
+      <field name="online"></field>
+      <field name="timer"></field>
+      <field name="TRM"></field>
+      <field name="win"></field>
+      <method name="Bets"></method>
+      <method name="CloseConnection"></method>
+      <method name="Connection"></method>
+      <method name="GetSummBets"></method>
+      <method name="New"></method>
+      <method name="NullBets"></method>
+    </class>
+    <class name="DataPacket" language="3" type="0" using="">
+      <field name="_command"></field>
+      <field name="_other"></field>
+      <property name="Arguments" info="String()"></property>
+      <property name="Command" info="String"></property>
+      <method name="New"></method>
+    </class>
+    <class name="LastNumbers" language="3" type="0" using="">
+      <field name="_allNums"></field>
+      <method name="Add"></method>
+      <method name="GetStr"></method>
+    </class>
+    <class name="Program" language="3" type="9" using="Alchemy.Classes,System.Collections.Concurrent,System.Threading.Thread,Winsock_Orcas">
+      <field name="_users"></field>
+      <field name="allNums"></field>
+      <field name="client"></field>
+      <field name="debugList"></field>
+      <field name="debugMode"></field>
+      <field name="debugPhpFile"></field>
+      <field name="donePing"></field>
+      <field name="fixstate"></field>
+      <field name="gamestate"></field>
+      <field name="logLevel"></field>
+      <field name="OnlineConnections"></field>
+      <field name="pingtmrint"></field>
+      <field name="ServerClosed"></field>
+      <method name="BuildDefDmode"></method>
+      <method name="CalculateWin"></method>
+      <method name="ChangeDmode"></method>
+      <method name="ChangeDmodeList"></method>
+      <method name="CheckIP"></method>
+      <method name="client_Connected"></method>
+      <method name="client_DataArrival"></method>
+      <method name="client_Disconnected"></method>
+      <method name="client_ErrorReceived"></method>
+      <method name="ConnectToServer"></method>
+      <method name="DisconnectFromServer"></method>
+      <method name="GetConnObject"></method>
+      <method name="GetDateConn"></method>
+      <method name="GetIPbyTRM"></method>
+      <method name="GetListClients"></method>
+      <method name="IsIP"></method>
+      <method name="Main"></method>
+      <method name="OnConnect"></method>
+      <method name="OnDisconnect"></method>
+      <method name="OnReceive"></method>
+      <method name="OnSend"></method>
+      <method name="phpHelperEvent"></method>
+      <method name="SendMsg"></method>
+      <method name="SendMsg2All"></method>
+      <method name="SendMsg2AllBut1"></method>
+      <method name="SendSrvMsg"></method>
+      <method name="wrLine"></method>
+      <class name="DebugModes"></class>
+      <class name="DisplayStyle"></class>
+    </class>
+    <class name="User" language="3" type="0" using="">
+      <field name="_bets"></field>
+      <field name="_credit"></field>
+      <field name="_IP"></field>
+      <field name="_loggedIn"></field>
+      <field name="_name"></field>
+      <field name="_online"></field>
+      <field name="_port"></field>
+      <field name="_socketObj"></field>
+      <field name="_TRM"></field>
+      <field name="_winValue"></field>
+      <field name="_wsk"></field>
+      <property name="Bets" info="String"></property>
+      <property name="Credit" info="Integer"></property>
+      <property name="IP" info="String"></property>
+      <property name="IsLoggedIn" info="Boolean"></property>
+      <property name="IsOnline" info="Boolean"></property>
+      <property name="Port" info="Integer"></property>
+      <property name="SocketObject" info="Connection"></property>
+      <property name="TRM" info="String"></property>
+      <property name="UserName" info="String"></property>
+      <property name="WinValue" info="Integer"></property>
+      <property name="wskGUID" info="Object"></property>
+      <method name="New"></method>
+      <class name="UserTypes"></class>
+    </class>
+    <class name="UserCollection" language="3" type="0" using="">
+      <ancestor name="Hashtable"></ancestor>
+      <property name="_Remove"></property>
+      <method name="Add"></method>
+      <method name="Clear"></method>
+      <method name="FindUsr"></method>
+      <method name="GenerateName"></method>
+      <method name="HasName"></method>
+    </class>
+  </classinformation>
+</projectdatabase>

@@ -1,0 +1,72 @@
+05.04.17 00:03:09 :: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:16666
+05.04.17 00:41:33 :: [192.168.0.100:64011] [] Sent
+05.04.17 00:41:33 :: [192.168.0.100:64011] Data Received => deflate; client_max_window_bits
+
+��b��1��E
+05.04.17 00:41:33 :: [192.168.0.100:64011] Data Received => deflate; client_max_window_bits
+
+��b��1��E
+05.04.17 01:04:11 :: Client Disconnected : 192.168.0.100:64011
+05.04.17 01:17:04 :: [192.168.0.100:52296] Data Received => deflate; client_max_window_bits
+
+6669
+Conn
+05.04.17 01:17:04 :: [192.168.0.100:52296] Data Received => deflate; client_max_window_bits
+
+6669
+Conn
+05.04.17 01:17:04 :: [192.168.0.100:52296] Data Received => deflate; client_max_window_bits
+
+6669
+Conn
+05.04.17 01:17:04 :: [192.168.0.100:52296] [deflate; client_max_window_bits
+
+6669
+Conn] Sent
+05.04.17 01:17:04 :: [192.168.0.100:52296] [deflate; client_max_window_bits
+
+6669
+Conn] Sent
+05.04.17 01:17:04 :: [192.168.0.100:52296] [deflate; client_max_window_bits
+
+6669
+Conn] Sent
+05.04.17 01:17:04 :: [192.168.0.100:52296] Data Received => init of0001
+05.04.17 01:17:04 :: [192.168.0.100] Send data [server_down]
+05.04.17 01:17:04 :: [192.168.0.100:52296] [init of0001] Sent
+05.04.17 01:17:09 :: Client Disconnected : 192.168.0.100:52296
+05.04.17 01:17:32 :: [192.168.0.100:52365] Data Received => deflate; client_max_window_bits
+
+6669
+Conn
+05.04.17 01:17:32 :: [192.168.0.100:52365] Data Received => deflate; client_max_window_bits
+
+6669
+Conn
+05.04.17 01:17:32 :: [192.168.0.100:52365] Data Received => deflate; client_max_window_bits
+
+6669
+Conn
+05.04.17 01:17:32 :: [192.168.0.100:52365] Data Received => init of0001
+05.04.17 01:17:32 :: [192.168.0.100] Send data [server_down]
+05.04.17 01:17:32 :: [192.168.0.100:52365] [init of0001] Sent
+05.04.17 01:18:13 :: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:16666
+05.04.17 01:18:25 :: Client Disconnected : 192.168.0.100:52365
+05.04.17 01:18:26 :: [192.168.0.100:52483] [] Sent
+05.04.17 01:18:26 :: [192.168.0.100:52483] Data Received => deflate; client_max_window_bits
+
+��F��*/�^
+05.04.17 01:18:26 :: [192.168.0.100:52483] Data Received => deflate; client_max_window_bits
+
+��F��*/�^
+05.04.17 01:19:30 :: Client Disconnected : 192.168.0.100:52483
+05.04.17 08:41:24 :: [192.168.0.101:50261] [] Sent
+05.04.17 08:41:25 :: [192.168.0.101:50261] Data Received => init of0001
+05.04.17 08:41:25 :: [192.168.0.101] Send data [server_down]
+05.04.17 08:41:25 :: [192.168.0.101:50261] [init of0001] Sent
+05.04.17 08:41:43 :: Client Disconnected : 192.168.0.101:50261
+05.04.17 08:42:11 :: [192.168.0.101:50283] [] Sent
+05.04.17 08:42:11 :: [192.168.0.101:50283] Data Received => init of0001
+05.04.17 08:42:11 :: [192.168.0.101] Send data [server_down]
+05.04.17 08:42:11 :: [192.168.0.101:50283] [init of0001] Sent
+05.04.17 08:44:21 :: Client Disconnected : 192.168.0.101:50283

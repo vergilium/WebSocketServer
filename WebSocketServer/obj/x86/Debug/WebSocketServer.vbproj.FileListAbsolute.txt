@@ -1,0 +1,10 @@
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Debug\WebSocketServer.exe
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Debug\WebSocketServer.pdb
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Debug\WebSocketServer.xml
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Debug\WebSocketServer.Resources.resources
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Debug\WebSocketServer.exe
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Debug\WebSocketServer.xml
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Debug\WebSocketServer.pdb

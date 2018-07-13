@@ -1,0 +1,1589 @@
+10.07.18 00:00:15 :: Send data [number 12] to all clients
+10.07.18 00:00:23 :: Send data [endisp] to all clients
+10.07.18 00:01:21 :: Send data [disdisp] to all clients
+10.07.18 00:01:56 :: Send data [number 22] to all clients
+10.07.18 00:02:05 :: Send data [endisp] to all clients
+10.07.18 00:02:29 :: Send data [disdisp] to all clients
+10.07.18 00:03:05 :: Send data [number 35] to all clients
+10.07.18 00:03:12 :: Send data [endisp] to all clients
+10.07.18 00:03:35 :: Send data [disdisp] to all clients
+10.07.18 00:04:13 :: Send data [number 18] to all clients
+10.07.18 00:04:21 :: Send data [endisp] to all clients
+10.07.18 00:04:45 :: Send data [disdisp] to all clients
+10.07.18 00:05:22 :: Send data [number 4] to all clients
+10.07.18 00:05:30 :: Send data [endisp] to all clients
+10.07.18 00:05:54 :: Send data [disdisp] to all clients
+10.07.18 00:06:28 :: Send data [number 6] to all clients
+10.07.18 00:06:35 :: Send data [endisp] to all clients
+10.07.18 00:07:00 :: Send data [disdisp] to all clients
+10.07.18 00:07:34 :: Send data [number 33] to all clients
+10.07.18 00:07:42 :: Send data [endisp] to all clients
+10.07.18 00:08:05 :: Send data [disdisp] to all clients
+10.07.18 00:08:42 :: Send data [number 3] to all clients
+10.07.18 00:08:49 :: Send data [endisp] to all clients
+10.07.18 00:09:14 :: Send data [disdisp] to all clients
+10.07.18 00:09:47 :: Send data [number 2] to all clients
+10.07.18 00:09:54 :: Send data [endisp] to all clients
+10.07.18 00:10:52 :: Send data [disdisp] to all clients
+10.07.18 00:11:23 :: Send data [number 30] to all clients
+10.07.18 00:11:31 :: Send data [endisp] to all clients
+10.07.18 00:11:56 :: Send data [disdisp] to all clients
+10.07.18 00:12:29 :: Send data [number 7] to all clients
+10.07.18 00:12:37 :: Send data [endisp] to all clients
+10.07.18 00:13:02 :: Send data [disdisp] to all clients
+10.07.18 00:13:39 :: Send data [number 22] to all clients
+10.07.18 00:13:47 :: Send data [endisp] to all clients
+10.07.18 00:14:11 :: Send data [disdisp] to all clients
+10.07.18 00:14:49 :: Send data [number 23] to all clients
+10.07.18 00:14:57 :: Send data [endisp] to all clients
+10.07.18 00:15:21 :: Send data [disdisp] to all clients
+10.07.18 00:15:56 :: Send data [number 32] to all clients
+10.07.18 00:16:04 :: Send data [endisp] to all clients
+10.07.18 00:16:30 :: Send data [disdisp] to all clients
+10.07.18 00:17:06 :: Send data [number 11] to all clients
+10.07.18 00:17:14 :: Send data [endisp] to all clients
+10.07.18 00:17:40 :: Send data [disdisp] to all clients
+10.07.18 00:18:12 :: Send data [number 18] to all clients
+10.07.18 00:18:20 :: Send data [endisp] to all clients
+10.07.18 00:18:44 :: Send data [disdisp] to all clients
+10.07.18 00:19:20 :: Send data [number 31] to all clients
+10.07.18 00:19:28 :: Send data [endisp] to all clients
+10.07.18 00:19:53 :: Send data [disdisp] to all clients
+10.07.18 00:20:25 :: Send data [number 23] to all clients
+10.07.18 00:20:33 :: Send data [endisp] to all clients
+10.07.18 00:20:57 :: Send data [disdisp] to all clients
+10.07.18 00:21:36 :: Send data [number 17] to all clients
+10.07.18 00:21:44 :: Send data [endisp] to all clients
+10.07.18 00:22:09 :: Send data [disdisp] to all clients
+10.07.18 00:22:42 :: Send data [number 26] to all clients
+10.07.18 00:22:50 :: Send data [endisp] to all clients
+10.07.18 00:23:13 :: Send data [disdisp] to all clients
+10.07.18 00:23:53 :: Send data [number 36] to all clients
+10.07.18 00:24:01 :: Send data [endisp] to all clients
+10.07.18 00:24:24 :: Send data [disdisp] to all clients
+10.07.18 00:25:01 :: Send data [number 17] to all clients
+10.07.18 00:25:10 :: Send data [endisp] to all clients
+10.07.18 00:26:03 :: Send data [disdisp] to all clients
+10.07.18 00:26:37 :: Send data [number 10] to all clients
+10.07.18 00:26:44 :: Send data [endisp] to all clients
+10.07.18 00:27:09 :: Send data [disdisp] to all clients
+10.07.18 00:27:43 :: Send data [number 20] to all clients
+10.07.18 00:27:51 :: Send data [endisp] to all clients
+10.07.18 00:28:15 :: Send data [disdisp] to all clients
+10.07.18 00:28:52 :: Send data [number 35] to all clients
+10.07.18 00:28:59 :: Send data [endisp] to all clients
+10.07.18 00:29:23 :: Send data [disdisp] to all clients
+10.07.18 00:29:57 :: Send data [number 27] to all clients
+10.07.18 00:30:04 :: Send data [endisp] to all clients
+10.07.18 00:30:28 :: Send data [disdisp] to all clients
+10.07.18 00:31:04 :: Send data [number 22] to all clients
+10.07.18 00:31:12 :: Send data [endisp] to all clients
+10.07.18 00:31:36 :: Send data [disdisp] to all clients
+10.07.18 00:32:13 :: Send data [number 6] to all clients
+10.07.18 00:32:13 :: Send data [endisp] to all clients
+10.07.18 00:35:41 :: Send data [disdisp] to all clients
+10.07.18 00:36:16 :: Send data [number 16] to all clients
+10.07.18 00:39:42 :: Send data [disdisp] to all clients
+10.07.18 00:40:19 :: Send data [number 33] to all clients
+10.07.18 00:40:19 :: Send data [endisp] to all clients
+10.07.18 00:43:45 :: Send data [disdisp] to all clients
+10.07.18 00:44:18 :: Send data [number 7] to all clients
+10.07.18 00:44:19 :: Send data [endisp] to all clients
+10.07.18 00:47:45 :: Send data [disdisp] to all clients
+10.07.18 00:48:23 :: Send data [number 13] to all clients
+10.07.18 00:48:23 :: Send data [endisp] to all clients
+10.07.18 00:51:49 :: Send data [disdisp] to all clients
+10.07.18 00:52:27 :: Send data [number 6] to all clients
+10.07.18 00:52:28 :: Send data [endisp] to all clients
+10.07.18 00:55:53 :: Send data [disdisp] to all clients
+10.07.18 00:56:33 :: Send data [number 26] to all clients
+10.07.18 00:56:33 :: Send data [endisp] to all clients
+10.07.18 00:59:59 :: Send data [disdisp] to all clients
+10.07.18 01:03:58 :: Send data [disdisp] to all clients
+10.07.18 01:04:35 :: Send data [number 26] to all clients
+10.07.18 01:04:36 :: Send data [endisp] to all clients
+10.07.18 01:08:02 :: Send data [disdisp] to all clients
+10.07.18 01:08:35 :: Send data [number 11] to all clients
+10.07.18 01:08:36 :: Send data [endisp] to all clients
+10.07.18 01:12:02 :: Send data [disdisp] to all clients
+10.07.18 01:12:35 :: Send data [number 36] to all clients
+10.07.18 01:12:36 :: Send data [endisp] to all clients
+10.07.18 01:16:02 :: Send data [disdisp] to all clients
+10.07.18 01:16:37 :: Send data [number 30] to all clients
+10.07.18 01:16:37 :: Send data [endisp] to all clients
+10.07.18 01:20:03 :: Send data [disdisp] to all clients
+10.07.18 01:20:40 :: Send data [number 22] to all clients
+10.07.18 01:20:40 :: Send data [endisp] to all clients
+10.07.18 01:24:06 :: Send data [disdisp] to all clients
+10.07.18 01:24:44 :: Send data [number 12] to all clients
+10.07.18 01:24:44 :: Send data [endisp] to all clients
+10.07.18 01:28:09 :: Send data [disdisp] to all clients
+10.07.18 01:28:43 :: Send data [number 2] to all clients
+10.07.18 01:28:43 :: Send data [endisp] to all clients
+10.07.18 01:32:10 :: Send data [disdisp] to all clients
+10.07.18 01:32:49 :: Send data [number 36] to all clients
+10.07.18 01:32:49 :: Send data [endisp] to all clients
+10.07.18 01:36:14 :: Send data [disdisp] to all clients
+10.07.18 01:36:48 :: Send data [number 15] to all clients
+10.07.18 01:36:49 :: Send data [endisp] to all clients
+10.07.18 01:40:15 :: Send data [disdisp] to all clients
+10.07.18 01:40:48 :: Send data [number 2] to all clients
+10.07.18 01:40:49 :: Send data [endisp] to all clients
+10.07.18 01:44:16 :: Send data [disdisp] to all clients
+10.07.18 01:44:59 :: Send data [number 3] to all clients
+10.07.18 01:44:59 :: Send data [endisp] to all clients
+10.07.18 01:48:25 :: Send data [disdisp] to all clients
+10.07.18 01:48:59 :: Send data [number 20] to all clients
+10.07.18 01:48:59 :: Send data [endisp] to all clients
+10.07.18 01:52:27 :: Send data [disdisp] to all clients
+10.07.18 01:53:00 :: Send data [number 27] to all clients
+10.07.18 01:53:00 :: Send data [endisp] to all clients
+10.07.18 01:56:26 :: Send data [disdisp] to all clients
+10.07.18 01:56:59 :: Send data [number 2] to all clients
+10.07.18 01:56:59 :: Send data [endisp] to all clients
+10.07.18 02:00:25 :: Send data [disdisp] to all clients
+10.07.18 02:01:00 :: Send data [number 33] to all clients
+10.07.18 02:01:00 :: Send data [endisp] to all clients
+10.07.18 02:04:24 :: Send data [disdisp] to all clients
+10.07.18 02:05:02 :: Send data [number 8] to all clients
+10.07.18 02:05:02 :: Send data [endisp] to all clients
+10.07.18 02:08:29 :: Send data [disdisp] to all clients
+10.07.18 02:09:04 :: Send data [number 0] to all clients
+10.07.18 02:09:05 :: Send data [endisp] to all clients
+10.07.18 02:12:29 :: Send data [disdisp] to all clients
+10.07.18 02:13:10 :: Send data [number 20] to all clients
+10.07.18 02:13:11 :: Send data [endisp] to all clients
+10.07.18 02:16:37 :: Send data [disdisp] to all clients
+10.07.18 02:17:10 :: Send data [number 4] to all clients
+10.07.18 02:17:10 :: Send data [endisp] to all clients
+10.07.18 02:20:36 :: Send data [disdisp] to all clients
+10.07.18 02:21:13 :: Send data [number 26] to all clients
+10.07.18 02:21:13 :: Send data [endisp] to all clients
+10.07.18 02:24:41 :: Send data [disdisp] to all clients
+10.07.18 02:25:15 :: Send data [number 1] to all clients
+10.07.18 02:25:15 :: Send data [endisp] to all clients
+10.07.18 02:28:41 :: Send data [disdisp] to all clients
+10.07.18 02:29:15 :: Send data [number 32] to all clients
+10.07.18 02:29:15 :: Send data [endisp] to all clients
+10.07.18 02:32:42 :: Send data [disdisp] to all clients
+10.07.18 02:33:14 :: Send data [number 35] to all clients
+10.07.18 02:33:14 :: Send data [endisp] to all clients
+10.07.18 02:36:41 :: Send data [disdisp] to all clients
+10.07.18 02:37:13 :: Send data [number 11] to all clients
+10.07.18 02:37:13 :: Send data [endisp] to all clients
+10.07.18 02:40:40 :: Send data [disdisp] to all clients
+10.07.18 02:41:12 :: Send data [number 29] to all clients
+10.07.18 02:41:13 :: Send data [endisp] to all clients
+10.07.18 02:44:38 :: Send data [disdisp] to all clients
+10.07.18 02:45:15 :: Send data [number 21] to all clients
+10.07.18 02:45:15 :: Send data [endisp] to all clients
+10.07.18 02:48:42 :: Send data [disdisp] to all clients
+10.07.18 02:49:17 :: Send data [number 18] to all clients
+10.07.18 02:49:18 :: Send data [endisp] to all clients
+10.07.18 02:52:44 :: Send data [disdisp] to all clients
+10.07.18 02:53:18 :: Send data [number 19] to all clients
+10.07.18 02:53:18 :: Send data [endisp] to all clients
+10.07.18 02:56:46 :: Send data [disdisp] to all clients
+10.07.18 02:57:18 :: Send data [number 26] to all clients
+10.07.18 02:57:18 :: Send data [endisp] to all clients
+10.07.18 03:00:45 :: Send data [disdisp] to all clients
+10.07.18 03:01:19 :: Send data [number 29] to all clients
+10.07.18 03:01:19 :: Send data [endisp] to all clients
+10.07.18 03:04:43 :: Send data [disdisp] to all clients
+10.07.18 03:05:18 :: Send data [number 30] to all clients
+10.07.18 03:05:18 :: Send data [endisp] to all clients
+10.07.18 03:08:45 :: Send data [disdisp] to all clients
+10.07.18 03:09:17 :: Send data [number 30] to all clients
+10.07.18 03:09:18 :: Send data [endisp] to all clients
+10.07.18 03:12:44 :: Send data [disdisp] to all clients
+10.07.18 03:13:18 :: Send data [number 24] to all clients
+10.07.18 03:13:18 :: Send data [endisp] to all clients
+10.07.18 03:16:45 :: Send data [disdisp] to all clients
+10.07.18 03:17:17 :: Send data [number 27] to all clients
+10.07.18 03:17:17 :: Send data [endisp] to all clients
+10.07.18 03:20:44 :: Send data [disdisp] to all clients
+10.07.18 03:21:20 :: Send data [number 0] to all clients
+10.07.18 03:21:20 :: Send data [endisp] to all clients
+10.07.18 03:24:45 :: Send data [disdisp] to all clients
+10.07.18 03:25:21 :: Send data [number 17] to all clients
+10.07.18 03:25:21 :: Send data [endisp] to all clients
+10.07.18 03:28:46 :: Send data [disdisp] to all clients
+10.07.18 03:29:22 :: Send data [number 1] to all clients
+10.07.18 03:29:22 :: Send data [endisp] to all clients
+10.07.18 03:32:49 :: Send data [disdisp] to all clients
+10.07.18 03:33:20 :: Send data [number 7] to all clients
+10.07.18 03:33:20 :: Send data [endisp] to all clients
+10.07.18 03:36:45 :: Send data [disdisp] to all clients
+10.07.18 03:37:23 :: Send data [number 35] to all clients
+10.07.18 03:37:23 :: Send data [endisp] to all clients
+10.07.18 03:40:49 :: Send data [disdisp] to all clients
+10.07.18 03:41:21 :: Send data [number 35] to all clients
+10.07.18 03:41:21 :: Send data [endisp] to all clients
+10.07.18 03:44:48 :: Send data [disdisp] to all clients
+10.07.18 03:45:21 :: Send data [number 7] to all clients
+10.07.18 03:45:21 :: Send data [endisp] to all clients
+10.07.18 03:48:46 :: Send data [disdisp] to all clients
+10.07.18 03:49:25 :: Send data [number 35] to all clients
+10.07.18 03:49:25 :: Send data [endisp] to all clients
+10.07.18 03:52:52 :: Send data [disdisp] to all clients
+10.07.18 03:53:28 :: Send data [number 0] to all clients
+10.07.18 03:53:28 :: Send data [endisp] to all clients
+10.07.18 03:56:55 :: Send data [disdisp] to all clients
+10.07.18 03:57:29 :: Send data [number 4] to all clients
+10.07.18 03:57:30 :: Send data [endisp] to all clients
+10.07.18 04:00:55 :: Send data [disdisp] to all clients
+10.07.18 04:01:31 :: Send data [number 11] to all clients
+10.07.18 04:01:31 :: Send data [endisp] to all clients
+10.07.18 04:04:58 :: Send data [disdisp] to all clients
+10.07.18 04:05:30 :: Send data [number 34] to all clients
+10.07.18 04:05:31 :: Send data [endisp] to all clients
+10.07.18 04:08:57 :: Send data [disdisp] to all clients
+10.07.18 04:09:32 :: Send data [number 14] to all clients
+10.07.18 04:09:32 :: Send data [endisp] to all clients
+10.07.18 04:12:59 :: Send data [disdisp] to all clients
+10.07.18 04:13:34 :: Send data [number 26] to all clients
+10.07.18 04:13:34 :: Send data [endisp] to all clients
+10.07.18 04:17:01 :: Send data [disdisp] to all clients
+10.07.18 04:17:33 :: Send data [number 23] to all clients
+10.07.18 04:17:33 :: Send data [endisp] to all clients
+10.07.18 04:20:58 :: Send data [disdisp] to all clients
+10.07.18 04:21:36 :: Send data [number 29] to all clients
+10.07.18 04:21:36 :: Send data [endisp] to all clients
+10.07.18 04:25:03 :: Send data [disdisp] to all clients
+10.07.18 04:25:36 :: Send data [number 4] to all clients
+10.07.18 04:25:36 :: Send data [endisp] to all clients
+10.07.18 04:29:04 :: Send data [disdisp] to all clients
+10.07.18 04:29:35 :: Send data [number 13] to all clients
+10.07.18 04:29:35 :: Send data [endisp] to all clients
+10.07.18 04:33:00 :: Send data [disdisp] to all clients
+10.07.18 04:33:35 :: Send data [number 5] to all clients
+10.07.18 04:33:35 :: Send data [endisp] to all clients
+10.07.18 04:37:03 :: Send data [disdisp] to all clients
+10.07.18 04:37:37 :: Send data [number 11] to all clients
+10.07.18 04:37:37 :: Send data [endisp] to all clients
+10.07.18 04:41:02 :: Send data [disdisp] to all clients
+10.07.18 04:41:39 :: Send data [number 23] to all clients
+10.07.18 04:41:39 :: Send data [endisp] to all clients
+10.07.18 04:45:06 :: Send data [disdisp] to all clients
+10.07.18 04:45:37 :: Send data [number 12] to all clients
+10.07.18 04:45:37 :: Send data [endisp] to all clients
+10.07.18 04:49:04 :: Send data [disdisp] to all clients
+10.07.18 04:49:38 :: Send data [number 14] to all clients
+10.07.18 04:49:38 :: Send data [endisp] to all clients
+10.07.18 04:53:05 :: Send data [disdisp] to all clients
+10.07.18 04:53:56 :: Send data [number 22] to all clients
+10.07.18 04:53:57 :: Send data [endisp] to all clients
+10.07.18 04:57:24 :: Send data [disdisp] to all clients
+10.07.18 04:57:56 :: Send data [number 28] to all clients
+10.07.18 04:57:57 :: Send data [endisp] to all clients
+10.07.18 05:01:22 :: Send data [disdisp] to all clients
+10.07.18 05:01:59 :: Send data [number 4] to all clients
+10.07.18 05:01:59 :: Send data [endisp] to all clients
+10.07.18 05:05:25 :: Send data [disdisp] to all clients
+10.07.18 05:06:02 :: Send data [number 24] to all clients
+10.07.18 05:06:02 :: Send data [endisp] to all clients
+10.07.18 05:09:28 :: Send data [disdisp] to all clients
+10.07.18 05:09:59 :: Send data [number 18] to all clients
+10.07.18 05:09:59 :: Send data [endisp] to all clients
+10.07.18 05:13:25 :: Send data [disdisp] to all clients
+10.07.18 05:14:03 :: Send data [number 21] to all clients
+10.07.18 05:14:03 :: Send data [endisp] to all clients
+10.07.18 05:17:26 :: Send data [disdisp] to all clients
+10.07.18 05:18:04 :: Send data [number 3] to all clients
+10.07.18 05:18:04 :: Send data [endisp] to all clients
+10.07.18 05:21:28 :: Send data [disdisp] to all clients
+10.07.18 05:22:03 :: Send data [number 11] to all clients
+10.07.18 05:22:04 :: Send data [endisp] to all clients
+10.07.18 05:25:30 :: Send data [disdisp] to all clients
+10.07.18 05:26:07 :: Send data [number 19] to all clients
+10.07.18 05:26:07 :: Send data [endisp] to all clients
+10.07.18 05:29:32 :: Send data [disdisp] to all clients
+10.07.18 05:30:06 :: Send data [number 25] to all clients
+10.07.18 05:30:07 :: Send data [endisp] to all clients
+10.07.18 05:33:30 :: Send data [disdisp] to all clients
+10.07.18 05:34:07 :: Send data [number 17] to all clients
+10.07.18 05:34:07 :: Send data [endisp] to all clients
+10.07.18 05:37:34 :: Send data [disdisp] to all clients
+10.07.18 05:38:07 :: Send data [number 7] to all clients
+10.07.18 05:38:07 :: Send data [endisp] to all clients
+10.07.18 05:41:34 :: Send data [disdisp] to all clients
+10.07.18 05:42:07 :: Send data [number 23] to all clients
+10.07.18 05:42:07 :: Send data [endisp] to all clients
+10.07.18 05:45:33 :: Send data [disdisp] to all clients
+10.07.18 05:46:07 :: Send data [number 31] to all clients
+10.07.18 05:46:07 :: Send data [endisp] to all clients
+10.07.18 05:49:30 :: Send data [disdisp] to all clients
+10.07.18 05:50:07 :: Send data [number 30] to all clients
+10.07.18 05:50:07 :: Send data [endisp] to all clients
+10.07.18 05:53:34 :: Send data [disdisp] to all clients
+10.07.18 05:54:07 :: Send data [number 13] to all clients
+10.07.18 05:54:07 :: Send data [endisp] to all clients
+10.07.18 05:57:32 :: Send data [disdisp] to all clients
+10.07.18 05:58:10 :: Send data [number 7] to all clients
+10.07.18 05:58:11 :: Send data [endisp] to all clients
+10.07.18 06:01:37 :: Send data [disdisp] to all clients
+10.07.18 06:02:10 :: Send data [number 25] to all clients
+10.07.18 06:02:10 :: Send data [endisp] to all clients
+10.07.18 06:05:36 :: Send data [disdisp] to all clients
+10.07.18 06:06:14 :: Send data [number 17] to all clients
+10.07.18 06:06:15 :: Send data [endisp] to all clients
+10.07.18 06:09:40 :: Send data [disdisp] to all clients
+10.07.18 06:10:17 :: Send data [number 13] to all clients
+10.07.18 06:10:17 :: Send data [endisp] to all clients
+10.07.18 06:13:42 :: Send data [disdisp] to all clients
+10.07.18 06:14:23 :: Send data [number 1] to all clients
+10.07.18 06:14:23 :: Send data [endisp] to all clients
+10.07.18 06:17:49 :: Send data [disdisp] to all clients
+10.07.18 06:18:27 :: Send data [number 8] to all clients
+10.07.18 06:18:27 :: Send data [endisp] to all clients
+10.07.18 06:21:54 :: Send data [disdisp] to all clients
+10.07.18 06:22:25 :: Send data [number 31] to all clients
+10.07.18 06:22:25 :: Send data [endisp] to all clients
+10.07.18 06:25:50 :: Send data [disdisp] to all clients
+10.07.18 06:26:27 :: Send data [number 30] to all clients
+10.07.18 06:26:27 :: Send data [endisp] to all clients
+10.07.18 06:29:52 :: Send data [disdisp] to all clients
+10.07.18 06:30:30 :: Send data [number 16] to all clients
+10.07.18 06:30:30 :: Send data [endisp] to all clients
+10.07.18 06:33:56 :: Send data [disdisp] to all clients
+10.07.18 06:34:31 :: Send data [number 19] to all clients
+10.07.18 06:34:31 :: Send data [endisp] to all clients
+10.07.18 06:37:56 :: Send data [disdisp] to all clients
+10.07.18 06:38:34 :: Send data [number 18] to all clients
+10.07.18 06:38:34 :: Send data [endisp] to all clients
+10.07.18 06:41:59 :: Send data [disdisp] to all clients
+10.07.18 06:42:36 :: Send data [number 2] to all clients
+10.07.18 06:42:36 :: Send data [endisp] to all clients
+10.07.18 06:46:02 :: Send data [disdisp] to all clients
+10.07.18 06:46:37 :: Send data [number 32] to all clients
+10.07.18 06:46:37 :: Send data [endisp] to all clients
+10.07.18 06:50:02 :: Send data [disdisp] to all clients
+10.07.18 06:50:35 :: Send data [number 19] to all clients
+10.07.18 06:50:35 :: Send data [endisp] to all clients
+10.07.18 06:53:59 :: Send data [disdisp] to all clients
+10.07.18 06:54:37 :: Send data [number 27] to all clients
+10.07.18 06:54:37 :: Send data [endisp] to all clients
+10.07.18 06:58:01 :: Send data [disdisp] to all clients
+10.07.18 06:58:38 :: Send data [number 35] to all clients
+10.07.18 06:58:39 :: Send data [endisp] to all clients
+10.07.18 07:02:04 :: Send data [disdisp] to all clients
+10.07.18 07:02:41 :: Send data [number 33] to all clients
+10.07.18 07:02:41 :: Send data [endisp] to all clients
+10.07.18 07:06:07 :: Send data [disdisp] to all clients
+10.07.18 07:06:40 :: Send data [number 11] to all clients
+10.07.18 07:06:40 :: Send data [endisp] to all clients
+10.07.18 07:10:05 :: Send data [disdisp] to all clients
+10.07.18 07:10:46 :: Send data [number 10] to all clients
+10.07.18 07:10:46 :: Send data [endisp] to all clients
+10.07.18 07:14:13 :: Send data [disdisp] to all clients
+10.07.18 07:14:49 :: Send data [number 23] to all clients
+10.07.18 07:14:49 :: Send data [endisp] to all clients
+10.07.18 07:18:16 :: Send data [disdisp] to all clients
+10.07.18 07:18:52 :: Send data [number 31] to all clients
+10.07.18 07:22:19 :: Send data [disdisp] to all clients
+10.07.18 07:22:52 :: Send data [number 26] to all clients
+10.07.18 07:22:52 :: Send data [endisp] to all clients
+10.07.18 07:26:17 :: Send data [disdisp] to all clients
+10.07.18 07:26:55 :: Send data [number 11] to all clients
+10.07.18 07:26:56 :: Send data [endisp] to all clients
+10.07.18 07:30:21 :: Send data [disdisp] to all clients
+10.07.18 07:30:53 :: Send data [number 15] to all clients
+10.07.18 07:30:54 :: Send data [endisp] to all clients
+10.07.18 07:34:22 :: Send data [disdisp] to all clients
+10.07.18 07:34:57 :: Send data [number 24] to all clients
+10.07.18 07:34:58 :: Send data [endisp] to all clients
+10.07.18 12:08:42 :: Send data [disdisp] to all clients
+10.07.18 12:09:13 :: Send data [number 26] to all clients
+10.07.18 12:09:13 :: Send data [endisp] to all clients
+10.07.18 12:12:38 :: Send data [disdisp] to all clients
+10.07.18 12:13:13 :: Send data [number 1] to all clients
+10.07.18 12:13:13 :: Send data [endisp] to all clients
+10.07.18 12:16:38 :: Send data [disdisp] to all clients
+10.07.18 12:17:10 :: Send data [number 34] to all clients
+10.07.18 12:17:10 :: Send data [endisp] to all clients
+10.07.18 12:20:35 :: Send data [disdisp] to all clients
+10.07.18 12:21:11 :: Send data [number 25] to all clients
+10.07.18 12:21:12 :: Send data [endisp] to all clients
+10.07.18 12:24:38 :: Send data [disdisp] to all clients
+10.07.18 12:25:12 :: Send data [number 17] to all clients
+10.07.18 12:25:12 :: Send data [endisp] to all clients
+10.07.18 12:28:39 :: Send data [disdisp] to all clients
+10.07.18 12:29:13 :: Send data [number 17] to all clients
+10.07.18 12:29:13 :: Send data [endisp] to all clients
+10.07.18 12:32:38 :: Send data [disdisp] to all clients
+10.07.18 12:33:13 :: Send data [number 16] to all clients
+10.07.18 12:33:14 :: Send data [endisp] to all clients
+10.07.18 12:36:40 :: Send data [disdisp] to all clients
+10.07.18 12:37:14 :: Send data [number 34] to all clients
+10.07.18 12:37:14 :: Send data [endisp] to all clients
+10.07.18 12:40:41 :: Send data [disdisp] to all clients
+10.07.18 12:41:19 :: Send data [number 2] to all clients
+10.07.18 12:41:19 :: Send data [endisp] to all clients
+10.07.18 12:44:45 :: Send data [disdisp] to all clients
+10.07.18 12:45:18 :: Send data [number 30] to all clients
+10.07.18 12:45:18 :: Send data [endisp] to all clients
+10.07.18 12:48:46 :: Send data [disdisp] to all clients
+10.07.18 12:49:21 :: Send data [number 20] to all clients
+10.07.18 12:49:21 :: Send data [endisp] to all clients
+10.07.18 12:52:47 :: Send data [disdisp] to all clients
+10.07.18 12:53:22 :: Send data [number 30] to all clients
+10.07.18 12:53:22 :: Send data [endisp] to all clients
+10.07.18 12:56:47 :: Send data [disdisp] to all clients
+10.07.18 12:57:24 :: Send data [number 32] to all clients
+10.07.18 12:57:25 :: Send data [endisp] to all clients
+10.07.18 13:00:50 :: Send data [disdisp] to all clients
+10.07.18 13:01:26 :: Send data [number 33] to all clients
+10.07.18 13:01:27 :: Send data [endisp] to all clients
+10.07.18 13:04:53 :: Send data [disdisp] to all clients
+10.07.18 13:05:26 :: Send data [number 24] to all clients
+10.07.18 13:05:27 :: Send data [endisp] to all clients
+10.07.18 13:08:53 :: Send data [disdisp] to all clients
+10.07.18 13:09:29 :: Send data [number 5] to all clients
+10.07.18 13:09:29 :: Send data [endisp] to all clients
+10.07.18 13:12:54 :: Send data [disdisp] to all clients
+10.07.18 13:13:31 :: Send data [number 9] to all clients
+10.07.18 13:13:31 :: Send data [endisp] to all clients
+10.07.18 13:16:57 :: Send data [disdisp] to all clients
+10.07.18 13:17:35 :: Send data [number 32] to all clients
+10.07.18 13:17:35 :: Send data [endisp] to all clients
+10.07.18 13:21:02 :: Send data [disdisp] to all clients
+10.07.18 13:21:35 :: Send data [number 0] to all clients
+10.07.18 13:21:35 :: Send data [endisp] to all clients
+10.07.18 13:25:01 :: Send data [disdisp] to all clients
+10.07.18 13:25:37 :: Send data [number 34] to all clients
+10.07.18 13:25:37 :: Send data [endisp] to all clients
+10.07.18 13:29:02 :: Send data [disdisp] to all clients
+10.07.18 13:29:37 :: Send data [number 6] to all clients
+10.07.18 13:29:38 :: Send data [endisp] to all clients
+10.07.18 13:33:03 :: Send data [disdisp] to all clients
+10.07.18 13:33:39 :: Send data [number 33] to all clients
+10.07.18 13:33:39 :: Send data [endisp] to all clients
+10.07.18 13:37:05 :: Send data [disdisp] to all clients
+10.07.18 13:37:40 :: Send data [number 15] to all clients
+10.07.18 13:37:40 :: Send data [endisp] to all clients
+10.07.18 13:41:04 :: Send data [disdisp] to all clients
+10.07.18 13:41:42 :: Send data [number 27] to all clients
+10.07.18 13:41:42 :: Send data [endisp] to all clients
+10.07.18 13:45:08 :: Send data [disdisp] to all clients
+10.07.18 13:45:44 :: Send data [number 28] to all clients
+10.07.18 13:45:45 :: Send data [endisp] to all clients
+10.07.18 13:49:09 :: Send data [disdisp] to all clients
+10.07.18 13:49:45 :: Send data [number 13] to all clients
+10.07.18 13:49:45 :: Send data [endisp] to all clients
+10.07.18 13:53:12 :: Send data [disdisp] to all clients
+10.07.18 13:53:46 :: Send data [number 3] to all clients
+10.07.18 13:53:46 :: Send data [endisp] to all clients
+10.07.18 13:57:09 :: Send data [disdisp] to all clients
+10.07.18 13:57:48 :: Send data [number 12] to all clients
+10.07.18 13:57:49 :: Send data [endisp] to all clients
+10.07.18 14:01:15 :: Send data [disdisp] to all clients
+10.07.18 14:01:49 :: Send data [number 2] to all clients
+10.07.18 14:01:49 :: Send data [endisp] to all clients
+10.07.18 14:05:15 :: Send data [disdisp] to all clients
+10.07.18 14:05:51 :: Send data [number 12] to all clients
+10.07.18 14:05:51 :: Send data [endisp] to all clients
+10.07.18 14:09:18 :: Send data [disdisp] to all clients
+10.07.18 14:09:55 :: Send data [number 15] to all clients
+10.07.18 14:09:55 :: Send data [endisp] to all clients
+10.07.18 14:13:20 :: Send data [disdisp] to all clients
+10.07.18 14:13:55 :: Send data [number 8] to all clients
+10.07.18 14:13:56 :: Send data [endisp] to all clients
+10.07.18 14:17:23 :: Send data [disdisp] to all clients
+10.07.18 14:17:55 :: Send data [number 18] to all clients
+10.07.18 14:21:22 :: Send data [disdisp] to all clients
+10.07.18 14:21:50 :: [192.168.156.10:58336] [] Sent
+10.07.18 14:21:50 :: [192.168.156.10:58336] Data Received => init of0001
+10.07.18 14:21:50 :: [192.168.156.10] Send data [init disdisp;18,8,15,12,2,12,3,13,28,27,15,33,6,]
+10.07.18 14:21:50 :: [192.168.156.10:58336] [init of0001] Sent
+10.07.18 14:21:58 :: Send data [number 10] to all clients
+10.07.18 14:21:58 :: [192.168.156.10:58336] [init of0001] Sent
+10.07.18 14:21:58 :: [192.168.156.10:58336] [init of0001] Sent
+10.07.18 14:21:58 :: Send data [endisp] to all clients
+10.07.18 14:21:58 :: [192.168.156.10:58336] [init of0001] Sent
+10.07.18 14:23:02 :: Client Disconnected : 192.168.156.38:55825
+10.07.18 14:25:42 :: LastNumbers: 33,15,27,28,13,3,12,2,12,15,8,18,10,
+10.07.18 14:25:58 :: Send data [number 10] to all clients
+10.07.18 14:25:58 :: Send data [endisp] to all clients
+10.07.18 14:29:25 :: Send data [disdisp] to all clients
+10.07.18 14:29:59 :: Send data [number 36] to all clients
+10.07.18 14:30:00 :: Send data [endisp] to all clients
+10.07.18 14:33:26 :: Send data [disdisp] to all clients
+10.07.18 14:33:58 :: Send data [number 11] to all clients
+10.07.18 14:33:58 :: Send data [endisp] to all clients
+10.07.18 14:37:22 :: Send data [disdisp] to all clients
+10.07.18 14:38:01 :: Send data [number 4] to all clients
+10.07.18 14:38:02 :: Send data [endisp] to all clients
+10.07.18 14:41:28 :: Send data [disdisp] to all clients
+10.07.18 14:41:59 :: Send data [number 16] to all clients
+10.07.18 14:41:59 :: Send data [endisp] to all clients
+10.07.18 14:45:25 :: Send data [disdisp] to all clients
+10.07.18 14:45:57 :: Send data [number 11] to all clients
+10.07.18 14:45:57 :: Send data [endisp] to all clients
+10.07.18 14:49:21 :: Send data [disdisp] to all clients
+10.07.18 14:49:57 :: Send data [number 27] to all clients
+10.07.18 14:49:57 :: Send data [endisp] to all clients
+10.07.18 14:53:22 :: Send data [disdisp] to all clients
+10.07.18 14:53:58 :: Send data [number 25] to all clients
+10.07.18 14:53:58 :: Send data [endisp] to all clients
+10.07.18 14:57:24 :: Send data [disdisp] to all clients
+10.07.18 14:57:58 :: Send data [number 23] to all clients
+10.07.18 14:57:58 :: Send data [endisp] to all clients
+10.07.18 15:01:23 :: Send data [disdisp] to all clients
+10.07.18 15:01:56 :: Send data [number 9] to all clients
+10.07.18 15:01:56 :: Send data [endisp] to all clients
+10.07.18 15:05:20 :: Send data [disdisp] to all clients
+10.07.18 15:05:56 :: Send data [number 18] to all clients
+10.07.18 15:05:56 :: Send data [endisp] to all clients
+10.07.18 15:09:22 :: Send data [disdisp] to all clients
+10.07.18 15:09:56 :: Send data [number 18] to all clients
+10.07.18 15:09:56 :: Send data [endisp] to all clients
+10.07.18 15:13:23 :: Send data [disdisp] to all clients
+10.07.18 15:13:57 :: Send data [number 12] to all clients
+10.07.18 15:13:57 :: Send data [endisp] to all clients
+10.07.18 15:17:20 :: Send data [disdisp] to all clients
+10.07.18 15:17:59 :: Send data [number 29] to all clients
+10.07.18 15:17:59 :: Send data [endisp] to all clients
+10.07.18 15:21:27 :: Send data [disdisp] to all clients
+10.07.18 15:21:57 :: Send data [number 16] to all clients
+10.07.18 15:21:58 :: Send data [endisp] to all clients
+10.07.18 15:25:23 :: Send data [disdisp] to all clients
+10.07.18 15:25:59 :: Send data [number 13] to all clients
+10.07.18 15:25:59 :: Send data [endisp] to all clients
+10.07.18 15:29:27 :: Send data [disdisp] to all clients
+10.07.18 15:29:57 :: Send data [number 22] to all clients
+10.07.18 15:29:57 :: Send data [endisp] to all clients
+10.07.18 15:33:23 :: Send data [disdisp] to all clients
+10.07.18 15:33:59 :: Send data [number 26] to all clients
+10.07.18 15:34:00 :: Send data [endisp] to all clients
+10.07.18 15:35:57 :: Send data [disdisp] to all clients
+10.07.18 15:36:32 :: Send data [number 28] to all clients
+10.07.18 15:36:40 :: Send data [endisp] to all clients
+10.07.18 15:37:06 :: Send data [disdisp] to all clients
+10.07.18 15:37:39 :: Send data [number 18] to all clients
+10.07.18 15:37:47 :: Send data [endisp] to all clients
+10.07.18 15:38:10 :: Send data [disdisp] to all clients
+10.07.18 15:38:49 :: Send data [number 11] to all clients
+10.07.18 15:38:57 :: Send data [endisp] to all clients
+10.07.18 15:39:21 :: Send data [disdisp] to all clients
+10.07.18 15:39:58 :: Send data [number 6] to all clients
+10.07.18 15:40:05 :: Send data [endisp] to all clients
+10.07.18 15:40:48 :: Send data [disdisp] to all clients
+10.07.18 15:41:22 :: Send data [number 6] to all clients
+10.07.18 15:41:29 :: Send data [endisp] to all clients
+10.07.18 15:41:55 :: Send data [disdisp] to all clients
+10.07.18 15:42:29 :: Send data [number 1] to all clients
+10.07.18 15:42:36 :: Send data [endisp] to all clients
+10.07.18 15:46:03 :: Send data [disdisp] to all clients
+10.07.18 15:46:37 :: Send data [number 7] to all clients
+10.07.18 15:46:37 :: Send data [endisp] to all clients
+10.07.18 15:48:35 :: Send data [disdisp] to all clients
+10.07.18 15:49:12 :: Send data [number 10] to all clients
+10.07.18 15:49:19 :: Send data [endisp] to all clients
+10.07.18 15:52:45 :: Send data [disdisp] to all clients
+10.07.18 15:53:20 :: Send data [number 30] to all clients
+10.07.18 15:53:20 :: Send data [endisp] to all clients
+10.07.18 15:56:46 :: Send data [disdisp] to all clients
+10.07.18 15:57:19 :: Send data [number 29] to all clients
+10.07.18 15:57:20 :: Send data [endisp] to all clients
+10.07.18 16:00:43 :: Send data [disdisp] to all clients
+10.07.18 16:01:24 :: Send data [number 28] to all clients
+10.07.18 16:01:24 :: Send data [endisp] to all clients
+10.07.18 16:04:50 :: Send data [disdisp] to all clients
+10.07.18 16:05:22 :: Send data [number 30] to all clients
+10.07.18 16:05:22 :: Send data [endisp] to all clients
+10.07.18 16:08:48 :: Send data [disdisp] to all clients
+10.07.18 16:09:22 :: Send data [number 5] to all clients
+10.07.18 16:09:23 :: Send data [endisp] to all clients
+10.07.18 16:12:50 :: Send data [disdisp] to all clients
+10.07.18 16:13:22 :: Send data [number 30] to all clients
+10.07.18 16:13:22 :: Send data [endisp] to all clients
+10.07.18 16:16:48 :: Send data [disdisp] to all clients
+10.07.18 16:17:23 :: Send data [number 2] to all clients
+10.07.18 16:17:23 :: Send data [endisp] to all clients
+10.07.18 16:20:50 :: Send data [disdisp] to all clients
+10.07.18 16:21:26 :: Send data [number 15] to all clients
+10.07.18 16:21:26 :: Send data [endisp] to all clients
+10.07.18 16:24:52 :: Send data [disdisp] to all clients
+10.07.18 16:25:24 :: Send data [number 32] to all clients
+10.07.18 16:25:24 :: Send data [endisp] to all clients
+10.07.18 16:28:52 :: Send data [disdisp] to all clients
+10.07.18 16:29:27 :: Send data [number 15] to all clients
+10.07.18 16:29:27 :: Send data [endisp] to all clients
+10.07.18 16:32:53 :: Send data [disdisp] to all clients
+10.07.18 16:33:28 :: Send data [number 8] to all clients
+10.07.18 16:33:28 :: Send data [endisp] to all clients
+10.07.18 16:36:53 :: Send data [disdisp] to all clients
+10.07.18 16:37:30 :: Send data [number 7] to all clients
+10.07.18 16:37:30 :: Send data [endisp] to all clients
+10.07.18 16:40:56 :: Send data [disdisp] to all clients
+10.07.18 16:44:58 :: Send data [disdisp] to all clients
+10.07.18 16:45:34 :: Send data [number 31] to all clients
+10.07.18 16:45:34 :: Send data [endisp] to all clients
+10.07.18 16:49:01 :: Send data [disdisp] to all clients
+10.07.18 16:49:35 :: Send data [number 5] to all clients
+10.07.18 16:49:35 :: Send data [endisp] to all clients
+10.07.18 16:53:00 :: Send data [disdisp] to all clients
+10.07.18 16:53:36 :: Send data [number 28] to all clients
+10.07.18 16:53:36 :: Send data [endisp] to all clients
+10.07.18 16:57:02 :: Send data [disdisp] to all clients
+10.07.18 16:57:38 :: Send data [number 13] to all clients
+10.07.18 16:57:38 :: Send data [endisp] to all clients
+10.07.18 17:01:04 :: Send data [disdisp] to all clients
+10.07.18 17:01:38 :: Send data [number 11] to all clients
+10.07.18 17:01:39 :: Send data [endisp] to all clients
+10.07.18 17:05:05 :: Send data [disdisp] to all clients
+10.07.18 17:05:38 :: Send data [number 21] to all clients
+10.07.18 17:05:38 :: Send data [endisp] to all clients
+10.07.18 17:09:04 :: Send data [disdisp] to all clients
+10.07.18 17:09:37 :: Send data [number 12] to all clients
+10.07.18 17:09:38 :: Send data [endisp] to all clients
+10.07.18 17:13:04 :: Send data [disdisp] to all clients
+10.07.18 17:13:39 :: Send data [number 22] to all clients
+10.07.18 17:13:39 :: Send data [endisp] to all clients
+10.07.18 17:17:04 :: Send data [disdisp] to all clients
+10.07.18 17:17:42 :: Send data [number 2] to all clients
+10.07.18 17:17:42 :: Send data [endisp] to all clients
+10.07.18 17:21:10 :: Send data [disdisp] to all clients
+10.07.18 17:21:42 :: Send data [number 15] to all clients
+10.07.18 17:21:43 :: Send data [endisp] to all clients
+10.07.18 17:25:08 :: Send data [disdisp] to all clients
+10.07.18 17:25:44 :: Send data [number 1] to all clients
+10.07.18 17:25:45 :: Send data [endisp] to all clients
+10.07.18 17:29:09 :: Send data [disdisp] to all clients
+10.07.18 17:29:47 :: Send data [number 21] to all clients
+10.07.18 17:29:48 :: Send data [endisp] to all clients
+10.07.18 17:33:15 :: Send data [disdisp] to all clients
+10.07.18 17:33:48 :: Send data [number 21] to all clients
+10.07.18 17:33:48 :: Send data [endisp] to all clients
+10.07.18 17:37:15 :: Send data [disdisp] to all clients
+10.07.18 17:37:48 :: Send data [number 17] to all clients
+10.07.18 17:37:48 :: Send data [endisp] to all clients
+10.07.18 17:41:13 :: Send data [disdisp] to all clients
+10.07.18 17:41:51 :: Send data [number 0] to all clients
+10.07.18 17:41:51 :: Send data [endisp] to all clients
+10.07.18 17:45:19 :: Send data [disdisp] to all clients
+10.07.18 17:45:51 :: Send data [number 2] to all clients
+10.07.18 17:45:51 :: Send data [endisp] to all clients
+10.07.18 17:49:14 :: Send data [disdisp] to all clients
+10.07.18 17:49:53 :: Send data [number 11] to all clients
+10.07.18 17:49:53 :: Send data [endisp] to all clients
+10.07.18 17:53:20 :: Send data [disdisp] to all clients
+10.07.18 17:53:53 :: Send data [number 28] to all clients
+10.07.18 17:53:53 :: Send data [endisp] to all clients
+10.07.18 17:57:18 :: Send data [disdisp] to all clients
+10.07.18 17:57:55 :: Send data [number 17] to all clients
+10.07.18 17:57:55 :: Send data [endisp] to all clients
+10.07.18 18:01:22 :: Send data [disdisp] to all clients
+10.07.18 18:01:56 :: Send data [number 20] to all clients
+10.07.18 18:01:57 :: Send data [endisp] to all clients
+10.07.18 18:05:19 :: Send data [disdisp] to all clients
+10.07.18 18:06:04 :: Send data [number 28] to all clients
+10.07.18 18:06:04 :: Send data [endisp] to all clients
+10.07.18 18:09:30 :: Send data [disdisp] to all clients
+10.07.18 18:10:02 :: Send data [number 9] to all clients
+10.07.18 18:10:02 :: Send data [endisp] to all clients
+10.07.18 18:13:28 :: Send data [disdisp] to all clients
+10.07.18 18:14:01 :: Send data [number 21] to all clients
+10.07.18 18:14:01 :: Send data [endisp] to all clients
+10.07.18 18:17:28 :: Send data [disdisp] to all clients
+10.07.18 18:18:03 :: Send data [number 16] to all clients
+10.07.18 18:18:03 :: Send data [endisp] to all clients
+10.07.18 18:21:30 :: Send data [disdisp] to all clients
+10.07.18 18:22:08 :: Send data [number 28] to all clients
+10.07.18 18:22:08 :: Send data [endisp] to all clients
+10.07.18 18:25:34 :: Send data [disdisp] to all clients
+10.07.18 18:26:12 :: Send data [number 10] to all clients
+10.07.18 18:26:13 :: Send data [endisp] to all clients
+10.07.18 18:29:39 :: Send data [disdisp] to all clients
+10.07.18 18:30:10 :: Send data [number 30] to all clients
+10.07.18 18:30:10 :: Send data [endisp] to all clients
+10.07.18 18:33:38 :: Send data [disdisp] to all clients
+10.07.18 18:34:08 :: Send data [number 9] to all clients
+10.07.18 18:34:08 :: Send data [endisp] to all clients
+10.07.18 18:37:35 :: Send data [disdisp] to all clients
+10.07.18 18:38:08 :: Send data [number 4] to all clients
+10.07.18 18:38:09 :: Send data [endisp] to all clients
+10.07.18 18:41:35 :: Send data [disdisp] to all clients
+10.07.18 18:42:09 :: Send data [number 6] to all clients
+10.07.18 18:42:10 :: Send data [endisp] to all clients
+10.07.18 18:45:36 :: Send data [disdisp] to all clients
+10.07.18 18:46:09 :: Send data [number 0] to all clients
+10.07.18 18:46:10 :: Send data [endisp] to all clients
+10.07.18 18:49:37 :: Send data [disdisp] to all clients
+10.07.18 18:50:15 :: Send data [number 35] to all clients
+10.07.18 18:50:15 :: Send data [endisp] to all clients
+10.07.18 18:53:41 :: Send data [disdisp] to all clients
+10.07.18 18:54:19 :: Send data [number 21] to all clients
+10.07.18 18:54:19 :: Send data [endisp] to all clients
+10.07.18 18:57:45 :: Send data [disdisp] to all clients
+10.07.18 18:58:25 :: Send data [number 30] to all clients
+10.07.18 18:58:25 :: Send data [endisp] to all clients
+10.07.18 19:01:50 :: Send data [disdisp] to all clients
+10.07.18 19:02:29 :: Send data [number 23] to all clients
+10.07.18 19:02:29 :: Send data [endisp] to all clients
+10.07.18 19:05:54 :: Send data [disdisp] to all clients
+10.07.18 19:06:32 :: Send data [number 17] to all clients
+10.07.18 19:06:33 :: Send data [endisp] to all clients
+10.07.18 19:09:59 :: Send data [disdisp] to all clients
+10.07.18 19:10:58 :: Disconnecting from RR Server!
+10.07.18 19:10:58 :: Send data [server_down] to all clients
+10.07.18 19:10:58 :: Удаленный хост принудительно разорвал существующее подключение
+10.07.18 19:11:58 :: Unrecognized command ''. Type 'help' to list of all avaiable commands.
+10.07.18 19:15:34 :: LastNumbers: 10,30,9,4,6,0,35,21,30,23,17,9,24,
+10.07.18 19:18:03 :: Send data [disdisp] to all clients
+10.07.18 19:18:39 :: Send data [number 21] to all clients
+10.07.18 19:18:39 :: Send data [endisp] to all clients
+10.07.18 19:22:06 :: Send data [disdisp] to all clients
+10.07.18 19:22:39 :: Send data [number 17] to all clients
+10.07.18 19:22:39 :: Send data [endisp] to all clients
+10.07.18 19:23:58 :: [192.168.156.10:53732] [] Sent
+10.07.18 19:23:58 :: [192.168.156.10:53732] Data Received => init of0001
+10.07.18 19:23:58 :: [192.168.156.10] Send data [init endisp;17,21,10,30,9,4,6,0,35,21,30,23,17,]
+10.07.18 19:23:58 :: [192.168.156.10:53732] [init of0001] Sent
+10.07.18 19:26:06 :: Send data [disdisp] to all clients
+10.07.18 19:26:06 :: [192.168.156.10:53732] [init of0001] Sent
+10.07.18 19:26:06 :: [192.168.156.10:53732] Data Received => bets 1;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;1.3333333333333333;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;1.3333333333333333;0.33333333333333337;1.3333333333333333;0.33333333333333337;0.33333333333333337;0.5833333333333333;0.5833333333333333;0.33333333333333337;0.5833333333333333;0.5833333333333333;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337
+10.07.18 19:26:42 :: Send data [number 34] to all clients
+10.07.18 19:26:42 :: [192.168.156.10:53732] [bets 1;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;1.3333333333333333;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;1.3333333333333333;0.33333333333333337;1.3333333333333333;0.33333333333333337;0.33333333333333337;0.5833333333333333;0.5833333333333333;0.33333333333333337;0.5833333333333333;0.5833333333333333;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337] Sent
+10.07.18 19:26:42 :: [192.168.156.10:53732] [bets 1;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;1.3333333333333333;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;1.3333333333333333;0.33333333333333337;1.3333333333333333;0.33333333333333337;0.33333333333333337;0.5833333333333333;0.5833333333333333;0.33333333333333337;0.5833333333333333;0.5833333333333333;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337] Sent
+10.07.18 19:26:42 :: Send data [endisp] to all clients
+10.07.18 19:26:42 :: [192.168.156.10:53732] [bets 1;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;1.3333333333333333;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;1.3333333333333333;0.33333333333333337;1.3333333333333333;0.33333333333333337;0.33333333333333337;0.5833333333333333;0.5833333333333333;0.33333333333333337;0.5833333333333333;0.5833333333333333;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337] Sent
+10.07.18 19:29:27 :: [192.168.8.225:54012] [] Sent
+10.07.18 19:29:27 :: [192.168.8.225:54012] Data Received => s: permessage-deflate; client_max_window_bits
+
+ion: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgr
+10.07.18 19:29:27 :: [192.168.8.225:54012] Data Received => s: permessage-deflate; client_max_window_bits
+
+ion: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgr
+10.07.18 19:29:27 :: [192.168.8.225:54012] Data Received => s: permessage-deflate; client_max_window_bits
+
+ion: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgr
+10.07.18 19:29:27 :: [192.168.8.225:54012] Data Received => s: permessage-deflate; client_max_window_bits
+
+ion: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgr
+10.07.18 19:29:27 :: [192.168.8.225:54012] Data Received => s: permessage-deflate; client_max_window_bits
+
+ion: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgr
+10.07.18 19:29:27 :: [192.168.8.225:54012] Data Received => init of0001
+10.07.18 19:29:27 :: [192.168.8.225] Send data [init endisp;34,17,21,10,30,9,4,6,0,35,21,30,23,]
+10.07.18 19:29:27 :: [192.168.8.225:54012] [init of0001] Sent
+10.07.18 19:30:09 :: Send data [disdisp] to all clients
+10.07.18 19:30:09 :: [192.168.156.10:53732] [bets 1;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;1.3333333333333333;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;1.3333333333333333;0.33333333333333337;1.3333333333333333;0.33333333333333337;0.33333333333333337;0.5833333333333333;0.5833333333333333;0.33333333333333337;0.5833333333333333;0.5833333333333333;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337] Sent
+10.07.18 19:30:09 :: [192.168.156.10:53732] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 19:30:09 :: [192.168.8.225:54012] [init of0001] Sent
+10.07.18 19:30:09 :: [192.168.8.225:54012] Data Received => bets 0;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0
+10.07.18 19:30:45 :: Send data [number 28] to all clients
+10.07.18 19:30:45 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:30:45 :: [192.168.8.225:54012] [bets 0;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0] Sent
+10.07.18 19:30:45 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:30:45 :: [192.168.8.225:54012] [bets 0;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0] Sent
+10.07.18 19:30:45 :: Send data [endisp] to all clients
+10.07.18 19:30:45 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:30:45 :: [192.168.8.225:54012] [bets 0;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0] Sent
+10.07.18 19:34:12 :: Send data [disdisp] to all clients
+10.07.18 19:34:12 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:34:12 :: [192.168.156.10:53732] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 19:34:12 :: [192.168.8.225:54012] Data Received => bets 0;4.083333333333333;2.8333333333333335;2.3333333333333335;4.083333333333333;6.583333333333333;4.083333333333333;2.5833333333333335;6.333333333333333;2.3333333333333335;2.5833333333333335;3.8333333333333335;2.8333333333333335;4;2.75;2.75;3.5;2;3;3;2;3;2;2;4;2.0833333333333335;1.8333333333333333;4.333333333333333;2.8333333333333335;1.0833333333333333;3.8333333333333335;1.0833333333333333;3.0833333333333335;2.0833333333333335;0.3333333333333333;0.8333333333333334;0.08333333333333333
+10.07.18 19:34:12 :: [192.168.8.225:54012] [bets 0;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0;0.2222222222222222;0] Sent
+10.07.18 19:34:47 :: Send data [number 31] to all clients
+10.07.18 19:34:47 :: [192.168.8.225:54012] [bets 0;4.083333333333333;2.8333333333333335;2.3333333333333335;4.083333333333333;6.583333333333333;4.083333333333333;2.5833333333333335;6.333333333333333;2.3333333333333335;2.5833333333333335;3.8333333333333335;2.8333333333333335;4;2.75;2.75;3.5;2;3;3;2;3;2;2;4;2.0833333333333335;1.8333333333333333;4.333333333333333;2.8333333333333335;1.0833333333333333;3.8333333333333335;1.0833333333333333;3.0833333333333335;2.0833333333333335;0.3333333333333333;0.8333333333333334;0.08333333333333333] Sent
+10.07.18 19:34:47 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:34:47 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:34:47 :: [192.168.8.225:54012] [bets 0;4.083333333333333;2.8333333333333335;2.3333333333333335;4.083333333333333;6.583333333333333;4.083333333333333;2.5833333333333335;6.333333333333333;2.3333333333333335;2.5833333333333335;3.8333333333333335;2.8333333333333335;4;2.75;2.75;3.5;2;3;3;2;3;2;2;4;2.0833333333333335;1.8333333333333333;4.333333333333333;2.8333333333333335;1.0833333333333333;3.8333333333333335;1.0833333333333333;3.0833333333333335;2.0833333333333335;0.3333333333333333;0.8333333333333334;0.08333333333333333] Sent
+10.07.18 19:34:47 :: Send data [endisp] to all clients
+10.07.18 19:34:47 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:34:47 :: [192.168.8.225:54012] [bets 0;4.083333333333333;2.8333333333333335;2.3333333333333335;4.083333333333333;6.583333333333333;4.083333333333333;2.5833333333333335;6.333333333333333;2.3333333333333335;2.5833333333333335;3.8333333333333335;2.8333333333333335;4;2.75;2.75;3.5;2;3;3;2;3;2;2;4;2.0833333333333335;1.8333333333333333;4.333333333333333;2.8333333333333335;1.0833333333333333;3.8333333333333335;1.0833333333333333;3.0833333333333335;2.0833333333333335;0.3333333333333333;0.8333333333333334;0.08333333333333333] Sent
+10.07.18 19:38:15 :: Send data [disdisp] to all clients
+10.07.18 19:38:15 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:38:15 :: [192.168.8.225:54012] Data Received => be�$ �$K��$K�T��T�_��_��_��_��_��_��_��_��_��_��_��_��_��_��_�
+10.07.18 19:38:19 :: [192.168.156.10:53732] Data Received => bets 1;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337
+10.07.18 19:39:57 :: [192.168.8.225:54012] [be�$ �$K��$K�T��T�_��_��_��_��_��_��_��_��_��_��_��_��_��_��_�] Sent
+10.07.18 19:39:57 :: Send data [number 1] to all clients
+10.07.18 19:39:57 :: [192.168.8.225:54012] [be�$ �$K��$K�T��T�_��_��_��_��_��_��_��_��_��_��_��_��_��_��_�] Sent
+10.07.18 19:39:57 :: [192.168.156.10:53732] [bets 1;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337] Sent
+10.07.18 19:39:57 :: [192.168.156.10:53732] [bets 1;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337] Sent
+10.07.18 19:39:57 :: Send data [endisp] to all clients
+10.07.18 19:39:57 :: [192.168.8.225:54012] [be�$ �$K��$K�T��T�_��_��_��_��_��_��_��_��_��_��_��_��_��_��_�] Sent
+10.07.18 19:39:57 :: [192.168.156.10:53732] [bets 1;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337] Sent
+10.07.18 19:39:57 :: [192.168.8.225:54012] [be�$ �$K��$K�T��T�_��_��_��_��_��_��_��_��_��_��_��_��_��_��_�] Sent
+10.07.18 19:42:15 :: Send data [disdisp] to all clients
+10.07.18 19:42:15 :: [192.168.156.10:53732] [bets 1;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337;0.33333333333333337] Sent
+10.07.18 19:42:16 :: [192.168.156.10:53732] Data Received => bets 0;7.5;7.5;0;10;10;0;10;10;0;10;10;0;10;10;0;10;2.5;0;10;0;0;10;0;0;10;0;0;10;0;0;10;0;0;7.5;0;0
+10.07.18 19:42:16 :: [192.168.8.225:54012] [be�$ �$K��$K�T��T�_��_��_��_��_��_��_��_��_��_��_��_��_��_��_�] Sent
+10.07.18 19:42:16 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 19:42:50 :: Send data [number 7] to all clients
+10.07.18 19:42:50 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:42:50 :: [192.168.156.10:53732] [bets 0;7.5;7.5;0;10;10;0;10;10;0;10;10;0;10;10;0;10;2.5;0;10;0;0;10;0;0;10;0;0;10;0;0;10;0;0;7.5;0;0] Sent
+10.07.18 19:42:50 :: [192.168.156.10:53732] [bets 0;7.5;7.5;0;10;10;0;10;10;0;10;10;0;10;10;0;10;2.5;0;10;0;0;10;0;0;10;0;0;10;0;0;10;0;0;7.5;0;0] Sent
+10.07.18 19:42:50 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:42:50 :: Send data [endisp] to all clients
+10.07.18 19:42:50 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:42:50 :: [192.168.156.10:53732] [bets 0;7.5;7.5;0;10;10;0;10;10;0;10;10;0;10;10;0;10;2.5;0;10;0;0;10;0;0;10;0;0;10;0;0;10;0;0;7.5;0;0] Sent
+10.07.18 19:46:14 :: Send data [disdisp] to all clients
+10.07.18 19:46:14 :: [192.168.156.10:53732] [bets 0;7.5;7.5;0;10;10;0;10;10;0;10;10;0;10;10;0;10;2.5;0;10;0;0;10;0;0;10;0;0;10;0;0;10;0;0;7.5;0;0] Sent
+10.07.18 19:46:14 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:46:14 :: [192.168.156.10:53732] Data Received => bets 0;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667
+10.07.18 19:46:14 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 19:46:49 :: Send data [number 25] to all clients
+10.07.18 19:46:49 :: [192.168.156.10:53732] [bets 0;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667] Sent
+10.07.18 19:46:49 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:46:49 :: [192.168.156.10:53732] [bets 0;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667] Sent
+10.07.18 19:46:49 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:46:50 :: Send data [endisp] to all clients
+10.07.18 19:46:50 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:46:50 :: [192.168.156.10:53732] [bets 0;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667] Sent
+10.07.18 19:50:16 :: Send data [disdisp] to all clients
+10.07.18 19:50:16 :: [192.168.156.10:53732] [bets 0;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667;1.6666666666666667] Sent
+10.07.18 19:50:16 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:50:16 :: [192.168.156.10:53732] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 19:50:16 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 19:50:53 :: Send data [number 8] to all clients
+10.07.18 19:50:53 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:50:53 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:50:53 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:50:53 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:50:53 :: Send data [endisp] to all clients
+10.07.18 19:50:53 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:50:53 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:54:20 :: Send data [disdisp] to all clients
+10.07.18 19:54:20 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:54:20 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:54:20 :: [192.168.156.10:53732] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 19:54:20 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 19:54:53 :: Send data [number 12] to all clients
+10.07.18 19:54:54 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:54:54 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:54:54 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:54:54 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:54:54 :: Send data [endisp] to all clients
+10.07.18 19:54:54 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:54:54 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:58:19 :: Send data [disdisp] to all clients
+10.07.18 19:58:19 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:58:19 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:58:19 :: [192.168.156.10:53732] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 19:58:19 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 19:58:56 :: Send data [number 22] to all clients
+10.07.18 19:58:56 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:58:56 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:58:56 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:58:56 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:58:56 :: Send data [endisp] to all clients
+10.07.18 19:58:57 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 19:58:57 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:02:22 :: Send data [disdisp] to all clients
+10.07.18 20:02:22 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:02:22 :: [192.168.156.10:53732] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:02:22 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:02:22 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:02:59 :: Send data [number 13] to all clients
+10.07.18 20:02:59 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:02:59 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:02:59 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:02:59 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:03:00 :: Send data [endisp] to all clients
+10.07.18 20:03:00 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:03:00 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:06:24 :: Send data [disdisp] to all clients
+10.07.18 20:06:24 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:06:24 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:06:24 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:06:24 :: [192.168.156.10:53732] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:07:01 :: Send data [number 16] to all clients
+10.07.18 20:07:01 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:07:01 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:07:01 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:07:01 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:07:01 :: Send data [endisp] to all clients
+10.07.18 20:07:01 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:07:01 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:10:27 :: Send data [disdisp] to all clients
+10.07.18 20:10:27 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:10:27 :: [192.168.156.10:53732] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:10:27 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:10:27 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:11:01 :: Send data [number 26] to all clients
+10.07.18 20:11:01 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:11:01 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:11:01 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:11:01 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:11:01 :: Send data [endisp] to all clients
+10.07.18 20:11:01 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:11:01 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:14:28 :: Send data [disdisp] to all clients
+10.07.18 20:14:28 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:14:28 :: [192.168.156.10:53732] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:14:28 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:14:28 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:15:03 :: Send data [number 32] to all clients
+10.07.18 20:15:03 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:15:03 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:15:03 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:15:03 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:15:03 :: Send data [endisp] to all clients
+10.07.18 20:15:03 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:15:03 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:18:29 :: Send data [disdisp] to all clients
+10.07.18 20:18:29 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:18:29 :: [192.168.156.10:53732] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:18:29 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:18:29 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:19:04 :: Send data [number 1] to all clients
+10.07.18 20:19:05 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:19:05 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:19:05 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:19:05 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:19:05 :: Send data [endisp] to all clients
+10.07.18 20:19:05 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:19:05 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:22:31 :: Send data [disdisp] to all clients
+10.07.18 20:22:31 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:22:31 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:22:31 :: [192.168.156.10:53732] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:22:31 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:23:07 :: Send data [number 6] to all clients
+10.07.18 20:23:07 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:23:07 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:23:07 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:23:07 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:23:07 :: Send data [endisp] to all clients
+10.07.18 20:23:07 :: [192.168.156.10:53732] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:23:07 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:25:23 :: Client Disconnected : 192.168.156.10:53732
+10.07.18 20:26:33 :: Send data [disdisp] to all clients
+10.07.18 20:26:33 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:26:33 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:27:08 :: Send data [number 8] to all clients
+10.07.18 20:27:08 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:27:08 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:27:08 :: Send data [endisp] to all clients
+10.07.18 20:27:08 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:30:32 :: Send data [disdisp] to all clients
+10.07.18 20:30:32 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:30:32 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:30:56 :: [192.168.156.10:59972] [] Sent
+10.07.18 20:30:56 :: [192.168.156.10:59972] Data Received => init of0001
+10.07.18 20:30:56 :: [192.168.156.10] Send data [init disdisp;8,6,1,32,26,16,13,22,12,8,25,7,1,]
+10.07.18 20:30:56 :: [192.168.156.10:59972] [init of0001] Sent
+10.07.18 20:31:06 :: Send data [number 20] to all clients
+10.07.18 20:31:06 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:31:06 :: [192.168.156.10:59972] [init of0001] Sent
+10.07.18 20:31:06 :: [192.168.156.10:59972] [init of0001] Sent
+10.07.18 20:31:06 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:31:06 :: Send data [endisp] to all clients
+10.07.18 20:31:06 :: [192.168.156.10:59972] [init of0001] Sent
+10.07.18 20:31:06 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:34:32 :: Send data [disdisp] to all clients
+10.07.18 20:34:32 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:34:32 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:34:32 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:34:32 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:35:07 :: Send data [number 26] to all clients
+10.07.18 20:35:07 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:35:07 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:35:07 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:35:07 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:35:07 :: Send data [endisp] to all clients
+10.07.18 20:35:07 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:35:07 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:38:34 :: Send data [disdisp] to all clients
+10.07.18 20:38:34 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:38:34 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:38:34 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:38:34 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:39:08 :: Send data [number 13] to all clients
+10.07.18 20:39:08 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:39:08 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:39:08 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:39:08 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:39:09 :: Send data [endisp] to all clients
+10.07.18 20:39:09 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:39:09 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:42:33 :: Send data [disdisp] to all clients
+10.07.18 20:42:33 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:42:33 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:42:33 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:42:33 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:43:09 :: Send data [number 22] to all clients
+10.07.18 20:43:09 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:43:09 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:43:09 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:43:09 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:46:35 :: Send data [disdisp] to all clients
+10.07.18 20:46:35 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:46:35 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:46:35 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:46:35 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:47:08 :: Send data [number 9] to all clients
+10.07.18 20:47:08 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:47:08 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:47:08 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:47:08 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:47:08 :: Send data [endisp] to all clients
+10.07.18 20:47:08 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:47:08 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:50:34 :: Send data [disdisp] to all clients
+10.07.18 20:50:34 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:50:34 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:50:34 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:50:34 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:51:10 :: Send data [number 31] to all clients
+10.07.18 20:51:10 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:51:10 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:51:10 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:51:10 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:51:10 :: Send data [endisp] to all clients
+10.07.18 20:51:10 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:51:10 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:54:37 :: Send data [disdisp] to all clients
+10.07.18 20:54:37 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:54:37 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:54:37 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:54:37 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:55:10 :: Send data [number 32] to all clients
+10.07.18 20:55:10 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:55:10 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:55:10 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:55:10 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:55:10 :: Send data [endisp] to all clients
+10.07.18 20:55:10 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:55:10 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:58:36 :: Send data [disdisp] to all clients
+10.07.18 20:58:36 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:58:37 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:58:37 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:58:37 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 20:59:10 :: Send data [number 8] to all clients
+10.07.18 20:59:10 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:59:10 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:59:10 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:59:10 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:59:10 :: Send data [endisp] to all clients
+10.07.18 20:59:10 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 20:59:10 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:02:37 :: Send data [disdisp] to all clients
+10.07.18 21:02:37 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:02:37 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:02:37 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:02:37 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:03:11 :: Send data [number 16] to all clients
+10.07.18 21:03:11 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:03:11 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:03:11 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:03:11 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:03:11 :: Send data [endisp] to all clients
+10.07.18 21:03:11 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:03:11 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:06:37 :: Send data [disdisp] to all clients
+10.07.18 21:06:37 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:06:37 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:06:37 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:06:37 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:07:13 :: Send data [number 2] to all clients
+10.07.18 21:07:13 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:07:13 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:07:13 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:07:13 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:07:13 :: Send data [endisp] to all clients
+10.07.18 21:07:13 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:07:13 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:10:39 :: Send data [disdisp] to all clients
+10.07.18 21:10:39 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:10:39 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:10:39 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:10:39 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:11:11 :: Send data [number 9] to all clients
+10.07.18 21:11:11 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:11:11 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:11:11 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:11:12 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:11:12 :: Send data [endisp] to all clients
+10.07.18 21:11:12 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:11:12 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:14:39 :: Send data [disdisp] to all clients
+10.07.18 21:14:39 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:14:39 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:14:39 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:14:39 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:15:12 :: Send data [number 6] to all clients
+10.07.18 21:15:12 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:15:12 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:15:12 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:15:12 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:15:12 :: Send data [endisp] to all clients
+10.07.18 21:15:12 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:15:12 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:18:40 :: Send data [disdisp] to all clients
+10.07.18 21:18:40 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:18:40 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:18:40 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:18:40 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:19:11 :: Send data [number 27] to all clients
+10.07.18 21:19:12 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:19:12 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:19:12 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:19:12 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:19:12 :: Send data [endisp] to all clients
+10.07.18 21:19:12 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:19:12 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:22:38 :: Send data [disdisp] to all clients
+10.07.18 21:22:38 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:22:38 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:22:38 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:22:38 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:23:12 :: Send data [number 7] to all clients
+10.07.18 21:23:12 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:23:12 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:23:12 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:23:12 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:23:12 :: Send data [endisp] to all clients
+10.07.18 21:23:12 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:23:12 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:26:37 :: Send data [disdisp] to all clients
+10.07.18 21:26:37 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:26:37 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:26:37 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:26:37 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:27:13 :: Send data [number 21] to all clients
+10.07.18 21:27:13 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:27:13 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:27:13 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:27:13 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:27:13 :: Send data [endisp] to all clients
+10.07.18 21:27:13 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:27:13 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:30:40 :: Send data [disdisp] to all clients
+10.07.18 21:30:40 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:30:40 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:30:40 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:30:40 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:31:14 :: Send data [number 20] to all clients
+10.07.18 21:31:14 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:31:14 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:31:14 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:31:14 :: Send data [endisp] to all clients
+10.07.18 21:31:14 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:31:14 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:34:40 :: Send data [disdisp] to all clients
+10.07.18 21:34:40 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:34:40 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:34:40 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:34:40 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:35:15 :: Send data [number 32] to all clients
+10.07.18 21:35:15 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:35:15 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:35:15 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:35:15 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:35:15 :: Send data [endisp] to all clients
+10.07.18 21:35:15 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:35:15 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:38:40 :: Send data [disdisp] to all clients
+10.07.18 21:38:40 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:38:40 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:38:40 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:38:40 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:39:17 :: Send data [number 3] to all clients
+10.07.18 21:39:17 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:39:17 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:39:17 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:39:17 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:39:17 :: Send data [endisp] to all clients
+10.07.18 21:39:17 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:39:17 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:42:42 :: Send data [disdisp] to all clients
+10.07.18 21:42:42 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:42:42 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:42:42 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:42:42 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:43:17 :: Send data [number 32] to all clients
+10.07.18 21:43:17 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:43:17 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:43:17 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:43:17 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:43:17 :: Send data [endisp] to all clients
+10.07.18 21:43:17 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:43:17 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:46:40 :: Send data [disdisp] to all clients
+10.07.18 21:46:40 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:46:40 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:46:40 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:46:40 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:47:18 :: Send data [number 35] to all clients
+10.07.18 21:47:18 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:47:18 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:47:18 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:47:18 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:47:18 :: Send data [endisp] to all clients
+10.07.18 21:47:18 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:47:18 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:50:42 :: Send data [disdisp] to all clients
+10.07.18 21:50:42 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:50:42 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:50:42 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:50:42 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:51:18 :: Send data [number 1] to all clients
+10.07.18 21:51:18 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:51:18 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:51:18 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:51:18 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:51:18 :: Send data [endisp] to all clients
+10.07.18 21:51:18 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:51:18 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:54:43 :: Send data [disdisp] to all clients
+10.07.18 21:54:43 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:54:43 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:54:43 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:54:43 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:55:21 :: Send data [number 21] to all clients
+10.07.18 21:55:21 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:55:21 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:55:21 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:55:21 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:55:21 :: Send data [endisp] to all clients
+10.07.18 21:55:21 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:55:21 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:58:47 :: Send data [disdisp] to all clients
+10.07.18 21:58:47 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:58:47 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:58:47 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:58:47 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 21:59:21 :: Send data [number 31] to all clients
+10.07.18 21:59:21 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:59:21 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:59:21 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:59:21 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:59:22 :: Send data [endisp] to all clients
+10.07.18 21:59:22 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 21:59:22 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:02:48 :: Send data [disdisp] to all clients
+10.07.18 22:02:48 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:02:48 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:02:48 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:02:48 :: [192.168.8.225:54012] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:03:22 :: Send data [number 26] to all clients
+10.07.18 22:03:22 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:03:22 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:03:22 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:03:22 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:03:22 :: Send data [endisp] to all clients
+10.07.18 22:03:22 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:03:22 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:06:49 :: Send data [disdisp] to all clients
+10.07.18 22:06:49 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:06:49 :: [192.168.8.225:54012] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:06:49 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:07:13 :: Client Disconnected : 192.168.8.225:54012
+10.07.18 22:07:20 :: Send data [number 26] to all clients
+10.07.18 22:07:20 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:07:20 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:07:20 :: Send data [endisp] to all clients
+10.07.18 22:07:20 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:10:47 :: Send data [disdisp] to all clients
+10.07.18 22:10:47 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:10:47 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:11:22 :: Send data [number 32] to all clients
+10.07.18 22:11:22 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:11:22 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:11:22 :: Send data [endisp] to all clients
+10.07.18 22:11:22 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:14:48 :: Send data [disdisp] to all clients
+10.07.18 22:14:48 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:14:48 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:15:22 :: Send data [number 24] to all clients
+10.07.18 22:15:22 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:15:22 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:15:22 :: Send data [endisp] to all clients
+10.07.18 22:15:22 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:18:48 :: Send data [disdisp] to all clients
+10.07.18 22:18:48 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:18:48 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:19:23 :: Send data [number 10] to all clients
+10.07.18 22:19:23 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:19:23 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:19:23 :: Send data [endisp] to all clients
+10.07.18 22:19:23 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:22:50 :: Send data [disdisp] to all clients
+10.07.18 22:22:50 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:22:50 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:23:25 :: Send data [number 23] to all clients
+10.07.18 22:23:25 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:23:25 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:23:25 :: Send data [endisp] to all clients
+10.07.18 22:23:25 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:26:53 :: Send data [disdisp] to all clients
+10.07.18 22:26:53 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:26:53 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:27:23 :: Send data [number 7] to all clients
+10.07.18 22:27:23 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:27:23 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:27:23 :: Send data [endisp] to all clients
+10.07.18 22:27:23 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:30:49 :: Send data [disdisp] to all clients
+10.07.18 22:30:49 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:30:49 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:31:24 :: Send data [number 31] to all clients
+10.07.18 22:31:24 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:31:24 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:31:24 :: Send data [endisp] to all clients
+10.07.18 22:31:24 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:34:48 :: Send data [disdisp] to all clients
+10.07.18 22:34:48 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:34:48 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:35:29 :: Send data [number 16] to all clients
+10.07.18 22:35:29 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:35:29 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:35:29 :: Send data [endisp] to all clients
+10.07.18 22:35:29 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:37:22 :: [192.168.8.225:52342] [] Sent
+10.07.18 22:37:22 :: [192.168.8.225:52342] Data Received => s: permessage-deflate; client_max_window_bits
+
+ion: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgr
+10.07.18 22:37:22 :: [192.168.8.225:52342] Data Received => s: permessage-deflate; client_max_window_bits
+
+ion: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgr
+10.07.18 22:37:22 :: [192.168.8.225:52342] Data Received => s: permessage-deflate; client_max_window_bits
+
+ion: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgr
+10.07.18 22:37:22 :: [192.168.8.225:52342] Data Received => s: permessage-deflate; client_max_window_bits
+
+ion: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgr
+10.07.18 22:37:22 :: [192.168.8.225:52342] Data Received => s: permessage-deflate; client_max_window_bits
+
+ion: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgr
+10.07.18 22:37:22 :: [192.168.8.225:52342] Data Received => init of0001
+10.07.18 22:37:22 :: [192.168.8.225] Send data [init endisp;16,31,7,23,10,24,32,26,26,31,21,1,35,]
+10.07.18 22:37:22 :: [192.168.8.225:52342] [init of0001] Sent
+10.07.18 22:38:54 :: Send data [disdisp] to all clients
+10.07.18 22:38:54 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:38:54 :: [192.168.8.225:52342] [init of0001] Sent
+10.07.18 22:38:54 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:38:54 :: [192.168.8.225:52342] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:39:33 :: Send data [number 11] to all clients
+10.07.18 22:39:33 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:39:33 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:39:33 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:39:33 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:39:33 :: Send data [endisp] to all clients
+10.07.18 22:39:33 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:39:33 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:43:00 :: Send data [disdisp] to all clients
+10.07.18 22:43:00 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:43:00 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:43:00 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:43:00 :: [192.168.8.225:52342] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:43:31 :: Send data [number 23] to all clients
+10.07.18 22:43:31 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:43:31 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:43:31 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:43:31 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:43:32 :: Send data [endisp] to all clients
+10.07.18 22:43:32 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:43:32 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:46:57 :: Send data [disdisp] to all clients
+10.07.18 22:46:57 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:46:57 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:46:57 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:46:57 :: [192.168.8.225:52342] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:47:36 :: Send data [number 6] to all clients
+10.07.18 22:47:36 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:47:36 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:47:36 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:47:36 :: Send data [endisp] to all clients
+10.07.18 22:47:36 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:47:36 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:51:03 :: Send data [disdisp] to all clients
+10.07.18 22:51:03 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:51:03 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:51:03 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:51:03 :: [192.168.8.225:52342] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:51:39 :: Send data [number 36] to all clients
+10.07.18 22:51:39 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:51:39 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:51:39 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:51:39 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:51:39 :: Send data [endisp] to all clients
+10.07.18 22:51:39 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:51:39 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:55:05 :: Send data [disdisp] to all clients
+10.07.18 22:55:05 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:55:05 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:55:05 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:55:05 :: [192.168.8.225:52342] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:55:41 :: Send data [number 19] to all clients
+10.07.18 22:55:41 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:55:41 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:55:41 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:55:41 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:55:41 :: Send data [endisp] to all clients
+10.07.18 22:55:41 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:55:41 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:59:05 :: Send data [disdisp] to all clients
+10.07.18 22:59:05 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:59:05 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:59:05 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:59:05 :: [192.168.8.225:52342] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 22:59:44 :: Send data [number 35] to all clients
+10.07.18 22:59:44 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:59:44 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:59:44 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:59:44 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:59:44 :: Send data [endisp] to all clients
+10.07.18 22:59:45 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 22:59:45 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:03:11 :: Send data [disdisp] to all clients
+10.07.18 23:03:11 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:03:11 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:03:11 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:03:11 :: [192.168.8.225:52342] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:03:45 :: Send data [number 9] to all clients
+10.07.18 23:03:45 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:03:45 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:03:45 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:03:45 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:03:45 :: Send data [endisp] to all clients
+10.07.18 23:03:45 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:03:45 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:07:11 :: Send data [disdisp] to all clients
+10.07.18 23:07:11 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:07:11 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:07:11 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:07:11 :: [192.168.8.225:52342] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:07:48 :: Send data [number 29] to all clients
+10.07.18 23:07:48 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:07:48 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:07:48 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:07:48 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:07:48 :: Send data [endisp] to all clients
+10.07.18 23:07:48 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:07:48 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:11:15 :: Send data [disdisp] to all clients
+10.07.18 23:11:15 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:11:15 :: [192.168.8.225:52342] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:11:15 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:11:36 :: Client Disconnected : 192.168.8.225:52342
+10.07.18 23:11:49 :: Send data [number 22] to all clients
+10.07.18 23:11:49 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:11:49 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:11:49 :: Send data [endisp] to all clients
+10.07.18 23:11:49 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:15:15 :: Send data [disdisp] to all clients
+10.07.18 23:15:15 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:15:15 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:15:51 :: Send data [number 18] to all clients
+10.07.18 23:15:51 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:15:51 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:15:51 :: Send data [endisp] to all clients
+10.07.18 23:15:51 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:19:17 :: Send data [disdisp] to all clients
+10.07.18 23:19:17 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:19:17 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:19:54 :: Send data [number 9] to all clients
+10.07.18 23:19:54 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:19:54 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:19:54 :: Send data [endisp] to all clients
+10.07.18 23:19:55 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:23:21 :: Send data [disdisp] to all clients
+10.07.18 23:23:21 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:23:21 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:23:56 :: Send data [number 2] to all clients
+10.07.18 23:23:56 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:23:56 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:23:56 :: Send data [endisp] to all clients
+10.07.18 23:23:56 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:27:23 :: Send data [disdisp] to all clients
+10.07.18 23:27:23 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:27:23 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:27:59 :: Send data [number 11] to all clients
+10.07.18 23:27:59 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:27:59 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:28:00 :: Send data [endisp] to all clients
+10.07.18 23:28:00 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:31:23 :: Send data [disdisp] to all clients
+10.07.18 23:31:23 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:31:23 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:31:59 :: Send data [number 12] to all clients
+10.07.18 23:31:59 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:31:59 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:31:59 :: Send data [endisp] to all clients
+10.07.18 23:31:59 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:35:25 :: Send data [disdisp] to all clients
+10.07.18 23:35:25 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:35:25 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:36:00 :: Send data [number 2] to all clients
+10.07.18 23:36:00 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:36:00 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:36:00 :: Send data [endisp] to all clients
+10.07.18 23:36:00 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:39:26 :: Send data [disdisp] to all clients
+10.07.18 23:39:26 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:39:26 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:40:02 :: Send data [number 25] to all clients
+10.07.18 23:40:02 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:40:02 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:40:02 :: Send data [endisp] to all clients
+10.07.18 23:40:02 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:43:29 :: Send data [disdisp] to all clients
+10.07.18 23:43:29 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:43:29 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:44:03 :: Send data [number 29] to all clients
+10.07.18 23:44:03 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:44:03 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:44:03 :: Send data [endisp] to all clients
+10.07.18 23:44:03 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:47:28 :: Send data [disdisp] to all clients
+10.07.18 23:47:28 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:47:28 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:48:03 :: Send data [number 27] to all clients
+10.07.18 23:48:03 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:48:03 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:48:04 :: Send data [endisp] to all clients
+10.07.18 23:48:04 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:51:28 :: Send data [disdisp] to all clients
+10.07.18 23:51:28 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:51:28 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:52:08 :: Send data [number 26] to all clients
+10.07.18 23:52:08 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:52:08 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:52:08 :: Send data [endisp] to all clients
+10.07.18 23:52:08 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:55:33 :: Send data [disdisp] to all clients
+10.07.18 23:55:33 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:55:33 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10.07.18 23:56:10 :: Send data [number 15] to all clients
+10.07.18 23:56:10 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:56:10 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:56:11 :: Send data [endisp] to all clients
+10.07.18 23:56:11 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:59:38 :: Send data [disdisp] to all clients
+10.07.18 23:59:38 :: [192.168.156.10:59972] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+10.07.18 23:59:38 :: [192.168.156.10:59972] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0

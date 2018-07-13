@@ -1,0 +1,2410 @@
+06.09.13 00:00:07 :: Send data [number 30] to all clients
+06.09.13 00:00:08 :: Send data [endisp] to all clients
+06.09.13 00:00:37 :: Send data [disdisp] to all clients
+06.09.13 00:01:11 :: Send data [number 28] to all clients
+06.09.13 00:01:12 :: Send data [endisp] to all clients
+06.09.13 00:01:40 :: Send data [disdisp] to all clients
+06.09.13 00:02:14 :: Send data [number 2] to all clients
+06.09.13 00:02:15 :: Send data [endisp] to all clients
+06.09.13 00:02:44 :: Send data [disdisp] to all clients
+06.09.13 00:03:19 :: Send data [number 3] to all clients
+06.09.13 00:03:19 :: Send data [endisp] to all clients
+06.09.13 00:03:47 :: Send data [disdisp] to all clients
+06.09.13 00:04:25 :: Send data [number 34] to all clients
+06.09.13 00:04:26 :: Send data [endisp] to all clients
+06.09.13 00:04:56 :: Send data [disdisp] to all clients
+06.09.13 00:05:32 :: Send data [number 9] to all clients
+06.09.13 00:05:33 :: Send data [endisp] to all clients
+06.09.13 00:06:02 :: Send data [disdisp] to all clients
+06.09.13 00:06:35 :: Send data [number 8] to all clients
+06.09.13 00:06:36 :: Send data [endisp] to all clients
+06.09.13 00:07:06 :: Send data [disdisp] to all clients
+06.09.13 00:07:39 :: Send data [number 26] to all clients
+06.09.13 00:07:40 :: Send data [endisp] to all clients
+06.09.13 00:08:10 :: Send data [disdisp] to all clients
+06.09.13 00:08:40 :: Send data [number 36] to all clients
+06.09.13 00:08:40 :: Send data [endisp] to all clients
+06.09.13 00:09:09 :: Send data [disdisp] to all clients
+06.09.13 00:09:43 :: Send data [number 12] to all clients
+06.09.13 00:09:44 :: Send data [endisp] to all clients
+06.09.13 00:10:12 :: Send data [disdisp] to all clients
+06.09.13 00:10:46 :: Send data [number 7] to all clients
+06.09.13 00:10:47 :: Send data [endisp] to all clients
+06.09.13 00:11:15 :: Send data [disdisp] to all clients
+06.09.13 00:11:52 :: Send data [number 25] to all clients
+06.09.13 00:11:52 :: Send data [endisp] to all clients
+06.09.13 00:12:22 :: Send data [disdisp] to all clients
+06.09.13 00:12:57 :: Send data [number 1] to all clients
+06.09.13 00:12:57 :: Send data [endisp] to all clients
+06.09.13 00:13:27 :: Send data [disdisp] to all clients
+06.09.13 00:14:00 :: Send data [number 29] to all clients
+06.09.13 00:14:00 :: Send data [endisp] to all clients
+06.09.13 00:14:30 :: Send data [disdisp] to all clients
+06.09.13 00:15:03 :: Send data [number 34] to all clients
+06.09.13 00:15:03 :: Send data [endisp] to all clients
+06.09.13 00:15:32 :: Send data [disdisp] to all clients
+06.09.13 00:16:07 :: Send data [number 9] to all clients
+06.09.13 00:16:07 :: Send data [endisp] to all clients
+06.09.13 00:16:36 :: Send data [disdisp] to all clients
+06.09.13 00:17:10 :: Send data [number 25] to all clients
+06.09.13 00:17:11 :: Send data [endisp] to all clients
+06.09.13 00:17:38 :: Send data [disdisp] to all clients
+06.09.13 00:18:16 :: Send data [number 5] to all clients
+06.09.13 00:18:16 :: Send data [endisp] to all clients
+06.09.13 00:18:44 :: Send data [disdisp] to all clients
+06.09.13 00:19:17 :: Send data [number 13] to all clients
+06.09.13 00:19:17 :: Send data [endisp] to all clients
+06.09.13 00:19:47 :: Send data [disdisp] to all clients
+06.09.13 00:20:21 :: Send data [number 13] to all clients
+06.09.13 00:20:22 :: Send data [endisp] to all clients
+06.09.13 00:20:49 :: Send data [disdisp] to all clients
+06.09.13 00:21:28 :: Send data [number 9] to all clients
+06.09.13 00:21:30 :: Send data [endisp] to all clients
+06.09.13 00:22:00 :: Send data [disdisp] to all clients
+06.09.13 00:22:30 :: Send data [number 27] to all clients
+06.09.13 00:22:31 :: Send data [endisp] to all clients
+06.09.13 00:22:59 :: Send data [disdisp] to all clients
+06.09.13 00:23:33 :: Send data [number 29] to all clients
+06.09.13 00:23:33 :: Send data [endisp] to all clients
+06.09.13 00:24:01 :: Send data [disdisp] to all clients
+06.09.13 00:24:38 :: Send data [number 25] to all clients
+06.09.13 00:24:38 :: Send data [endisp] to all clients
+06.09.13 00:25:05 :: Send data [disdisp] to all clients
+06.09.13 00:25:41 :: Send data [number 13] to all clients
+06.09.13 00:25:41 :: Send data [endisp] to all clients
+06.09.13 00:26:10 :: Send data [disdisp] to all clients
+06.09.13 00:26:45 :: Send data [number 25] to all clients
+06.09.13 00:26:45 :: Send data [endisp] to all clients
+06.09.13 00:27:12 :: Send data [disdisp] to all clients
+06.09.13 00:27:50 :: Send data [number 32] to all clients
+06.09.13 00:27:52 :: Send data [endisp] to all clients
+06.09.13 00:28:21 :: Send data [disdisp] to all clients
+06.09.13 00:28:54 :: Send data [number 9] to all clients
+06.09.13 00:28:55 :: Send data [endisp] to all clients
+06.09.13 00:29:24 :: Send data [disdisp] to all clients
+06.09.13 00:29:58 :: Send data [number 15] to all clients
+06.09.13 00:29:58 :: Send data [endisp] to all clients
+06.09.13 00:30:27 :: Send data [disdisp] to all clients
+06.09.13 00:31:02 :: Send data [number 6] to all clients
+06.09.13 00:31:03 :: Send data [endisp] to all clients
+06.09.13 00:31:31 :: Send data [disdisp] to all clients
+06.09.13 00:32:08 :: Send data [number 0] to all clients
+06.09.13 00:32:09 :: Send data [endisp] to all clients
+06.09.13 00:32:38 :: Send data [disdisp] to all clients
+06.09.13 00:33:13 :: Send data [number 28] to all clients
+06.09.13 00:33:14 :: Send data [endisp] to all clients
+06.09.13 00:33:43 :: Send data [disdisp] to all clients
+06.09.13 00:34:17 :: Send data [number 21] to all clients
+06.09.13 00:34:17 :: Send data [endisp] to all clients
+06.09.13 00:34:47 :: Send data [disdisp] to all clients
+06.09.13 00:35:23 :: Send data [number 6] to all clients
+06.09.13 00:35:23 :: Send data [endisp] to all clients
+06.09.13 00:35:53 :: Send data [disdisp] to all clients
+06.09.13 00:36:25 :: Send data [number 15] to all clients
+06.09.13 00:36:26 :: Send data [endisp] to all clients
+06.09.13 00:36:53 :: Send data [disdisp] to all clients
+06.09.13 00:37:32 :: Send data [number 29] to all clients
+06.09.13 00:37:33 :: Send data [endisp] to all clients
+06.09.13 00:38:01 :: Send data [disdisp] to all clients
+06.09.13 00:38:34 :: Send data [number 3] to all clients
+06.09.13 00:38:35 :: Send data [endisp] to all clients
+06.09.13 00:39:02 :: Send data [disdisp] to all clients
+06.09.13 00:39:39 :: Send data [number 30] to all clients
+06.09.13 00:39:40 :: Send data [endisp] to all clients
+06.09.13 00:40:09 :: Send data [disdisp] to all clients
+06.09.13 00:40:45 :: Send data [number 13] to all clients
+06.09.13 00:40:45 :: Send data [endisp] to all clients
+06.09.13 00:41:15 :: Send data [disdisp] to all clients
+06.09.13 00:41:47 :: Send data [number 25] to all clients
+06.09.13 00:41:47 :: Send data [endisp] to all clients
+06.09.13 00:42:17 :: Send data [disdisp] to all clients
+06.09.13 00:42:50 :: Send data [number 33] to all clients
+06.09.13 00:42:51 :: Send data [endisp] to all clients
+06.09.13 00:43:20 :: Send data [disdisp] to all clients
+06.09.13 00:43:56 :: Send data [number 25] to all clients
+06.09.13 00:43:56 :: Send data [endisp] to all clients
+06.09.13 00:44:25 :: Send data [disdisp] to all clients
+06.09.13 00:44:58 :: Send data [number 14] to all clients
+06.09.13 00:44:58 :: Send data [endisp] to all clients
+06.09.13 00:45:29 :: Send data [disdisp] to all clients
+06.09.13 00:46:02 :: Send data [number 3] to all clients
+06.09.13 00:46:02 :: Send data [endisp] to all clients
+06.09.13 00:46:31 :: Send data [disdisp] to all clients
+06.09.13 00:47:05 :: Send data [number 20] to all clients
+06.09.13 00:47:06 :: Send data [endisp] to all clients
+06.09.13 00:47:35 :: Send data [disdisp] to all clients
+06.09.13 00:48:07 :: Send data [number 5] to all clients
+06.09.13 00:48:08 :: Send data [endisp] to all clients
+06.09.13 00:48:36 :: Send data [disdisp] to all clients
+06.09.13 00:49:11 :: Send data [number 34] to all clients
+06.09.13 00:49:11 :: Send data [endisp] to all clients
+06.09.13 00:49:40 :: Send data [disdisp] to all clients
+06.09.13 00:50:15 :: Send data [number 32] to all clients
+06.09.13 00:50:16 :: Send data [endisp] to all clients
+06.09.13 00:50:44 :: Send data [disdisp] to all clients
+06.09.13 00:51:19 :: Send data [number 4] to all clients
+06.09.13 00:51:20 :: Send data [endisp] to all clients
+06.09.13 00:51:49 :: Send data [disdisp] to all clients
+06.09.13 00:52:25 :: Send data [number 30] to all clients
+06.09.13 00:52:26 :: Send data [endisp] to all clients
+06.09.13 00:52:55 :: Send data [disdisp] to all clients
+06.09.13 00:53:27 :: Send data [number 19] to all clients
+06.09.13 00:53:28 :: Send data [endisp] to all clients
+06.09.13 00:53:57 :: Send data [disdisp] to all clients
+06.09.13 00:54:33 :: Send data [number 34] to all clients
+06.09.13 00:54:33 :: Send data [endisp] to all clients
+06.09.13 00:55:03 :: Send data [disdisp] to all clients
+06.09.13 00:55:35 :: Send data [number 7] to all clients
+06.09.13 00:55:36 :: Send data [endisp] to all clients
+06.09.13 00:56:05 :: Send data [disdisp] to all clients
+06.09.13 00:56:37 :: Send data [number 21] to all clients
+06.09.13 00:56:38 :: Send data [endisp] to all clients
+06.09.13 00:57:06 :: Send data [disdisp] to all clients
+06.09.13 00:57:41 :: Send data [number 0] to all clients
+06.09.13 00:57:41 :: Send data [endisp] to all clients
+06.09.13 00:58:11 :: Send data [disdisp] to all clients
+06.09.13 00:58:45 :: Send data [number 19] to all clients
+06.09.13 00:58:46 :: Send data [endisp] to all clients
+06.09.13 00:59:15 :: Send data [disdisp] to all clients
+06.09.13 00:59:52 :: Send data [number 21] to all clients
+06.09.13 00:59:52 :: Send data [endisp] to all clients
+06.09.13 01:00:22 :: Send data [disdisp] to all clients
+06.09.13 01:00:56 :: Send data [number 19] to all clients
+06.09.13 01:00:56 :: Send data [endisp] to all clients
+06.09.13 01:01:27 :: Send data [disdisp] to all clients
+06.09.13 01:01:59 :: Send data [number 0] to all clients
+06.09.13 01:01:59 :: Send data [endisp] to all clients
+06.09.13 01:02:27 :: Send data [disdisp] to all clients
+06.09.13 01:03:03 :: Send data [number 23] to all clients
+06.09.13 01:03:03 :: Send data [endisp] to all clients
+06.09.13 01:03:31 :: Send data [disdisp] to all clients
+06.09.13 01:04:04 :: Send data [number 31] to all clients
+06.09.13 01:04:05 :: Send data [endisp] to all clients
+06.09.13 01:04:35 :: Send data [disdisp] to all clients
+06.09.13 01:05:08 :: Send data [number 28] to all clients
+06.09.13 01:05:09 :: Send data [endisp] to all clients
+06.09.13 01:05:38 :: Send data [disdisp] to all clients
+06.09.13 01:06:12 :: Send data [number 9] to all clients
+06.09.13 01:06:12 :: Send data [endisp] to all clients
+06.09.13 01:06:42 :: Send data [disdisp] to all clients
+06.09.13 01:07:19 :: Send data [number 0] to all clients
+06.09.13 01:07:20 :: Send data [endisp] to all clients
+06.09.13 01:07:49 :: Send data [disdisp] to all clients
+06.09.13 01:08:26 :: Send data [number 14] to all clients
+06.09.13 01:08:26 :: Send data [endisp] to all clients
+06.09.13 01:08:55 :: Send data [disdisp] to all clients
+06.09.13 01:09:31 :: Send data [number 25] to all clients
+06.09.13 01:09:32 :: Send data [endisp] to all clients
+06.09.13 01:10:00 :: Send data [disdisp] to all clients
+06.09.13 01:10:36 :: Send data [number 14] to all clients
+06.09.13 01:10:37 :: Send data [endisp] to all clients
+06.09.13 01:11:06 :: Send data [disdisp] to all clients
+06.09.13 01:11:39 :: Send data [number 19] to all clients
+06.09.13 01:11:40 :: Send data [endisp] to all clients
+06.09.13 01:12:07 :: Send data [disdisp] to all clients
+06.09.13 01:12:44 :: Send data [number 27] to all clients
+06.09.13 01:12:45 :: Send data [endisp] to all clients
+06.09.13 01:13:14 :: Send data [disdisp] to all clients
+06.09.13 01:13:49 :: Send data [number 4] to all clients
+06.09.13 01:13:49 :: Send data [endisp] to all clients
+06.09.13 01:14:17 :: Send data [disdisp] to all clients
+06.09.13 01:14:54 :: Send data [number 15] to all clients
+06.09.13 01:14:55 :: Send data [endisp] to all clients
+06.09.13 01:15:24 :: Send data [disdisp] to all clients
+06.09.13 01:15:57 :: Send data [number 15] to all clients
+06.09.13 01:15:57 :: Send data [endisp] to all clients
+06.09.13 01:16:25 :: Send data [disdisp] to all clients
+06.09.13 01:17:00 :: Send data [number 19] to all clients
+06.09.13 01:17:00 :: Send data [endisp] to all clients
+06.09.13 01:17:31 :: Send data [disdisp] to all clients
+06.09.13 01:18:04 :: Send data [number 10] to all clients
+06.09.13 01:18:05 :: Send data [endisp] to all clients
+06.09.13 01:18:33 :: Send data [disdisp] to all clients
+06.09.13 01:19:08 :: Send data [number 8] to all clients
+06.09.13 01:19:09 :: Send data [endisp] to all clients
+06.09.13 01:19:37 :: Send data [disdisp] to all clients
+06.09.13 01:20:12 :: Send data [number 17] to all clients
+06.09.13 01:20:13 :: Send data [endisp] to all clients
+06.09.13 01:20:42 :: Send data [disdisp] to all clients
+06.09.13 01:21:17 :: Send data [number 6] to all clients
+06.09.13 01:21:17 :: Send data [endisp] to all clients
+06.09.13 01:21:47 :: Send data [disdisp] to all clients
+06.09.13 01:22:20 :: Send data [number 32] to all clients
+06.09.13 01:22:20 :: Send data [endisp] to all clients
+06.09.13 01:22:48 :: Send data [disdisp] to all clients
+06.09.13 01:23:25 :: Send data [number 3] to all clients
+06.09.13 01:23:25 :: Send data [endisp] to all clients
+06.09.13 01:23:54 :: Send data [disdisp] to all clients
+06.09.13 01:24:30 :: Send data [number 33] to all clients
+06.09.13 01:24:31 :: Send data [endisp] to all clients
+06.09.13 01:24:59 :: Send data [disdisp] to all clients
+06.09.13 01:25:35 :: Send data [number 11] to all clients
+06.09.13 01:25:36 :: Send data [endisp] to all clients
+06.09.13 01:26:05 :: Send data [disdisp] to all clients
+06.09.13 01:26:38 :: Send data [number 32] to all clients
+06.09.13 01:26:39 :: Send data [endisp] to all clients
+06.09.13 01:27:08 :: Send data [disdisp] to all clients
+06.09.13 01:27:42 :: Send data [number 15] to all clients
+06.09.13 01:27:43 :: Send data [endisp] to all clients
+06.09.13 01:28:11 :: Send data [disdisp] to all clients
+06.09.13 01:28:48 :: Send data [number 10] to all clients
+06.09.13 01:28:49 :: Send data [endisp] to all clients
+06.09.13 01:29:17 :: Send data [disdisp] to all clients
+06.09.13 01:29:51 :: Send data [number 19] to all clients
+06.09.13 01:29:52 :: Send data [endisp] to all clients
+06.09.13 01:30:21 :: Send data [disdisp] to all clients
+06.09.13 01:30:56 :: Send data [number 10] to all clients
+06.09.13 01:31:25 :: Send data [disdisp] to all clients
+06.09.13 01:31:59 :: Send data [number 18] to all clients
+06.09.13 01:32:00 :: Send data [endisp] to all clients
+06.09.13 01:32:29 :: Send data [disdisp] to all clients
+06.09.13 01:33:03 :: Send data [number 35] to all clients
+06.09.13 01:33:03 :: Send data [endisp] to all clients
+06.09.13 01:33:31 :: Send data [disdisp] to all clients
+06.09.13 01:34:04 :: Send data [number 32] to all clients
+06.09.13 01:34:04 :: Send data [endisp] to all clients
+06.09.13 01:34:32 :: Send data [disdisp] to all clients
+06.09.13 01:35:07 :: Send data [number 28] to all clients
+06.09.13 01:35:07 :: Send data [endisp] to all clients
+06.09.13 01:35:35 :: Send data [disdisp] to all clients
+06.09.13 01:36:10 :: Send data [number 34] to all clients
+06.09.13 01:36:11 :: Send data [endisp] to all clients
+06.09.13 01:36:42 :: Send data [disdisp] to all clients
+06.09.13 01:37:13 :: Send data [number 30] to all clients
+06.09.13 01:37:14 :: Send data [endisp] to all clients
+06.09.13 01:37:41 :: Send data [disdisp] to all clients
+06.09.13 01:38:17 :: Send data [number 7] to all clients
+06.09.13 01:38:18 :: Send data [endisp] to all clients
+06.09.13 01:38:48 :: Send data [disdisp] to all clients
+06.09.13 01:39:23 :: Send data [number 8] to all clients
+06.09.13 01:39:23 :: Send data [endisp] to all clients
+06.09.13 01:39:52 :: Send data [disdisp] to all clients
+06.09.13 01:40:26 :: Send data [number 17] to all clients
+06.09.13 01:40:26 :: Send data [endisp] to all clients
+06.09.13 01:40:54 :: Send data [disdisp] to all clients
+06.09.13 01:41:28 :: Send data [number 27] to all clients
+06.09.13 01:41:29 :: Send data [endisp] to all clients
+06.09.13 01:41:57 :: Send data [disdisp] to all clients
+06.09.13 01:42:27 :: Send data [number 6] to all clients
+06.09.13 01:42:27 :: Send data [endisp] to all clients
+06.09.13 01:42:55 :: Send data [disdisp] to all clients
+06.09.13 01:43:30 :: Send data [number 20] to all clients
+06.09.13 01:43:30 :: Send data [endisp] to all clients
+06.09.13 01:44:00 :: Send data [disdisp] to all clients
+06.09.13 01:44:36 :: Send data [number 19] to all clients
+06.09.13 01:44:36 :: Send data [endisp] to all clients
+06.09.13 01:45:05 :: Send data [disdisp] to all clients
+06.09.13 01:45:40 :: Send data [number 27] to all clients
+06.09.13 01:45:40 :: Send data [endisp] to all clients
+06.09.13 01:46:10 :: Send data [disdisp] to all clients
+06.09.13 01:46:43 :: Send data [number 28] to all clients
+06.09.13 01:46:45 :: Send data [endisp] to all clients
+06.09.13 01:47:15 :: Send data [disdisp] to all clients
+06.09.13 01:47:47 :: Send data [number 36] to all clients
+06.09.13 01:47:48 :: Send data [endisp] to all clients
+06.09.13 01:48:18 :: Send data [disdisp] to all clients
+06.09.13 01:48:54 :: Send data [number 10] to all clients
+06.09.13 01:48:54 :: Send data [endisp] to all clients
+06.09.13 01:49:23 :: Send data [disdisp] to all clients
+06.09.13 01:49:57 :: Send data [number 27] to all clients
+06.09.13 01:49:57 :: Send data [endisp] to all clients
+06.09.13 01:50:25 :: Send data [disdisp] to all clients
+06.09.13 01:51:00 :: Send data [number 1] to all clients
+06.09.13 01:51:00 :: Send data [endisp] to all clients
+06.09.13 01:51:29 :: Send data [disdisp] to all clients
+06.09.13 01:52:04 :: Send data [number 17] to all clients
+06.09.13 01:52:04 :: Send data [endisp] to all clients
+06.09.13 01:52:31 :: Send data [disdisp] to all clients
+06.09.13 01:53:04 :: Send data [number 22] to all clients
+06.09.13 01:53:05 :: Send data [endisp] to all clients
+06.09.13 01:53:33 :: Send data [disdisp] to all clients
+06.09.13 01:54:08 :: Send data [number 2] to all clients
+06.09.13 01:54:08 :: Send data [endisp] to all clients
+06.09.13 01:54:37 :: Send data [disdisp] to all clients
+06.09.13 01:55:14 :: Send data [number 20] to all clients
+06.09.13 01:55:14 :: Send data [endisp] to all clients
+06.09.13 01:55:43 :: Send data [disdisp] to all clients
+06.09.13 01:56:15 :: Send data [number 18] to all clients
+06.09.13 01:56:15 :: Send data [endisp] to all clients
+06.09.13 01:56:43 :: Send data [disdisp] to all clients
+06.09.13 01:57:16 :: Send data [number 7] to all clients
+06.09.13 01:57:17 :: Send data [endisp] to all clients
+06.09.13 01:57:47 :: Send data [disdisp] to all clients
+06.09.13 01:58:19 :: Send data [number 29] to all clients
+06.09.13 01:58:19 :: Send data [endisp] to all clients
+06.09.13 01:58:47 :: Send data [disdisp] to all clients
+06.09.13 01:59:22 :: Send data [number 16] to all clients
+06.09.13 01:59:22 :: Send data [endisp] to all clients
+06.09.13 01:59:52 :: Send data [disdisp] to all clients
+06.09.13 02:00:21 :: Send data [number 32] to all clients
+06.09.13 02:00:22 :: Send data [endisp] to all clients
+06.09.13 02:00:51 :: Send data [disdisp] to all clients
+06.09.13 02:01:25 :: Send data [number 32] to all clients
+06.09.13 02:01:26 :: Send data [endisp] to all clients
+06.09.13 02:01:53 :: Send data [disdisp] to all clients
+06.09.13 02:02:28 :: Send data [number 11] to all clients
+06.09.13 02:02:29 :: Send data [endisp] to all clients
+06.09.13 02:02:58 :: Send data [disdisp] to all clients
+06.09.13 02:03:34 :: Send data [number 2] to all clients
+06.09.13 02:03:35 :: Send data [endisp] to all clients
+06.09.13 02:04:05 :: Send data [disdisp] to all clients
+06.09.13 02:04:40 :: Send data [number 12] to all clients
+06.09.13 02:04:40 :: Send data [endisp] to all clients
+06.09.13 02:05:11 :: Send data [disdisp] to all clients
+06.09.13 02:05:45 :: Send data [number 12] to all clients
+06.09.13 02:05:46 :: Send data [endisp] to all clients
+06.09.13 02:06:15 :: Send data [disdisp] to all clients
+06.09.13 02:06:47 :: Send data [number 10] to all clients
+06.09.13 02:06:47 :: Send data [endisp] to all clients
+06.09.13 02:07:17 :: Send data [disdisp] to all clients
+06.09.13 02:07:49 :: Send data [number 26] to all clients
+06.09.13 02:07:51 :: Send data [endisp] to all clients
+06.09.13 02:08:20 :: Send data [disdisp] to all clients
+06.09.13 02:08:58 :: Send data [number 17] to all clients
+06.09.13 02:08:58 :: Send data [endisp] to all clients
+06.09.13 02:09:28 :: Send data [disdisp] to all clients
+06.09.13 02:10:02 :: Send data [number 21] to all clients
+06.09.13 02:10:03 :: Send data [endisp] to all clients
+06.09.13 02:10:32 :: Send data [disdisp] to all clients
+06.09.13 02:11:07 :: Send data [number 22] to all clients
+06.09.13 02:11:07 :: Send data [endisp] to all clients
+06.09.13 02:11:37 :: Send data [disdisp] to all clients
+06.09.13 02:12:10 :: Send data [number 18] to all clients
+06.09.13 02:12:10 :: Send data [endisp] to all clients
+06.09.13 02:12:39 :: Send data [disdisp] to all clients
+06.09.13 02:13:13 :: Send data [number 30] to all clients
+06.09.13 02:13:13 :: Send data [endisp] to all clients
+06.09.13 02:13:39 :: Send data [disdisp] to all clients
+06.09.13 02:14:16 :: Send data [number 11] to all clients
+06.09.13 02:14:17 :: Send data [endisp] to all clients
+06.09.13 02:14:46 :: Send data [disdisp] to all clients
+06.09.13 02:15:24 :: Send data [number 10] to all clients
+06.09.13 02:15:25 :: Send data [endisp] to all clients
+06.09.13 02:15:54 :: Send data [disdisp] to all clients
+06.09.13 02:16:29 :: Send data [number 20] to all clients
+06.09.13 02:16:29 :: Send data [endisp] to all clients
+06.09.13 02:16:57 :: Send data [disdisp] to all clients
+06.09.13 02:17:29 :: Send data [number 32] to all clients
+06.09.13 02:17:30 :: Send data [endisp] to all clients
+06.09.13 02:17:58 :: Send data [disdisp] to all clients
+06.09.13 02:18:31 :: Send data [number 21] to all clients
+06.09.13 02:18:32 :: Send data [endisp] to all clients
+06.09.13 02:19:02 :: Send data [disdisp] to all clients
+06.09.13 02:19:37 :: Send data [number 23] to all clients
+06.09.13 02:19:37 :: Send data [endisp] to all clients
+06.09.13 02:20:05 :: Send data [disdisp] to all clients
+06.09.13 02:20:49 :: Send data [number 10] to all clients
+06.09.13 02:20:50 :: Send data [endisp] to all clients
+06.09.13 02:21:20 :: Send data [disdisp] to all clients
+06.09.13 02:21:54 :: Send data [number 2] to all clients
+06.09.13 02:21:54 :: Send data [endisp] to all clients
+06.09.13 02:22:23 :: Send data [disdisp] to all clients
+06.09.13 02:22:55 :: Send data [number 36] to all clients
+06.09.13 02:22:55 :: Send data [endisp] to all clients
+06.09.13 02:23:24 :: Send data [disdisp] to all clients
+06.09.13 02:24:02 :: Send data [number 33] to all clients
+06.09.13 02:24:03 :: Send data [endisp] to all clients
+06.09.13 02:24:32 :: Send data [disdisp] to all clients
+06.09.13 02:25:03 :: Send data [number 11] to all clients
+06.09.13 02:25:03 :: Send data [endisp] to all clients
+06.09.13 02:25:32 :: Send data [disdisp] to all clients
+06.09.13 02:26:07 :: Send data [number 2] to all clients
+06.09.13 02:26:07 :: Send data [endisp] to all clients
+06.09.13 02:26:36 :: Send data [disdisp] to all clients
+06.09.13 02:27:09 :: Send data [number 20] to all clients
+06.09.13 02:27:09 :: Send data [endisp] to all clients
+06.09.13 02:27:37 :: Send data [disdisp] to all clients
+06.09.13 02:28:14 :: Send data [number 3] to all clients
+06.09.13 02:28:14 :: Send data [endisp] to all clients
+06.09.13 02:28:44 :: Send data [disdisp] to all clients
+06.09.13 02:29:23 :: Send data [number 5] to all clients
+06.09.13 02:29:24 :: Send data [endisp] to all clients
+06.09.13 02:29:52 :: Send data [disdisp] to all clients
+06.09.13 02:30:30 :: Send data [number 14] to all clients
+06.09.13 02:30:30 :: Send data [endisp] to all clients
+06.09.13 02:30:58 :: Send data [disdisp] to all clients
+06.09.13 02:31:34 :: Send data [number 28] to all clients
+06.09.13 02:31:35 :: Send data [endisp] to all clients
+06.09.13 02:32:03 :: Send data [disdisp] to all clients
+06.09.13 02:32:40 :: Send data [number 0] to all clients
+06.09.13 02:32:41 :: Send data [endisp] to all clients
+06.09.13 02:33:10 :: Send data [disdisp] to all clients
+06.09.13 02:33:43 :: Send data [number 11] to all clients
+06.09.13 02:33:44 :: Send data [endisp] to all clients
+06.09.13 02:34:11 :: Send data [disdisp] to all clients
+06.09.13 02:34:49 :: Send data [number 6] to all clients
+06.09.13 02:34:50 :: Send data [endisp] to all clients
+06.09.13 02:35:19 :: Send data [disdisp] to all clients
+06.09.13 02:35:55 :: Send data [number 1] to all clients
+06.09.13 02:35:56 :: Send data [endisp] to all clients
+06.09.13 02:36:27 :: Send data [disdisp] to all clients
+06.09.13 02:36:58 :: Send data [number 19] to all clients
+06.09.13 02:36:58 :: Send data [endisp] to all clients
+06.09.13 02:37:28 :: Send data [disdisp] to all clients
+06.09.13 02:38:05 :: Send data [number 36] to all clients
+06.09.13 02:38:06 :: Send data [endisp] to all clients
+06.09.13 02:38:34 :: Send data [disdisp] to all clients
+06.09.13 02:39:07 :: Send data [number 11] to all clients
+06.09.13 02:39:07 :: Send data [endisp] to all clients
+06.09.13 02:39:38 :: Send data [disdisp] to all clients
+06.09.13 02:40:11 :: Send data [number 36] to all clients
+06.09.13 02:40:12 :: Send data [endisp] to all clients
+06.09.13 02:40:42 :: Send data [disdisp] to all clients
+06.09.13 02:41:18 :: Send data [number 4] to all clients
+06.09.13 02:41:18 :: Send data [endisp] to all clients
+06.09.13 02:41:46 :: Send data [disdisp] to all clients
+06.09.13 02:42:23 :: Send data [number 3] to all clients
+06.09.13 02:42:23 :: Send data [endisp] to all clients
+06.09.13 02:42:52 :: Send data [disdisp] to all clients
+06.09.13 02:43:27 :: Send data [number 12] to all clients
+06.09.13 02:43:28 :: Send data [endisp] to all clients
+06.09.13 02:43:57 :: Send data [disdisp] to all clients
+06.09.13 02:44:30 :: Send data [number 35] to all clients
+06.09.13 02:44:30 :: Send data [endisp] to all clients
+06.09.13 02:45:00 :: Send data [disdisp] to all clients
+06.09.13 02:45:36 :: Send data [number 15] to all clients
+06.09.13 02:45:36 :: Send data [endisp] to all clients
+06.09.13 02:46:04 :: Send data [disdisp] to all clients
+06.09.13 02:46:35 :: Send data [number 12] to all clients
+06.09.13 02:46:35 :: Send data [endisp] to all clients
+06.09.13 02:47:05 :: Send data [disdisp] to all clients
+06.09.13 02:47:36 :: Send data [number 6] to all clients
+06.09.13 02:47:37 :: Send data [endisp] to all clients
+06.09.13 02:48:06 :: Send data [disdisp] to all clients
+06.09.13 02:48:39 :: Send data [number 35] to all clients
+06.09.13 02:48:39 :: Send data [endisp] to all clients
+06.09.13 02:49:08 :: Send data [disdisp] to all clients
+06.09.13 02:49:40 :: Send data [number 34] to all clients
+06.09.13 02:49:41 :: Send data [endisp] to all clients
+06.09.13 02:50:11 :: Send data [disdisp] to all clients
+06.09.13 02:50:45 :: Send data [number 32] to all clients
+06.09.13 02:50:46 :: Send data [endisp] to all clients
+06.09.13 02:51:16 :: Send data [disdisp] to all clients
+06.09.13 02:51:51 :: Send data [number 22] to all clients
+06.09.13 02:51:52 :: Send data [endisp] to all clients
+06.09.13 02:52:18 :: Send data [disdisp] to all clients
+06.09.13 02:52:55 :: Send data [number 18] to all clients
+06.09.13 02:52:56 :: Send data [endisp] to all clients
+06.09.13 02:53:25 :: Send data [disdisp] to all clients
+06.09.13 02:54:00 :: Send data [number 19] to all clients
+06.09.13 02:54:01 :: Send data [endisp] to all clients
+06.09.13 02:54:30 :: Send data [disdisp] to all clients
+06.09.13 02:55:05 :: Send data [number 6] to all clients
+06.09.13 02:55:06 :: Send data [endisp] to all clients
+06.09.13 02:55:33 :: Send data [disdisp] to all clients
+06.09.13 02:56:14 :: Send data [number 1] to all clients
+06.09.13 02:56:14 :: Send data [endisp] to all clients
+06.09.13 02:56:45 :: Send data [disdisp] to all clients
+06.09.13 02:57:18 :: Send data [number 25] to all clients
+06.09.13 02:57:18 :: Send data [endisp] to all clients
+06.09.13 02:57:44 :: Send data [disdisp] to all clients
+06.09.13 02:58:23 :: Send data [number 17] to all clients
+06.09.13 02:58:23 :: Send data [endisp] to all clients
+06.09.13 02:58:53 :: Send data [disdisp] to all clients
+06.09.13 02:59:28 :: Send data [number 9] to all clients
+06.09.13 02:59:28 :: Send data [endisp] to all clients
+06.09.13 02:59:58 :: Send data [disdisp] to all clients
+06.09.13 03:00:34 :: Send data [number 23] to all clients
+06.09.13 03:00:34 :: Send data [endisp] to all clients
+06.09.13 03:01:02 :: Send data [disdisp] to all clients
+06.09.13 03:01:37 :: Send data [number 22] to all clients
+06.09.13 03:01:39 :: Send data [endisp] to all clients
+06.09.13 03:02:09 :: Send data [disdisp] to all clients
+06.09.13 03:02:45 :: Send data [number 34] to all clients
+06.09.13 03:02:46 :: Send data [endisp] to all clients
+06.09.13 03:03:16 :: Send data [disdisp] to all clients
+06.09.13 03:03:50 :: Send data [number 7] to all clients
+06.09.13 03:03:51 :: Send data [endisp] to all clients
+06.09.13 03:04:18 :: Send data [disdisp] to all clients
+06.09.13 03:04:58 :: Send data [number 9] to all clients
+06.09.13 03:04:58 :: Send data [endisp] to all clients
+06.09.13 03:05:29 :: Send data [disdisp] to all clients
+06.09.13 03:06:02 :: Send data [number 24] to all clients
+06.09.13 03:06:03 :: Send data [endisp] to all clients
+06.09.13 03:06:30 :: Send data [disdisp] to all clients
+06.09.13 03:07:09 :: Send data [number 2] to all clients
+06.09.13 03:07:10 :: Send data [endisp] to all clients
+06.09.13 03:07:40 :: Send data [disdisp] to all clients
+06.09.13 03:08:13 :: Send data [number 14] to all clients
+06.09.13 03:08:14 :: Send data [endisp] to all clients
+06.09.13 03:08:42 :: Send data [disdisp] to all clients
+06.09.13 03:09:16 :: Send data [number 33] to all clients
+06.09.13 03:09:17 :: Send data [endisp] to all clients
+06.09.13 03:09:45 :: Send data [disdisp] to all clients
+06.09.13 03:10:20 :: Send data [number 36] to all clients
+06.09.13 03:10:21 :: Send data [endisp] to all clients
+06.09.13 03:10:50 :: Send data [disdisp] to all clients
+06.09.13 03:11:22 :: Send data [number 35] to all clients
+06.09.13 03:11:23 :: Send data [endisp] to all clients
+06.09.13 03:11:52 :: Send data [disdisp] to all clients
+06.09.13 03:12:25 :: Send data [number 34] to all clients
+06.09.13 03:12:26 :: Send data [endisp] to all clients
+06.09.13 03:12:57 :: Send data [disdisp] to all clients
+06.09.13 03:13:30 :: Send data [number 35] to all clients
+06.09.13 03:13:32 :: Send data [endisp] to all clients
+06.09.13 03:14:01 :: Send data [disdisp] to all clients
+06.09.13 03:14:38 :: Send data [number 13] to all clients
+06.09.13 03:14:38 :: Send data [endisp] to all clients
+06.09.13 03:15:06 :: Send data [disdisp] to all clients
+06.09.13 03:15:40 :: Send data [number 23] to all clients
+06.09.13 03:15:40 :: Send data [endisp] to all clients
+06.09.13 03:16:09 :: Send data [disdisp] to all clients
+06.09.13 03:16:43 :: Send data [number 31] to all clients
+06.09.13 03:16:43 :: Send data [endisp] to all clients
+06.09.13 03:17:11 :: Send data [disdisp] to all clients
+06.09.13 03:17:48 :: Send data [number 12] to all clients
+06.09.13 03:18:17 :: Send data [disdisp] to all clients
+06.09.13 03:18:56 :: Send data [number 16] to all clients
+06.09.13 03:18:57 :: Send data [endisp] to all clients
+06.09.13 03:19:25 :: Send data [disdisp] to all clients
+06.09.13 03:19:59 :: Send data [number 23] to all clients
+06.09.13 03:20:00 :: Send data [endisp] to all clients
+06.09.13 03:20:28 :: Send data [disdisp] to all clients
+06.09.13 03:21:01 :: Send data [number 8] to all clients
+06.09.13 03:21:01 :: Send data [endisp] to all clients
+06.09.13 03:21:31 :: Send data [disdisp] to all clients
+06.09.13 03:22:04 :: Send data [number 1] to all clients
+06.09.13 03:22:04 :: Send data [endisp] to all clients
+06.09.13 03:22:33 :: Send data [disdisp] to all clients
+06.09.13 03:23:10 :: Send data [number 14] to all clients
+06.09.13 03:23:11 :: Send data [endisp] to all clients
+06.09.13 03:23:41 :: Send data [disdisp] to all clients
+06.09.13 03:24:14 :: Send data [number 2] to all clients
+06.09.13 03:24:14 :: Send data [endisp] to all clients
+06.09.13 03:24:42 :: Send data [disdisp] to all clients
+06.09.13 03:25:18 :: Send data [number 4] to all clients
+06.09.13 03:25:19 :: Send data [endisp] to all clients
+06.09.13 03:25:49 :: Send data [disdisp] to all clients
+06.09.13 03:26:22 :: Send data [number 16] to all clients
+06.09.13 03:26:22 :: Send data [endisp] to all clients
+06.09.13 03:26:51 :: Send data [disdisp] to all clients
+06.09.13 03:27:24 :: Send data [number 2] to all clients
+06.09.13 03:27:25 :: Send data [endisp] to all clients
+06.09.13 03:27:55 :: Send data [disdisp] to all clients
+06.09.13 03:28:28 :: Send data [number 11] to all clients
+06.09.13 03:28:29 :: Send data [endisp] to all clients
+06.09.13 03:28:57 :: Send data [disdisp] to all clients
+06.09.13 03:29:31 :: Send data [number 27] to all clients
+06.09.13 03:29:31 :: Send data [endisp] to all clients
+06.09.13 03:30:00 :: Send data [disdisp] to all clients
+06.09.13 03:30:33 :: Send data [number 23] to all clients
+06.09.13 03:30:34 :: Send data [endisp] to all clients
+06.09.13 03:31:04 :: Send data [disdisp] to all clients
+06.09.13 03:31:37 :: Send data [number 17] to all clients
+06.09.13 03:31:37 :: Send data [endisp] to all clients
+06.09.13 03:32:06 :: Send data [disdisp] to all clients
+06.09.13 03:32:42 :: Send data [number 19] to all clients
+06.09.13 03:32:42 :: Send data [endisp] to all clients
+06.09.13 03:33:11 :: Send data [disdisp] to all clients
+06.09.13 03:33:46 :: Send data [number 34] to all clients
+06.09.13 03:33:47 :: Send data [endisp] to all clients
+06.09.13 03:34:15 :: Send data [disdisp] to all clients
+06.09.13 03:34:53 :: Send data [number 3] to all clients
+06.09.13 03:34:53 :: Send data [endisp] to all clients
+06.09.13 03:35:22 :: Send data [disdisp] to all clients
+06.09.13 03:35:58 :: Send data [number 15] to all clients
+06.09.13 03:35:59 :: Send data [endisp] to all clients
+06.09.13 03:36:28 :: Send data [disdisp] to all clients
+06.09.13 03:37:00 :: Send data [number 27] to all clients
+06.09.13 03:37:00 :: Send data [endisp] to all clients
+06.09.13 03:37:29 :: Send data [disdisp] to all clients
+06.09.13 03:38:06 :: Send data [number 26] to all clients
+06.09.13 03:38:07 :: Send data [endisp] to all clients
+06.09.13 03:38:37 :: Send data [disdisp] to all clients
+06.09.13 03:39:08 :: Send data [number 34] to all clients
+06.09.13 03:39:08 :: Send data [endisp] to all clients
+06.09.13 03:39:36 :: Send data [disdisp] to all clients
+06.09.13 03:40:09 :: Send data [number 30] to all clients
+06.09.13 03:40:09 :: Send data [endisp] to all clients
+06.09.13 03:40:38 :: Send data [disdisp] to all clients
+06.09.13 03:41:13 :: Send data [number 35] to all clients
+06.09.13 03:41:14 :: Send data [endisp] to all clients
+06.09.13 03:41:43 :: Send data [disdisp] to all clients
+06.09.13 03:42:21 :: Send data [number 9] to all clients
+06.09.13 03:42:21 :: Send data [endisp] to all clients
+06.09.13 03:42:51 :: Send data [disdisp] to all clients
+06.09.13 03:43:28 :: Send data [number 33] to all clients
+06.09.13 03:43:29 :: Send data [endisp] to all clients
+06.09.13 03:43:58 :: Send data [disdisp] to all clients
+06.09.13 03:44:31 :: Send data [number 0] to all clients
+06.09.13 03:44:33 :: Send data [endisp] to all clients
+06.09.13 03:45:03 :: Send data [disdisp] to all clients
+06.09.13 03:45:36 :: Send data [number 26] to all clients
+06.09.13 03:45:37 :: Send data [endisp] to all clients
+06.09.13 03:46:06 :: Send data [disdisp] to all clients
+06.09.13 03:46:41 :: Send data [number 34] to all clients
+06.09.13 03:46:42 :: Send data [endisp] to all clients
+06.09.13 03:47:12 :: Send data [disdisp] to all clients
+06.09.13 03:47:49 :: Send data [number 26] to all clients
+06.09.13 03:47:50 :: Send data [endisp] to all clients
+06.09.13 03:48:19 :: Send data [disdisp] to all clients
+06.09.13 03:48:55 :: Send data [number 1] to all clients
+06.09.13 03:48:55 :: Send data [endisp] to all clients
+06.09.13 03:49:24 :: Send data [disdisp] to all clients
+06.09.13 03:49:55 :: Send data [number 11] to all clients
+06.09.13 03:49:55 :: Send data [endisp] to all clients
+06.09.13 03:50:24 :: Send data [disdisp] to all clients
+06.09.13 03:50:59 :: Send data [number 23] to all clients
+06.09.13 03:51:00 :: Send data [endisp] to all clients
+06.09.13 03:51:30 :: Send data [disdisp] to all clients
+06.09.13 03:52:04 :: Send data [number 2] to all clients
+06.09.13 03:52:05 :: Send data [endisp] to all clients
+06.09.13 03:52:34 :: Send data [disdisp] to all clients
+06.09.13 03:53:09 :: Send data [number 15] to all clients
+06.09.13 03:53:10 :: Send data [endisp] to all clients
+06.09.13 03:53:39 :: Send data [disdisp] to all clients
+06.09.13 03:54:17 :: Send data [number 24] to all clients
+06.09.13 03:54:18 :: Send data [endisp] to all clients
+06.09.13 03:54:47 :: Send data [disdisp] to all clients
+06.09.13 03:55:19 :: Send data [number 18] to all clients
+06.09.13 03:55:20 :: Send data [endisp] to all clients
+06.09.13 03:55:50 :: Send data [disdisp] to all clients
+06.09.13 03:56:28 :: Send data [number 11] to all clients
+06.09.13 03:56:28 :: Send data [endisp] to all clients
+06.09.13 03:56:56 :: Send data [disdisp] to all clients
+06.09.13 03:57:33 :: Send data [number 6] to all clients
+06.09.13 03:57:34 :: Send data [endisp] to all clients
+06.09.13 03:58:03 :: Send data [disdisp] to all clients
+06.09.13 03:58:39 :: Send data [number 10] to all clients
+06.09.13 03:58:40 :: Send data [endisp] to all clients
+06.09.13 03:59:09 :: Send data [disdisp] to all clients
+06.09.13 03:59:42 :: Send data [number 11] to all clients
+06.09.13 03:59:43 :: Send data [endisp] to all clients
+06.09.13 04:00:13 :: Send data [disdisp] to all clients
+06.09.13 04:00:45 :: Send data [number 22] to all clients
+06.09.13 04:00:46 :: Send data [endisp] to all clients
+06.09.13 04:01:15 :: Send data [disdisp] to all clients
+06.09.13 04:01:46 :: Send data [number 22] to all clients
+06.09.13 04:01:46 :: Send data [endisp] to all clients
+06.09.13 04:02:16 :: Send data [disdisp] to all clients
+06.09.13 04:02:50 :: Send data [number 31] to all clients
+06.09.13 04:02:50 :: Send data [endisp] to all clients
+06.09.13 04:03:19 :: Send data [disdisp] to all clients
+06.09.13 04:03:53 :: Send data [number 21] to all clients
+06.09.13 04:03:54 :: Send data [endisp] to all clients
+06.09.13 04:04:25 :: Send data [disdisp] to all clients
+06.09.13 04:04:57 :: Send data [number 14] to all clients
+06.09.13 04:04:57 :: Send data [endisp] to all clients
+06.09.13 04:05:25 :: Send data [disdisp] to all clients
+06.09.13 04:06:00 :: Send data [number 0] to all clients
+06.09.13 04:06:02 :: Send data [endisp] to all clients
+06.09.13 04:06:31 :: Send data [disdisp] to all clients
+06.09.13 04:07:04 :: Send data [number 12] to all clients
+06.09.13 04:07:05 :: Send data [endisp] to all clients
+06.09.13 04:07:34 :: Send data [disdisp] to all clients
+06.09.13 04:08:07 :: Send data [number 17] to all clients
+06.09.13 04:08:08 :: Send data [endisp] to all clients
+06.09.13 04:08:36 :: Send data [disdisp] to all clients
+06.09.13 04:09:11 :: Send data [number 33] to all clients
+06.09.13 04:09:12 :: Send data [endisp] to all clients
+06.09.13 04:09:40 :: Send data [disdisp] to all clients
+06.09.13 04:10:17 :: Send data [number 26] to all clients
+06.09.13 04:10:18 :: Send data [endisp] to all clients
+06.09.13 04:10:47 :: Send data [disdisp] to all clients
+06.09.13 04:11:21 :: Send data [number 4] to all clients
+06.09.13 04:11:22 :: Send data [endisp] to all clients
+06.09.13 04:11:51 :: Send data [disdisp] to all clients
+06.09.13 04:12:25 :: Send data [number 36] to all clients
+06.09.13 04:12:25 :: Send data [endisp] to all clients
+06.09.13 04:12:53 :: Send data [disdisp] to all clients
+06.09.13 04:13:28 :: Send data [number 1] to all clients
+06.09.13 04:13:29 :: Send data [endisp] to all clients
+06.09.13 04:13:57 :: Send data [disdisp] to all clients
+06.09.13 04:14:30 :: Send data [number 4] to all clients
+06.09.13 04:14:31 :: Send data [endisp] to all clients
+06.09.13 04:14:59 :: Send data [disdisp] to all clients
+06.09.13 04:15:34 :: Send data [number 7] to all clients
+06.09.13 04:15:35 :: Send data [endisp] to all clients
+06.09.13 04:16:06 :: Send data [disdisp] to all clients
+06.09.13 04:16:39 :: Send data [number 35] to all clients
+06.09.13 04:16:40 :: Send data [endisp] to all clients
+06.09.13 04:17:08 :: Send data [disdisp] to all clients
+06.09.13 04:17:47 :: Send data [number 0] to all clients
+06.09.13 04:17:48 :: Send data [endisp] to all clients
+06.09.13 04:18:18 :: Send data [disdisp] to all clients
+06.09.13 04:18:50 :: Send data [number 16] to all clients
+06.09.13 04:18:50 :: Send data [endisp] to all clients
+06.09.13 04:19:20 :: Send data [disdisp] to all clients
+06.09.13 04:19:53 :: Send data [number 20] to all clients
+06.09.13 04:19:54 :: Send data [endisp] to all clients
+06.09.13 04:20:23 :: Send data [disdisp] to all clients
+06.09.13 04:20:54 :: Send data [number 15] to all clients
+06.09.13 04:20:55 :: Send data [endisp] to all clients
+06.09.13 04:21:21 :: Send data [disdisp] to all clients
+06.09.13 04:21:59 :: Send data [number 3] to all clients
+06.09.13 04:22:00 :: Send data [endisp] to all clients
+06.09.13 04:22:30 :: Send data [disdisp] to all clients
+06.09.13 04:23:04 :: Send data [number 14] to all clients
+06.09.13 04:23:05 :: Send data [endisp] to all clients
+06.09.13 04:23:35 :: Send data [disdisp] to all clients
+06.09.13 04:24:08 :: Send data [number 29] to all clients
+06.09.13 04:24:09 :: Send data [endisp] to all clients
+06.09.13 04:24:36 :: Send data [disdisp] to all clients
+06.09.13 04:25:13 :: Send data [number 2] to all clients
+06.09.13 04:25:14 :: Send data [endisp] to all clients
+06.09.13 04:25:43 :: Send data [disdisp] to all clients
+06.09.13 04:26:19 :: Send data [number 26] to all clients
+06.09.13 04:26:20 :: Send data [endisp] to all clients
+06.09.13 04:26:50 :: Send data [disdisp] to all clients
+06.09.13 04:27:25 :: Send data [number 4] to all clients
+06.09.13 04:27:26 :: Send data [endisp] to all clients
+06.09.13 04:27:56 :: Send data [disdisp] to all clients
+06.09.13 04:28:30 :: Send data [number 2] to all clients
+06.09.13 04:28:30 :: Send data [endisp] to all clients
+06.09.13 04:29:00 :: Send data [disdisp] to all clients
+06.09.13 04:29:33 :: Send data [number 35] to all clients
+06.09.13 04:29:34 :: Send data [endisp] to all clients
+06.09.13 04:30:02 :: Send data [disdisp] to all clients
+06.09.13 04:30:33 :: Send data [number 6] to all clients
+06.09.13 04:30:33 :: Send data [endisp] to all clients
+06.09.13 04:31:02 :: Send data [disdisp] to all clients
+06.09.13 04:31:34 :: Send data [number 13] to all clients
+06.09.13 04:31:34 :: Send data [endisp] to all clients
+06.09.13 04:32:04 :: Send data [disdisp] to all clients
+06.09.13 04:32:39 :: Send data [number 34] to all clients
+06.09.13 04:32:40 :: Send data [endisp] to all clients
+06.09.13 04:33:10 :: Send data [disdisp] to all clients
+06.09.13 04:33:43 :: Send data [number 15] to all clients
+06.09.13 04:33:44 :: Send data [endisp] to all clients
+06.09.13 04:34:12 :: Send data [disdisp] to all clients
+06.09.13 04:34:45 :: Send data [number 34] to all clients
+06.09.13 04:34:46 :: Send data [endisp] to all clients
+06.09.13 04:35:15 :: Send data [disdisp] to all clients
+06.09.13 04:35:49 :: Send data [number 16] to all clients
+06.09.13 04:35:49 :: Send data [endisp] to all clients
+06.09.13 04:36:17 :: Send data [disdisp] to all clients
+06.09.13 04:36:54 :: Send data [number 22] to all clients
+06.09.13 04:36:54 :: Send data [endisp] to all clients
+06.09.13 04:37:24 :: Send data [disdisp] to all clients
+06.09.13 04:37:59 :: Send data [number 31] to all clients
+06.09.13 04:38:00 :: Send data [endisp] to all clients
+06.09.13 04:38:31 :: Send data [disdisp] to all clients
+06.09.13 04:39:04 :: Send data [number 25] to all clients
+06.09.13 04:39:05 :: Send data [endisp] to all clients
+06.09.13 04:39:36 :: Send data [disdisp] to all clients
+06.09.13 04:40:10 :: Send data [number 32] to all clients
+06.09.13 04:40:11 :: Send data [endisp] to all clients
+06.09.13 04:40:40 :: Send data [disdisp] to all clients
+06.09.13 04:41:15 :: Send data [number 10] to all clients
+06.09.13 04:41:15 :: Send data [endisp] to all clients
+06.09.13 04:41:43 :: Send data [disdisp] to all clients
+06.09.13 04:42:19 :: Send data [number 2] to all clients
+06.09.13 04:42:19 :: Send data [endisp] to all clients
+06.09.13 04:42:47 :: Send data [disdisp] to all clients
+06.09.13 04:43:24 :: Send data [number 16] to all clients
+06.09.13 04:43:24 :: Send data [endisp] to all clients
+06.09.13 04:43:54 :: Send data [disdisp] to all clients
+06.09.13 04:44:25 :: Send data [number 24] to all clients
+06.09.13 04:44:25 :: Send data [endisp] to all clients
+06.09.13 04:44:54 :: Send data [disdisp] to all clients
+06.09.13 04:45:29 :: Send data [number 36] to all clients
+06.09.13 04:45:29 :: Send data [endisp] to all clients
+06.09.13 04:45:58 :: Send data [disdisp] to all clients
+06.09.13 04:46:34 :: Send data [number 25] to all clients
+06.09.13 04:46:34 :: Send data [endisp] to all clients
+06.09.13 04:47:04 :: Send data [disdisp] to all clients
+06.09.13 04:47:38 :: Send data [number 16] to all clients
+06.09.13 04:47:39 :: Send data [endisp] to all clients
+06.09.13 04:48:07 :: Send data [disdisp] to all clients
+06.09.13 04:48:43 :: Send data [number 12] to all clients
+06.09.13 04:48:43 :: Send data [endisp] to all clients
+06.09.13 04:49:13 :: Send data [disdisp] to all clients
+06.09.13 04:49:51 :: Send data [number 35] to all clients
+06.09.13 04:49:52 :: Send data [endisp] to all clients
+06.09.13 04:50:20 :: Send data [disdisp] to all clients
+06.09.13 04:50:53 :: Send data [number 13] to all clients
+06.09.13 04:50:54 :: Send data [endisp] to all clients
+06.09.13 04:51:21 :: Send data [disdisp] to all clients
+06.09.13 04:51:55 :: Send data [number 36] to all clients
+06.09.13 04:51:56 :: Send data [endisp] to all clients
+06.09.13 04:52:24 :: Send data [disdisp] to all clients
+06.09.13 04:52:58 :: Send data [number 32] to all clients
+06.09.13 04:52:58 :: Send data [endisp] to all clients
+06.09.13 04:53:27 :: Send data [disdisp] to all clients
+06.09.13 04:54:00 :: Send data [number 10] to all clients
+06.09.13 04:54:01 :: Send data [endisp] to all clients
+06.09.13 04:54:31 :: Send data [disdisp] to all clients
+06.09.13 04:55:02 :: Send data [number 35] to all clients
+06.09.13 04:55:03 :: Send data [endisp] to all clients
+06.09.13 04:55:32 :: Send data [disdisp] to all clients
+06.09.13 04:56:04 :: Send data [number 25] to all clients
+06.09.13 04:56:04 :: Send data [endisp] to all clients
+06.09.13 04:56:32 :: Send data [disdisp] to all clients
+06.09.13 04:57:04 :: Send data [number 25] to all clients
+06.09.13 04:57:05 :: Send data [endisp] to all clients
+06.09.13 04:57:33 :: Send data [disdisp] to all clients
+06.09.13 04:58:08 :: Send data [number 24] to all clients
+06.09.13 04:58:09 :: Send data [endisp] to all clients
+06.09.13 04:58:37 :: Send data [disdisp] to all clients
+06.09.13 04:59:13 :: Send data [number 34] to all clients
+06.09.13 04:59:14 :: Send data [endisp] to all clients
+06.09.13 04:59:43 :: Send data [disdisp] to all clients
+06.09.13 05:00:17 :: Send data [number 28] to all clients
+06.09.13 05:00:17 :: Send data [endisp] to all clients
+06.09.13 05:00:46 :: Send data [disdisp] to all clients
+06.09.13 05:01:19 :: Send data [number 0] to all clients
+06.09.13 05:01:20 :: Send data [endisp] to all clients
+06.09.13 05:01:48 :: Send data [disdisp] to all clients
+06.09.13 05:02:24 :: Send data [number 25] to all clients
+06.09.13 05:02:24 :: Send data [endisp] to all clients
+06.09.13 05:02:54 :: Send data [disdisp] to all clients
+06.09.13 05:03:26 :: Send data [number 27] to all clients
+06.09.13 05:03:27 :: Send data [endisp] to all clients
+06.09.13 05:03:55 :: Send data [disdisp] to all clients
+06.09.13 05:04:30 :: Send data [number 21] to all clients
+06.09.13 05:05:01 :: Send data [disdisp] to all clients
+06.09.13 05:05:33 :: Send data [number 8] to all clients
+06.09.13 05:05:34 :: Send data [endisp] to all clients
+06.09.13 05:06:02 :: Send data [disdisp] to all clients
+06.09.13 05:06:37 :: Send data [number 24] to all clients
+06.09.13 05:06:38 :: Send data [endisp] to all clients
+06.09.13 05:07:06 :: Send data [disdisp] to all clients
+06.09.13 05:07:37 :: Send data [number 32] to all clients
+06.09.13 05:07:38 :: Send data [endisp] to all clients
+06.09.13 05:08:07 :: Send data [disdisp] to all clients
+06.09.13 05:08:40 :: Send data [number 28] to all clients
+06.09.13 05:08:40 :: Send data [endisp] to all clients
+06.09.13 05:09:10 :: Send data [disdisp] to all clients
+06.09.13 05:09:45 :: Send data [number 35] to all clients
+06.09.13 05:09:46 :: Send data [endisp] to all clients
+06.09.13 05:10:16 :: Send data [disdisp] to all clients
+06.09.13 05:10:50 :: Send data [number 9] to all clients
+06.09.13 05:10:50 :: Send data [endisp] to all clients
+06.09.13 05:11:20 :: Send data [disdisp] to all clients
+06.09.13 05:11:52 :: Send data [number 30] to all clients
+06.09.13 05:11:52 :: Send data [endisp] to all clients
+06.09.13 05:12:21 :: Send data [disdisp] to all clients
+06.09.13 05:12:55 :: Send data [number 5] to all clients
+06.09.13 05:12:55 :: Send data [endisp] to all clients
+06.09.13 05:13:23 :: Send data [disdisp] to all clients
+06.09.13 05:13:59 :: Send data [number 36] to all clients
+06.09.13 05:13:59 :: Send data [endisp] to all clients
+06.09.13 05:14:27 :: Send data [disdisp] to all clients
+06.09.13 05:15:05 :: Send data [number 15] to all clients
+06.09.13 05:15:05 :: Send data [endisp] to all clients
+06.09.13 05:15:34 :: Send data [disdisp] to all clients
+06.09.13 05:16:08 :: Send data [number 8] to all clients
+06.09.13 05:16:08 :: Send data [endisp] to all clients
+06.09.13 05:16:38 :: Send data [disdisp] to all clients
+06.09.13 05:17:11 :: Send data [number 32] to all clients
+06.09.13 05:17:11 :: Send data [endisp] to all clients
+06.09.13 05:17:39 :: Send data [disdisp] to all clients
+06.09.13 05:18:13 :: Send data [number 22] to all clients
+06.09.13 05:18:14 :: Send data [endisp] to all clients
+06.09.13 05:18:43 :: Send data [disdisp] to all clients
+06.09.13 05:19:16 :: Send data [number 4] to all clients
+06.09.13 05:19:17 :: Send data [endisp] to all clients
+06.09.13 05:19:44 :: Send data [disdisp] to all clients
+06.09.13 05:20:21 :: Send data [number 22] to all clients
+06.09.13 05:20:22 :: Send data [endisp] to all clients
+06.09.13 05:20:51 :: Send data [disdisp] to all clients
+06.09.13 05:21:25 :: Send data [number 3] to all clients
+06.09.13 05:21:25 :: Send data [endisp] to all clients
+06.09.13 05:21:54 :: Send data [disdisp] to all clients
+06.09.13 05:22:30 :: Send data [number 31] to all clients
+06.09.13 05:22:30 :: Send data [endisp] to all clients
+06.09.13 05:22:58 :: Send data [disdisp] to all clients
+06.09.13 05:23:32 :: Send data [number 25] to all clients
+06.09.13 05:23:33 :: Send data [endisp] to all clients
+06.09.13 05:24:01 :: Send data [disdisp] to all clients
+06.09.13 05:24:36 :: Send data [number 34] to all clients
+06.09.13 05:24:37 :: Send data [endisp] to all clients
+06.09.13 05:25:06 :: Send data [disdisp] to all clients
+06.09.13 05:25:40 :: Send data [number 35] to all clients
+06.09.13 05:25:40 :: Send data [endisp] to all clients
+06.09.13 05:26:10 :: Send data [disdisp] to all clients
+06.09.13 05:26:47 :: Send data [number 13] to all clients
+06.09.13 05:26:48 :: Send data [endisp] to all clients
+06.09.13 05:27:16 :: Send data [disdisp] to all clients
+06.09.13 05:27:52 :: Send data [number 14] to all clients
+06.09.13 05:27:53 :: Send data [endisp] to all clients
+06.09.13 05:28:21 :: Send data [disdisp] to all clients
+06.09.13 05:28:52 :: Send data [number 9] to all clients
+06.09.13 05:28:53 :: Send data [endisp] to all clients
+06.09.13 05:29:23 :: Send data [disdisp] to all clients
+06.09.13 05:29:56 :: Send data [number 13] to all clients
+06.09.13 05:29:57 :: Send data [endisp] to all clients
+06.09.13 05:30:23 :: Send data [disdisp] to all clients
+06.09.13 05:31:01 :: Send data [number 15] to all clients
+06.09.13 05:31:03 :: Send data [endisp] to all clients
+06.09.13 05:31:32 :: Send data [disdisp] to all clients
+06.09.13 05:32:09 :: Send data [number 27] to all clients
+06.09.13 05:32:09 :: Send data [endisp] to all clients
+06.09.13 05:32:38 :: Send data [disdisp] to all clients
+06.09.13 05:33:16 :: Send data [number 23] to all clients
+06.09.13 05:33:16 :: Send data [endisp] to all clients
+06.09.13 05:33:45 :: Send data [disdisp] to all clients
+06.09.13 05:34:19 :: Send data [number 25] to all clients
+06.09.13 05:34:20 :: Send data [endisp] to all clients
+06.09.13 05:34:48 :: Send data [disdisp] to all clients
+06.09.13 05:35:22 :: Send data [number 25] to all clients
+06.09.13 05:35:23 :: Send data [endisp] to all clients
+06.09.13 05:35:52 :: Send data [disdisp] to all clients
+06.09.13 05:36:25 :: Send data [number 6] to all clients
+06.09.13 05:36:25 :: Send data [endisp] to all clients
+06.09.13 05:36:55 :: Send data [disdisp] to all clients
+06.09.13 05:37:27 :: Send data [number 30] to all clients
+06.09.13 05:37:27 :: Send data [endisp] to all clients
+06.09.13 05:37:56 :: Send data [disdisp] to all clients
+06.09.13 05:38:27 :: Send data [number 33] to all clients
+06.09.13 05:38:27 :: Send data [endisp] to all clients
+06.09.13 05:38:57 :: Send data [disdisp] to all clients
+06.09.13 05:39:33 :: Send data [number 7] to all clients
+06.09.13 05:39:33 :: Send data [endisp] to all clients
+06.09.13 05:40:01 :: Send data [disdisp] to all clients
+06.09.13 05:40:37 :: Send data [number 3] to all clients
+06.09.13 05:40:37 :: Send data [endisp] to all clients
+06.09.13 05:41:05 :: Send data [disdisp] to all clients
+06.09.13 05:41:39 :: Send data [number 30] to all clients
+06.09.13 05:41:40 :: Send data [endisp] to all clients
+06.09.13 05:42:09 :: Send data [disdisp] to all clients
+06.09.13 05:42:44 :: Send data [number 4] to all clients
+06.09.13 05:42:44 :: Send data [endisp] to all clients
+06.09.13 05:43:12 :: Send data [disdisp] to all clients
+06.09.13 05:43:49 :: Send data [number 34] to all clients
+06.09.13 05:43:49 :: Send data [endisp] to all clients
+06.09.13 05:44:16 :: Send data [disdisp] to all clients
+06.09.13 05:44:55 :: Send data [number 34] to all clients
+06.09.13 05:44:55 :: Send data [endisp] to all clients
+06.09.13 05:45:24 :: Send data [disdisp] to all clients
+06.09.13 05:46:04 :: Send data [number 15] to all clients
+06.09.13 05:46:04 :: Send data [endisp] to all clients
+06.09.13 05:46:34 :: Send data [disdisp] to all clients
+06.09.13 05:47:08 :: Send data [number 15] to all clients
+06.09.13 05:47:09 :: Send data [endisp] to all clients
+06.09.13 05:47:36 :: Send data [disdisp] to all clients
+06.09.13 05:48:13 :: Send data [number 25] to all clients
+06.09.13 05:48:14 :: Send data [endisp] to all clients
+06.09.13 05:48:43 :: Send data [disdisp] to all clients
+06.09.13 05:49:19 :: Send data [number 25] to all clients
+06.09.13 05:49:20 :: Send data [endisp] to all clients
+06.09.13 05:49:50 :: Send data [disdisp] to all clients
+06.09.13 05:50:22 :: Send data [number 24] to all clients
+06.09.13 05:50:23 :: Send data [endisp] to all clients
+06.09.13 05:50:51 :: Send data [disdisp] to all clients
+06.09.13 05:51:25 :: Send data [number 14] to all clients
+06.09.13 05:51:25 :: Send data [endisp] to all clients
+06.09.13 05:51:54 :: Send data [disdisp] to all clients
+06.09.13 05:52:28 :: Send data [number 19] to all clients
+06.09.13 05:52:29 :: Send data [endisp] to all clients
+06.09.13 05:52:59 :: Send data [disdisp] to all clients
+06.09.13 05:53:31 :: Send data [number 19] to all clients
+06.09.13 05:53:32 :: Send data [endisp] to all clients
+06.09.13 05:54:00 :: Send data [disdisp] to all clients
+06.09.13 05:54:32 :: Send data [number 16] to all clients
+06.09.13 05:54:32 :: Send data [endisp] to all clients
+06.09.13 05:55:01 :: Send data [disdisp] to all clients
+06.09.13 05:55:39 :: Send data [number 32] to all clients
+06.09.13 05:55:39 :: Send data [endisp] to all clients
+06.09.13 05:56:08 :: Send data [disdisp] to all clients
+06.09.13 05:56:42 :: Send data [number 35] to all clients
+06.09.13 05:56:42 :: Send data [endisp] to all clients
+06.09.13 05:57:12 :: Send data [disdisp] to all clients
+06.09.13 05:57:45 :: Send data [number 23] to all clients
+06.09.13 05:57:45 :: Send data [endisp] to all clients
+06.09.13 05:58:14 :: Send data [disdisp] to all clients
+06.09.13 05:58:52 :: Send data [number 26] to all clients
+06.09.13 05:58:52 :: Send data [endisp] to all clients
+06.09.13 05:59:23 :: Send data [disdisp] to all clients
+06.09.13 05:59:55 :: Send data [number 26] to all clients
+06.09.13 05:59:56 :: Send data [endisp] to all clients
+06.09.13 06:00:26 :: Send data [disdisp] to all clients
+06.09.13 06:00:58 :: Send data [number 31] to all clients
+06.09.13 06:00:59 :: Send data [endisp] to all clients
+06.09.13 06:01:28 :: Send data [disdisp] to all clients
+06.09.13 06:02:03 :: Send data [number 24] to all clients
+06.09.13 06:02:04 :: Send data [endisp] to all clients
+06.09.13 06:02:33 :: Send data [disdisp] to all clients
+06.09.13 06:03:10 :: Send data [number 17] to all clients
+06.09.13 06:03:11 :: Send data [endisp] to all clients
+06.09.13 06:03:41 :: Send data [disdisp] to all clients
+06.09.13 06:04:16 :: Send data [number 35] to all clients
+06.09.13 06:04:17 :: Send data [endisp] to all clients
+06.09.13 06:04:47 :: Send data [disdisp] to all clients
+06.09.13 06:05:18 :: Send data [number 25] to all clients
+06.09.13 06:05:19 :: Send data [endisp] to all clients
+06.09.13 06:05:49 :: Send data [disdisp] to all clients
+06.09.13 06:06:21 :: Send data [number 8] to all clients
+06.09.13 06:06:21 :: Send data [endisp] to all clients
+06.09.13 06:06:50 :: Send data [disdisp] to all clients
+06.09.13 06:07:26 :: Send data [number 6] to all clients
+06.09.13 06:07:27 :: Send data [endisp] to all clients
+06.09.13 06:07:56 :: Send data [disdisp] to all clients
+06.09.13 06:08:31 :: Send data [number 33] to all clients
+06.09.13 06:08:32 :: Send data [endisp] to all clients
+06.09.13 06:09:01 :: Send data [disdisp] to all clients
+06.09.13 06:09:34 :: Send data [number 16] to all clients
+06.09.13 06:09:34 :: Send data [endisp] to all clients
+06.09.13 06:10:04 :: Send data [disdisp] to all clients
+06.09.13 06:10:37 :: Send data [number 22] to all clients
+06.09.13 06:10:37 :: Send data [endisp] to all clients
+06.09.13 06:11:04 :: Send data [disdisp] to all clients
+06.09.13 06:11:41 :: Send data [number 20] to all clients
+06.09.13 06:11:41 :: Send data [endisp] to all clients
+06.09.13 06:12:09 :: Send data [disdisp] to all clients
+06.09.13 06:12:43 :: Send data [number 29] to all clients
+06.09.13 06:12:43 :: Send data [endisp] to all clients
+06.09.13 06:13:12 :: Send data [disdisp] to all clients
+06.09.13 06:13:45 :: Send data [number 31] to all clients
+06.09.13 06:13:46 :: Send data [endisp] to all clients
+06.09.13 06:14:16 :: Send data [disdisp] to all clients
+06.09.13 06:14:51 :: Send data [number 26] to all clients
+06.09.13 06:14:51 :: Send data [endisp] to all clients
+06.09.13 06:15:20 :: Send data [disdisp] to all clients
+06.09.13 06:15:53 :: Send data [number 35] to all clients
+06.09.13 06:15:53 :: Send data [endisp] to all clients
+06.09.13 06:16:21 :: Send data [disdisp] to all clients
+06.09.13 06:16:57 :: Send data [number 10] to all clients
+06.09.13 06:16:58 :: Send data [endisp] to all clients
+06.09.13 06:17:27 :: Send data [disdisp] to all clients
+06.09.13 06:18:00 :: Send data [number 28] to all clients
+06.09.13 06:18:00 :: Send data [endisp] to all clients
+06.09.13 06:18:29 :: Send data [disdisp] to all clients
+06.09.13 06:19:02 :: Send data [number 32] to all clients
+06.09.13 06:19:02 :: Send data [endisp] to all clients
+06.09.13 06:19:32 :: Send data [disdisp] to all clients
+06.09.13 06:20:04 :: Send data [number 7] to all clients
+06.09.13 06:20:04 :: Send data [endisp] to all clients
+06.09.13 06:20:33 :: Send data [disdisp] to all clients
+06.09.13 06:21:08 :: Send data [number 17] to all clients
+06.09.13 06:21:08 :: Send data [endisp] to all clients
+06.09.13 06:21:36 :: Send data [disdisp] to all clients
+06.09.13 06:22:10 :: Send data [number 0] to all clients
+06.09.13 06:22:10 :: Send data [endisp] to all clients
+06.09.13 06:22:39 :: Send data [disdisp] to all clients
+06.09.13 06:23:16 :: Send data [number 2] to all clients
+06.09.13 06:23:16 :: Send data [endisp] to all clients
+06.09.13 06:23:45 :: Send data [disdisp] to all clients
+06.09.13 06:24:18 :: Send data [number 8] to all clients
+06.09.13 06:24:19 :: Send data [endisp] to all clients
+06.09.13 06:24:49 :: Send data [disdisp] to all clients
+06.09.13 06:25:23 :: Send data [number 23] to all clients
+06.09.13 06:25:23 :: Send data [endisp] to all clients
+06.09.13 06:25:52 :: Send data [disdisp] to all clients
+06.09.13 06:26:24 :: Send data [number 22] to all clients
+06.09.13 06:26:25 :: Send data [endisp] to all clients
+06.09.13 06:26:53 :: Send data [disdisp] to all clients
+06.09.13 06:27:26 :: Send data [number 13] to all clients
+06.09.13 06:27:26 :: Send data [endisp] to all clients
+06.09.13 06:27:55 :: Send data [disdisp] to all clients
+06.09.13 06:28:28 :: Send data [number 14] to all clients
+06.09.13 06:28:29 :: Send data [endisp] to all clients
+06.09.13 06:28:57 :: Send data [disdisp] to all clients
+06.09.13 06:29:37 :: Send data [number 2] to all clients
+06.09.13 06:29:38 :: Send data [endisp] to all clients
+06.09.13 06:30:05 :: Send data [disdisp] to all clients
+06.09.13 06:30:38 :: Send data [number 27] to all clients
+06.09.13 06:30:38 :: Send data [endisp] to all clients
+06.09.13 06:31:06 :: Send data [disdisp] to all clients
+06.09.13 06:31:40 :: Send data [number 5] to all clients
+06.09.13 06:31:40 :: Send data [endisp] to all clients
+06.09.13 06:32:07 :: Send data [disdisp] to all clients
+06.09.13 06:32:42 :: Send data [number 4] to all clients
+06.09.13 06:32:43 :: Send data [endisp] to all clients
+06.09.13 06:33:09 :: Send data [disdisp] to all clients
+06.09.13 06:33:45 :: Send data [number 6] to all clients
+06.09.13 06:33:45 :: Send data [endisp] to all clients
+06.09.13 06:34:13 :: Send data [disdisp] to all clients
+06.09.13 06:34:46 :: Send data [number 0] to all clients
+06.09.13 06:34:47 :: Send data [endisp] to all clients
+06.09.13 06:35:17 :: Send data [disdisp] to all clients
+06.09.13 06:35:49 :: Send data [number 19] to all clients
+06.09.13 06:35:50 :: Send data [endisp] to all clients
+06.09.13 06:36:19 :: Send data [disdisp] to all clients
+06.09.13 06:36:56 :: Send data [number 9] to all clients
+06.09.13 06:36:56 :: Send data [endisp] to all clients
+06.09.13 06:37:26 :: Send data [disdisp] to all clients
+06.09.13 06:37:58 :: Send data [number 7] to all clients
+06.09.13 06:37:59 :: Send data [endisp] to all clients
+06.09.13 06:38:29 :: Send data [disdisp] to all clients
+06.09.13 06:39:05 :: Send data [number 16] to all clients
+06.09.13 06:39:05 :: Send data [endisp] to all clients
+06.09.13 06:39:33 :: Send data [disdisp] to all clients
+06.09.13 06:40:09 :: Send data [number 26] to all clients
+06.09.13 06:40:09 :: Send data [endisp] to all clients
+06.09.13 06:40:39 :: Send data [disdisp] to all clients
+06.09.13 06:41:12 :: Send data [number 23] to all clients
+06.09.13 06:41:13 :: Send data [endisp] to all clients
+06.09.13 06:41:43 :: Send data [disdisp] to all clients
+06.09.13 06:42:16 :: Send data [number 14] to all clients
+06.09.13 06:42:16 :: Send data [endisp] to all clients
+06.09.13 06:42:45 :: Send data [disdisp] to all clients
+06.09.13 06:43:16 :: Send data [number 18] to all clients
+06.09.13 06:43:17 :: Send data [endisp] to all clients
+06.09.13 06:43:47 :: Send data [disdisp] to all clients
+06.09.13 06:44:20 :: Send data [number 7] to all clients
+06.09.13 06:44:20 :: Send data [endisp] to all clients
+06.09.13 06:44:49 :: Send data [disdisp] to all clients
+06.09.13 06:45:25 :: Send data [number 21] to all clients
+06.09.13 06:45:26 :: Send data [endisp] to all clients
+06.09.13 06:45:56 :: Send data [disdisp] to all clients
+06.09.13 06:46:30 :: Send data [number 4] to all clients
+06.09.13 06:46:30 :: Send data [endisp] to all clients
+06.09.13 06:46:58 :: Send data [disdisp] to all clients
+06.09.13 06:47:33 :: Send data [number 12] to all clients
+06.09.13 06:47:34 :: Send data [endisp] to all clients
+06.09.13 06:48:04 :: Send data [disdisp] to all clients
+06.09.13 06:48:41 :: Send data [number 12] to all clients
+06.09.13 06:48:42 :: Send data [endisp] to all clients
+06.09.13 06:49:11 :: Send data [disdisp] to all clients
+06.09.13 06:49:44 :: Send data [number 23] to all clients
+06.09.13 06:49:45 :: Send data [endisp] to all clients
+06.09.13 06:50:14 :: Send data [disdisp] to all clients
+06.09.13 06:50:49 :: Send data [number 5] to all clients
+06.09.13 06:51:19 :: Send data [disdisp] to all clients
+06.09.13 06:51:52 :: Send data [number 25] to all clients
+06.09.13 06:51:53 :: Send data [endisp] to all clients
+06.09.13 06:52:21 :: Send data [disdisp] to all clients
+06.09.13 06:52:58 :: Send data [number 15] to all clients
+06.09.13 06:52:59 :: Send data [endisp] to all clients
+06.09.13 06:53:29 :: Send data [disdisp] to all clients
+06.09.13 06:54:05 :: Send data [number 20] to all clients
+06.09.13 06:54:06 :: Send data [endisp] to all clients
+06.09.13 06:54:36 :: Send data [disdisp] to all clients
+06.09.13 06:55:09 :: Send data [number 10] to all clients
+06.09.13 06:55:09 :: Send data [endisp] to all clients
+06.09.13 06:55:37 :: Send data [disdisp] to all clients
+06.09.13 06:56:33 :: Send data [number 7] to all clients
+06.09.13 06:56:35 :: Send data [endisp] to all clients
+06.09.13 06:57:03 :: Send data [disdisp] to all clients
+06.09.13 06:57:40 :: Send data [number 24] to all clients
+06.09.13 06:57:41 :: Send data [endisp] to all clients
+06.09.13 06:58:10 :: Send data [disdisp] to all clients
+06.09.13 06:58:43 :: Send data [number 33] to all clients
+06.09.13 06:58:43 :: Send data [endisp] to all clients
+06.09.13 06:59:13 :: Send data [disdisp] to all clients
+06.09.13 06:59:44 :: Send data [number 27] to all clients
+06.09.13 06:59:45 :: Send data [endisp] to all clients
+06.09.13 07:00:14 :: Send data [disdisp] to all clients
+06.09.13 07:00:48 :: Send data [number 30] to all clients
+06.09.13 07:00:48 :: Send data [endisp] to all clients
+06.09.13 07:01:17 :: Send data [disdisp] to all clients
+06.09.13 07:01:49 :: Send data [number 7] to all clients
+06.09.13 07:01:50 :: Send data [endisp] to all clients
+06.09.13 07:02:17 :: Send data [disdisp] to all clients
+06.09.13 07:02:54 :: Send data [number 11] to all clients
+06.09.13 07:02:55 :: Send data [endisp] to all clients
+06.09.13 07:03:24 :: Send data [disdisp] to all clients
+06.09.13 07:04:00 :: Send data [number 25] to all clients
+06.09.13 07:04:00 :: Send data [endisp] to all clients
+06.09.13 07:04:30 :: Send data [disdisp] to all clients
+06.09.13 07:05:01 :: Send data [number 14] to all clients
+06.09.13 07:05:02 :: Send data [endisp] to all clients
+06.09.13 07:05:30 :: Send data [disdisp] to all clients
+06.09.13 07:06:02 :: Send data [number 16] to all clients
+06.09.13 07:06:03 :: Send data [endisp] to all clients
+06.09.13 07:06:30 :: Send data [disdisp] to all clients
+06.09.13 07:07:08 :: Send data [number 23] to all clients
+06.09.13 07:07:08 :: Send data [endisp] to all clients
+06.09.13 07:07:39 :: Send data [disdisp] to all clients
+06.09.13 07:08:11 :: Send data [number 19] to all clients
+06.09.13 07:08:11 :: Send data [endisp] to all clients
+06.09.13 07:08:41 :: Send data [disdisp] to all clients
+06.09.13 07:09:13 :: Send data [number 27] to all clients
+06.09.13 07:09:13 :: Send data [endisp] to all clients
+06.09.13 07:09:43 :: Send data [disdisp] to all clients
+06.09.13 07:10:17 :: Send data [number 7] to all clients
+06.09.13 07:10:18 :: Send data [endisp] to all clients
+06.09.13 07:10:46 :: Send data [disdisp] to all clients
+06.09.13 07:11:21 :: Send data [number 19] to all clients
+06.09.13 07:11:21 :: Send data [endisp] to all clients
+06.09.13 07:11:50 :: Send data [disdisp] to all clients
+06.09.13 07:12:25 :: Send data [number 9] to all clients
+06.09.13 07:12:25 :: Send data [endisp] to all clients
+06.09.13 07:12:54 :: Send data [disdisp] to all clients
+06.09.13 07:13:27 :: Send data [number 26] to all clients
+06.09.13 07:13:27 :: Send data [endisp] to all clients
+06.09.13 07:13:56 :: Send data [disdisp] to all clients
+06.09.13 07:14:30 :: Send data [number 9] to all clients
+06.09.13 07:14:31 :: Send data [endisp] to all clients
+06.09.13 07:15:01 :: Send data [disdisp] to all clients
+06.09.13 07:15:34 :: Send data [number 27] to all clients
+06.09.13 07:15:35 :: Send data [endisp] to all clients
+06.09.13 07:16:03 :: Send data [disdisp] to all clients
+06.09.13 07:16:36 :: Send data [number 13] to all clients
+06.09.13 07:16:36 :: Send data [endisp] to all clients
+06.09.13 07:17:03 :: Send data [disdisp] to all clients
+06.09.13 07:17:39 :: Send data [number 7] to all clients
+06.09.13 07:17:41 :: Send data [endisp] to all clients
+06.09.13 07:18:11 :: Send data [disdisp] to all clients
+06.09.13 07:18:43 :: Send data [number 21] to all clients
+06.09.13 07:18:43 :: Send data [endisp] to all clients
+06.09.13 07:19:12 :: Send data [disdisp] to all clients
+06.09.13 07:19:46 :: Send data [number 8] to all clients
+06.09.13 07:19:47 :: Send data [endisp] to all clients
+06.09.13 07:20:15 :: Send data [disdisp] to all clients
+06.09.13 07:20:54 :: Send data [number 13] to all clients
+06.09.13 07:20:55 :: Send data [endisp] to all clients
+06.09.13 07:21:25 :: Send data [disdisp] to all clients
+06.09.13 07:22:00 :: Send data [number 0] to all clients
+06.09.13 07:22:00 :: Send data [endisp] to all clients
+06.09.13 07:22:30 :: Send data [disdisp] to all clients
+06.09.13 07:23:03 :: Send data [number 3] to all clients
+06.09.13 07:23:04 :: Send data [endisp] to all clients
+06.09.13 07:23:31 :: Send data [disdisp] to all clients
+06.09.13 07:24:04 :: Send data [number 3] to all clients
+06.09.13 07:24:04 :: Send data [endisp] to all clients
+06.09.13 07:24:34 :: Send data [disdisp] to all clients
+06.09.13 07:25:06 :: Send data [number 19] to all clients
+06.09.13 07:25:07 :: Send data [endisp] to all clients
+06.09.13 07:25:36 :: Send data [disdisp] to all clients
+06.09.13 07:26:14 :: Send data [number 21] to all clients
+06.09.13 07:26:15 :: Send data [endisp] to all clients
+06.09.13 07:26:41 :: Send data [disdisp] to all clients
+06.09.13 07:27:15 :: Send data [number 13] to all clients
+06.09.13 07:27:16 :: Send data [endisp] to all clients
+06.09.13 07:27:44 :: Send data [disdisp] to all clients
+06.09.13 07:28:16 :: Send data [number 2] to all clients
+06.09.13 07:28:17 :: Send data [endisp] to all clients
+06.09.13 07:28:47 :: Send data [disdisp] to all clients
+06.09.13 07:29:22 :: Send data [number 4] to all clients
+06.09.13 07:29:22 :: Send data [endisp] to all clients
+06.09.13 07:29:50 :: Send data [disdisp] to all clients
+06.09.13 07:30:27 :: Send data [number 32] to all clients
+06.09.13 07:30:27 :: Send data [endisp] to all clients
+06.09.13 07:30:55 :: Send data [disdisp] to all clients
+06.09.13 07:31:30 :: Send data [number 8] to all clients
+06.09.13 07:31:30 :: Send data [endisp] to all clients
+06.09.13 09:08:38 :: Send data [disdisp] to all clients
+06.09.13 09:08:57 :: Send data [number 14] to all clients
+06.09.13 09:08:57 :: Send data [endisp] to all clients
+06.09.13 09:09:26 :: Send data [disdisp] to all clients
+06.09.13 09:09:58 :: Send data [number 32] to all clients
+06.09.13 09:10:00 :: Send data [endisp] to all clients
+06.09.13 09:10:30 :: Send data [disdisp] to all clients
+06.09.13 09:11:04 :: Send data [number 26] to all clients
+06.09.13 09:11:04 :: Send data [endisp] to all clients
+06.09.13 09:11:34 :: Send data [disdisp] to all clients
+06.09.13 09:12:09 :: Send data [number 29] to all clients
+06.09.13 09:12:09 :: Send data [endisp] to all clients
+06.09.13 09:12:38 :: Send data [disdisp] to all clients
+06.09.13 09:12:41 :: [192.168.10.13:12920] [] Sent
+06.09.13 09:12:41 :: [192.168.10.13:12920] Data Received => init le0001
+06.09.13 09:12:41 :: [192.168.10.13] Send data [disdisp]
+06.09.13 09:12:41 :: [192.168.10.13:12920] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 09:12:41 :: [192.168.10.13] Send data [cr 280]
+06.09.13 09:12:41 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:12:51 :: [192.168.10.13:12924] [] Sent
+06.09.13 09:12:51 :: [192.168.10.13:12924] Data Received => _callback add_credit le0001;20;3
+06.09.13 09:12:51 :: [192.168.10.13] Send data [cr 300]
+06.09.13 09:12:51 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:13:11 :: Send data [number 22] to all clients
+06.09.13 09:13:11 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:13:11 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:13:12 :: Send data [endisp] to all clients
+06.09.13 09:13:12 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:13:41 :: Send data [disdisp] to all clients
+06.09.13 09:13:41 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:13:41 :: [192.168.10.13:12920] Data Received => bets 0;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667
+06.09.13 09:14:13 :: Send data [number 35] to all clients
+06.09.13 09:14:13 :: [192.168.10.13:12920] [bets 0;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667] Sent
+06.09.13 09:14:13 :: [192.168.10.13:12920] [bets 0;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667] Sent
+06.09.13 09:14:14 :: Send data [endisp] to all clients
+06.09.13 09:14:14 :: [192.168.10.13:12920] [bets 0;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667] Sent
+06.09.13 09:14:28 :: [192.168.10.13:12981] [] Sent
+06.09.13 09:14:28 :: [192.168.10.13:12981] Data Received => _callback add_credit le0001;-1;3
+06.09.13 09:14:29 :: [192.168.10.13] Send data [cr 0]
+06.09.13 09:14:29 :: [192.168.10.13:12920] [bets 0;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667] Sent
+06.09.13 09:14:44 :: Send data [disdisp] to all clients
+06.09.13 09:14:44 :: [192.168.10.13:12920] [bets 0;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667;4.166666666666667] Sent
+06.09.13 09:14:44 :: [192.168.10.13:12920] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 09:14:55 :: [192.168.10.13:12995] [] Sent
+06.09.13 09:14:55 :: [192.168.10.13] Send data [cr 250]
+06.09.13 09:14:55 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:15:17 :: Send data [number 28] to all clients
+06.09.13 09:15:17 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:15:18 :: Send data [endisp] to all clients
+06.09.13 09:15:18 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:15:48 :: Send data [disdisp] to all clients
+06.09.13 09:15:48 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:15:48 :: [192.168.10.13:12920] Data Received => bets 25;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 09:16:23 :: Send data [number 20] to all clients
+06.09.13 09:16:23 :: [192.168.10.13:12920] [bets 25;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:16:23 :: [192.168.10.13:12920] [bets 25;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:16:24 :: Send data [endisp] to all clients
+06.09.13 09:16:24 :: [192.168.10.13:12920] [bets 25;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:16:52 :: Send data [disdisp] to all clients
+06.09.13 09:16:52 :: [192.168.10.13:12920] [bets 25;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:16:52 :: [192.168.10.13:12920] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 09:17:25 :: Send data [number 5] to all clients
+06.09.13 09:17:25 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:17:25 :: Send data [endisp] to all clients
+06.09.13 09:17:25 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:17:54 :: Send data [disdisp] to all clients
+06.09.13 09:17:54 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:17:54 :: [192.168.10.13:12920] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 09:18:39 :: Send data [number 11] to all clients
+06.09.13 09:18:39 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:18:39 :: Send data [endisp] to all clients
+06.09.13 09:18:39 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:19:09 :: Send data [disdisp] to all clients
+06.09.13 09:19:09 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:19:09 :: [192.168.10.13:12920] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 09:19:43 :: Send data [number 4] to all clients
+06.09.13 09:19:43 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:19:43 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:19:44 :: Send data [endisp] to all clients
+06.09.13 09:19:44 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:20:11 :: Send data [disdisp] to all clients
+06.09.13 09:20:11 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:20:11 :: [192.168.10.13:12920] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 09:20:47 :: Send data [number 3] to all clients
+06.09.13 09:20:47 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:20:48 :: Send data [endisp] to all clients
+06.09.13 09:20:48 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:21:19 :: Send data [disdisp] to all clients
+06.09.13 09:21:19 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:21:19 :: [192.168.10.13:12920] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 09:21:53 :: Send data [number 11] to all clients
+06.09.13 09:21:53 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:21:53 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:21:53 :: Send data [endisp] to all clients
+06.09.13 09:21:53 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:22:22 :: Send data [disdisp] to all clients
+06.09.13 09:22:22 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:22:22 :: [192.168.10.13:12920] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 09:22:57 :: Send data [number 13] to all clients
+06.09.13 09:22:57 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 09:22:57 :: [192.168.10.13:12920] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 11:34:14 :: Disconnecting from RR Server!
+06.09.13 11:34:14 :: Send data [server_down] to all clients
+06.09.13 11:34:14 :: Удаленный хост принудительно разорвал существующее подключение
+06.09.13 11:34:47 :: Send data [disdisp] to all clients
+06.09.13 11:35:24 :: Send data [number 22] to all clients
+06.09.13 11:35:24 :: Send data [endisp] to all clients
+06.09.13 11:35:53 :: Send data [disdisp] to all clients
+06.09.13 11:36:18 :: Disconnecting from RR Server!
+06.09.13 11:36:18 :: Send data [server_down] to all clients
+06.09.13 11:36:18 :: Удаленный хост принудительно разорвал существующее подключение
+06.09.13 11:39:31 :: Disconnecting from RR Server!
+06.09.13 11:39:31 :: Send data [server_down] to all clients
+06.09.13 11:39:31 :: Удаленный хост принудительно разорвал существующее подключение
+06.09.13 11:40:47 :: Disconnecting from RR Server!
+06.09.13 11:40:47 :: Send data [server_down] to all clients
+06.09.13 11:40:47 :: Удаленный хост принудительно разорвал существующее подключение
+06.09.13 11:43:33 :: Disconnecting from RR Server!
+06.09.13 11:43:34 :: Send data [server_down] to all clients
+06.09.13 11:43:34 :: Удаленный хост принудительно разорвал существующее подключение
+06.09.13 11:45:49 :: Disconnecting from RR Server!
+06.09.13 11:45:49 :: Send data [server_down] to all clients
+06.09.13 11:45:49 :: Удаленный хост принудительно разорвал существующее подключение
+06.09.13 11:58:07 :: Send data [disdisp] to all clients
+06.09.13 11:59:19 :: Send data [disdisp] to all clients
+06.09.13 12:00:04 :: LastNumbers: 22,29,25,0,26,26,26,31,0,3,18,14,8,
+06.09.13 12:00:14 :: Send data [disdisp] to all clients
+06.09.13 12:06:34 :: LastNumbers: 26,31,0,3,18,14,8,28,16,34,22,15,20,
+06.09.13 12:06:59 :: [192.168.10.13:22788] Data Received => init le0001
+06.09.13 12:06:59 :: [192.168.10.13] Send data [disdisp]
+06.09.13 12:07:08 :: [192.168.10.13:22788] [init le0001] Sent
+06.09.13 12:07:09 :: [192.168.10.13:22788] [init le0001] Sent
+06.09.13 12:07:09 :: Send data [number 13] to all clients
+06.09.13 12:07:09 :: [192.168.10.13:22788] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:07:09 :: [192.168.10.13:22788] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:07:09 :: Send data [endisp] to all clients
+06.09.13 12:07:09 :: [192.168.10.13:22788] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:07:39 :: Send data [disdisp] to all clients
+06.09.13 12:07:39 :: [192.168.10.13:22788] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:07:39 :: [192.168.10.13:22788] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:08:14 :: Send data [number 28] to all clients
+06.09.13 12:08:14 :: [192.168.10.13:22788] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:08:15 :: Send data [endisp] to all clients
+06.09.13 12:08:15 :: [192.168.10.13:22788] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:08:44 :: Send data [disdisp] to all clients
+06.09.13 12:08:44 :: [192.168.10.13:22788] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:08:44 :: [192.168.10.13:22788] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:09:21 :: Send data [number 10] to all clients
+06.09.13 12:09:21 :: [192.168.10.13:22788] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:09:21 :: [192.168.10.13:22788] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:09:21 :: Send data [endisp] to all clients
+06.09.13 12:09:21 :: [192.168.10.13:22788] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:09:39 :: Client Disconnected : 192.168.10.13:22788
+06.09.13 12:09:40 :: [192.168.10.13:22889] [] Sent
+06.09.13 12:09:40 :: [192.168.10.13:22889] Data Received => init le0001
+06.09.13 12:09:40 :: [192.168.10.13] Send data [endisp]
+06.09.13 12:09:40 :: [192.168.10.13:22889] [init le0001] Sent
+06.09.13 12:09:41 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:09:41 :: [192.168.10.13:22889] [init le0001] Sent
+06.09.13 12:09:51 :: Send data [disdisp] to all clients
+06.09.13 12:09:51 :: [192.168.10.13:22889] [init le0001] Sent
+06.09.13 12:09:51 :: [192.168.10.13:22889] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:10:19 :: Client Disconnected : 192.168.10.13:22889
+06.09.13 12:10:20 :: [192.168.10.13:22925] [] Sent
+06.09.13 12:10:20 :: [192.168.10.13:22925] [] Sent
+06.09.13 12:10:21 :: [192.168.10.13:22925] Data Received => init le0001
+06.09.13 12:10:21 :: [192.168.10.13] Send data [disdisp]
+06.09.13 12:10:21 :: [192.168.10.13:22925] [init le0001] Sent
+06.09.13 12:10:21 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:10:21 :: [192.168.10.13:22925] [init le0001] Sent
+06.09.13 12:10:25 :: Send data [number 13] to all clients
+06.09.13 12:10:25 :: [192.168.10.13:22925] [init le0001] Sent
+06.09.13 12:10:25 :: [192.168.10.13:22925] [init le0001] Sent
+06.09.13 12:10:25 :: Send data [endisp] to all clients
+06.09.13 12:10:25 :: [192.168.10.13:22925] [init le0001] Sent
+06.09.13 12:10:29 :: Client Disconnected : 192.168.10.13:22925
+06.09.13 12:10:54 :: Send data [disdisp] to all clients
+06.09.13 12:11:20 :: [192.168.10.13:22953] [] Sent
+06.09.13 12:11:20 :: [192.168.10.13:22953] [init le0001] Sent
+06.09.13 12:11:20 :: [192.168.10.13] Send data [disdisp]
+06.09.13 12:11:20 :: [192.168.10.13:22953] [init le0001] Sent
+06.09.13 12:11:20 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:11:20 :: [192.168.10.13:22953] [init le0001] Sent
+06.09.13 12:11:25 :: Send data [number 17] to all clients
+06.09.13 12:11:25 :: [192.168.10.13:22953] [init le0001] Sent
+06.09.13 12:11:26 :: Send data [endisp] to all clients
+06.09.13 12:11:26 :: [192.168.10.13:22953] [init le0001] Sent
+06.09.13 12:11:41 :: Client Disconnected : 192.168.10.13:22953
+06.09.13 12:11:57 :: Send data [disdisp] to all clients
+06.09.13 12:12:01 :: [192.168.10.13:22982] [] Sent
+06.09.13 12:12:01 :: [192.168.10.13:22982] Data Received => init le0001
+06.09.13 12:12:01 :: [192.168.10.13] Send data [disdisp]
+06.09.13 12:12:01 :: [192.168.10.13:22982] [init le0001] Sent
+06.09.13 12:12:01 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:12:01 :: [192.168.10.13:22982] [init le0001] Sent
+06.09.13 12:12:27 :: Client Disconnected : 192.168.10.13:22982
+06.09.13 12:12:29 :: Send data [number 21] to all clients
+06.09.13 12:12:29 :: Send data [endisp] to all clients
+06.09.13 12:12:58 :: Send data [disdisp] to all clients
+06.09.13 12:13:06 :: [192.168.10.13:23013] [] Sent
+06.09.13 12:13:06 :: [192.168.10.13:23013] Data Received => init le0001
+06.09.13 12:13:06 :: [192.168.10.13] Send data [disdisp]
+06.09.13 12:13:06 :: [192.168.10.13:23013] [init le0001] Sent
+06.09.13 12:13:06 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:13:06 :: [192.168.10.13:23013] [init le0001] Sent
+06.09.13 12:13:13 :: Client Disconnected : 192.168.10.13:23013
+06.09.13 12:13:31 :: Send data [number 12] to all clients
+06.09.13 12:13:32 :: Send data [endisp] to all clients
+06.09.13 12:13:32 :: [192.168.10.13:23035] [] Sent
+06.09.13 12:13:32 :: [192.168.10.13:23035] [] Sent
+06.09.13 12:13:32 :: [192.168.10.13:23035] Data Received => init le0001
+06.09.13 12:13:32 :: [192.168.10.13] Send data [endisp]
+06.09.13 12:13:32 :: [192.168.10.13:23035] [init le0001] Sent
+06.09.13 12:13:33 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:13:33 :: [192.168.10.13:23035] [init le0001] Sent
+06.09.13 12:14:00 :: Send data [disdisp] to all clients
+06.09.13 12:14:00 :: [192.168.10.13:23035] [init le0001] Sent
+06.09.13 12:14:19 :: Client Disconnected : 192.168.10.13:23035
+06.09.13 12:14:21 :: [192.168.10.13:23051] [] Sent
+06.09.13 12:14:21 :: [192.168.10.13:23051] Data Received => init le0001
+06.09.13 12:14:21 :: [192.168.10.13] Send data [disdisp]
+06.09.13 12:14:21 :: [192.168.10.13:23051] [init le0001] Sent
+06.09.13 12:14:21 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:14:21 :: [192.168.10.13:23051] [init le0001] Sent
+06.09.13 12:14:27 :: Client Disconnected : 192.168.10.13:23051
+06.09.13 12:14:34 :: Send data [number 27] to all clients
+06.09.13 12:14:35 :: Send data [endisp] to all clients
+06.09.13 12:15:04 :: Send data [disdisp] to all clients
+06.09.13 12:15:05 :: [192.168.10.13:23070] [] Sent
+06.09.13 12:15:05 :: [192.168.10.13:23070] Data Received => init le0001
+06.09.13 12:15:05 :: [192.168.10.13] Send data [disdisp]
+06.09.13 12:15:05 :: [192.168.10.13:23070] [init le0001] Sent
+06.09.13 12:15:05 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:15:05 :: [192.168.10.13:23070] [init le0001] Sent
+06.09.13 12:15:08 :: Client Disconnected : 192.168.10.13:23070
+06.09.13 12:15:36 :: Send data [number 26] to all clients
+06.09.13 12:15:37 :: Send data [endisp] to all clients
+06.09.13 12:16:05 :: Send data [disdisp] to all clients
+06.09.13 12:19:31 :: LastNumbers: 20,13,28,10,13,17,21,12,27,26,24,13,33,
+06.09.13 12:19:36 :: [192.168.10.13:23188] [] Sent
+06.09.13 12:19:36 :: [192.168.10.13:23188] Data Received => init le0001
+06.09.13 12:19:36 :: [192.168.10.13] Send data [init disdisp;20,13,28,10,13,17,21,12,27,26,24,13,33,]
+06.09.13 12:19:36 :: [192.168.10.13:23188] [init le0001] Sent
+06.09.13 12:19:36 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:19:36 :: [192.168.10.13:23188] [init le0001] Sent
+06.09.13 12:19:50 :: Send data [number 15] to all clients
+06.09.13 12:19:50 :: [192.168.10.13:23188] [init le0001] Sent
+06.09.13 12:19:50 :: [192.168.10.13:23188] [init le0001] Sent
+06.09.13 12:19:51 :: Send data [endisp] to all clients
+06.09.13 12:19:51 :: [192.168.10.13:23188] [init le0001] Sent
+06.09.13 12:20:09 :: Client Disconnected : 192.168.10.13:23188
+06.09.13 12:20:19 :: Send data [disdisp] to all clients
+06.09.13 12:20:52 :: Send data [number 15] to all clients
+06.09.13 12:20:52 :: Send data [endisp] to all clients
+06.09.13 12:20:58 :: [192.168.10.13:23208] Data Received => init le0001
+06.09.13 12:20:58 :: [192.168.10.13] Send data [init endisp;15,15,20,13,28,10,13,17,21,12,27,26,24,]
+06.09.13 12:20:58 :: [192.168.10.13:23208] [init le0001] Sent
+06.09.13 12:20:58 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:20:58 :: [192.168.10.13:23208] [init le0001] Sent
+06.09.13 12:21:06 :: Client Disconnected : 192.168.10.13:23208
+06.09.13 12:21:22 :: Send data [disdisp] to all clients
+06.09.13 12:21:56 :: Send data [number 22] to all clients
+06.09.13 12:21:57 :: Send data [endisp] to all clients
+06.09.13 12:22:12 :: [192.168.10.13:23224] [] Sent
+06.09.13 12:22:12 :: [192.168.10.13] Send data [init endisp;22,15,15,20,13,28,10,13,17,21,12,27,26,]
+06.09.13 12:22:12 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:22:12 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:22:12 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:22:27 :: Send data [disdisp] to all clients
+06.09.13 12:22:27 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:22:59 :: Send data [number 8] to all clients
+06.09.13 12:22:59 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:22:59 :: Send data [endisp] to all clients
+06.09.13 12:22:59 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:23:37 :: Send data [disdisp] to all clients
+06.09.13 12:23:37 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:24:00 :: Send data [number 16] to all clients
+06.09.13 12:24:00 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:24:00 :: Send data [endisp] to all clients
+06.09.13 12:24:00 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:24:26 :: Send data [disdisp] to all clients
+06.09.13 12:24:26 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:25:05 :: Send data [number 16] to all clients
+06.09.13 12:25:05 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:25:05 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:25:05 :: Send data [endisp] to all clients
+06.09.13 12:25:05 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:25:34 :: Send data [disdisp] to all clients
+06.09.13 12:25:34 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:26:11 :: Send data [number 6] to all clients
+06.09.13 12:26:11 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:26:11 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:26:11 :: Send data [endisp] to all clients
+06.09.13 12:26:11 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:26:40 :: Send data [disdisp] to all clients
+06.09.13 12:26:40 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:27:15 :: Send data [number 35] to all clients
+06.09.13 12:27:15 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:27:15 :: Send data [endisp] to all clients
+06.09.13 12:27:15 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:27:44 :: Send data [disdisp] to all clients
+06.09.13 12:27:44 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:28:17 :: Send data [number 6] to all clients
+06.09.13 12:28:17 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:28:17 :: Send data [endisp] to all clients
+06.09.13 12:28:17 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:28:45 :: Send data [disdisp] to all clients
+06.09.13 12:28:45 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:29:20 :: Send data [number 32] to all clients
+06.09.13 12:29:20 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:29:20 :: Send data [endisp] to all clients
+06.09.13 12:29:20 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:29:49 :: Send data [disdisp] to all clients
+06.09.13 12:29:49 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:30:21 :: Send data [number 31] to all clients
+06.09.13 12:30:21 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:30:21 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:30:22 :: Send data [endisp] to all clients
+06.09.13 12:30:22 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:30:50 :: Send data [disdisp] to all clients
+06.09.13 12:30:50 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:31:24 :: Send data [number 15] to all clients
+06.09.13 12:31:24 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:31:25 :: Send data [endisp] to all clients
+06.09.13 12:31:25 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:31:54 :: Send data [disdisp] to all clients
+06.09.13 12:31:54 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:32:29 :: Send data [number 1] to all clients
+06.09.13 12:32:29 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:32:30 :: Send data [endisp] to all clients
+06.09.13 12:32:30 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:32:59 :: Send data [disdisp] to all clients
+06.09.13 12:32:59 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:33:38 :: Send data [number 21] to all clients
+06.09.13 12:33:38 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:33:38 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:33:49 :: Send data [endisp] to all clients
+06.09.13 12:33:49 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:34:17 :: Send data [disdisp] to all clients
+06.09.13 12:34:17 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:34:51 :: Send data [number 31] to all clients
+06.09.13 12:34:51 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:34:51 :: Send data [endisp] to all clients
+06.09.13 12:34:51 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:35:21 :: Send data [disdisp] to all clients
+06.09.13 12:35:21 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:35:55 :: Send data [number 5] to all clients
+06.09.13 12:35:55 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:35:55 :: Send data [endisp] to all clients
+06.09.13 12:35:55 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:36:24 :: Send data [disdisp] to all clients
+06.09.13 12:36:24 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:36:55 :: Send data [number 22] to all clients
+06.09.13 12:36:55 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:36:55 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:36:55 :: Send data [endisp] to all clients
+06.09.13 12:36:55 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:37:24 :: Send data [disdisp] to all clients
+06.09.13 12:37:24 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:37:57 :: Send data [number 24] to all clients
+06.09.13 12:37:57 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:37:57 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:37:58 :: Send data [endisp] to all clients
+06.09.13 12:37:58 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:38:27 :: Send data [disdisp] to all clients
+06.09.13 12:38:27 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:39:00 :: Send data [number 1] to all clients
+06.09.13 12:39:00 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:39:00 :: Send data [endisp] to all clients
+06.09.13 12:39:00 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:39:30 :: Send data [disdisp] to all clients
+06.09.13 12:39:30 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:40:06 :: Send data [number 11] to all clients
+06.09.13 12:40:06 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:40:06 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:40:07 :: Send data [endisp] to all clients
+06.09.13 12:40:07 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:40:36 :: Send data [disdisp] to all clients
+06.09.13 12:40:36 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:41:14 :: Send data [number 11] to all clients
+06.09.13 12:41:14 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:41:14 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:41:14 :: Send data [endisp] to all clients
+06.09.13 12:41:14 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:41:41 :: Send data [disdisp] to all clients
+06.09.13 12:41:41 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:42:17 :: Send data [number 8] to all clients
+06.09.13 12:42:17 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:42:17 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:42:17 :: Send data [endisp] to all clients
+06.09.13 12:42:17 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:42:46 :: Send data [disdisp] to all clients
+06.09.13 12:42:46 :: [192.168.10.13:23224] [init le0001] Sent
+06.09.13 12:42:53 :: Client Disconnected : 192.168.10.13:23224
+06.09.13 12:42:58 :: [192.168.10.13:37450] [] Sent
+06.09.13 12:42:58 :: [192.168.10.13] Send data [init disdisp;8,11,11,1,24,22,5,31,21,1,15,31,32,]
+06.09.13 12:42:58 :: [192.168.10.13:37450] [init le0001] Sent
+06.09.13 12:42:58 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:42:58 :: [192.168.10.13:37450] [init le0001] Sent
+06.09.13 12:43:22 :: Send data [number 34] to all clients
+06.09.13 12:43:22 :: [192.168.10.13:37450] [init le0001] Sent
+06.09.13 12:43:23 :: Send data [endisp] to all clients
+06.09.13 12:43:23 :: [192.168.10.13:37450] [init le0001] Sent
+06.09.13 12:43:30 :: Client Disconnected : 192.168.10.13:37450
+06.09.13 12:43:31 :: [192.168.10.13:37468] [] Sent
+06.09.13 12:43:31 :: [192.168.10.13] Send data [init endisp;34,8,11,11,1,24,22,5,31,21,1,15,31,]
+06.09.13 12:43:31 :: [192.168.10.13:37468] [init le0001] Sent
+06.09.13 12:43:31 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:43:31 :: [192.168.10.13:37468] [init le0001] Sent
+06.09.13 12:43:38 :: Client Disconnected : 192.168.10.13:37468
+06.09.13 12:43:39 :: [192.168.10.13:37473] [] Sent
+06.09.13 12:43:39 :: [192.168.10.13:37473] Data Received => init le0001
+06.09.13 12:43:39 :: [192.168.10.13] Send data [init endisp;34,8,11,11,1,24,22,5,31,21,1,15,31,]
+06.09.13 12:43:39 :: [192.168.10.13:37473] [init le0001] Sent
+06.09.13 12:43:39 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:43:39 :: [192.168.10.13:37473] [init le0001] Sent
+06.09.13 12:43:42 :: Client Disconnected : 192.168.10.13:37473
+06.09.13 12:43:42 :: [192.168.10.13:37482] [] Sent
+06.09.13 12:43:42 :: [192.168.10.13:37482] Data Received => init le0001
+06.09.13 12:43:42 :: [192.168.10.13] Send data [init endisp;34,8,11,11,1,24,22,5,31,21,1,15,31,]
+06.09.13 12:43:42 :: [192.168.10.13:37482] [init le0001] Sent
+06.09.13 12:43:42 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:43:42 :: [192.168.10.13:37482] [init le0001] Sent
+06.09.13 12:43:56 :: Send data [disdisp] to all clients
+06.09.13 12:43:56 :: [192.168.10.13:37482] [init le0001] Sent
+06.09.13 12:43:56 :: [192.168.10.13:37482] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:44:00 :: Client Disconnected : 192.168.10.13:37482
+06.09.13 12:44:00 :: [192.168.10.13:37485] [] Sent
+06.09.13 12:44:00 :: [192.168.10.13:37485] Data Received => init le0001
+06.09.13 12:44:00 :: [192.168.10.13] Send data [init disdisp;34,8,11,11,1,24,22,5,31,21,1,15,31,]
+06.09.13 12:44:00 :: [192.168.10.13:37485] [init le0001] Sent
+06.09.13 12:44:00 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:44:00 :: [192.168.10.13:37485] [init le0001] Sent
+06.09.13 12:44:25 :: Client Disconnected : 192.168.10.13:37485
+06.09.13 12:44:26 :: [192.168.10.13:37500] Data Received => init le0001
+06.09.13 12:44:26 :: [192.168.10.13] Send data [init disdisp;34,8,11,11,1,24,22,5,31,21,1,15,31,]
+06.09.13 12:44:26 :: [192.168.10.13:37500] [init le0001] Sent
+06.09.13 12:44:26 :: [192.168.10.13:37500] [init le0001] Sent
+06.09.13 12:44:26 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:44:26 :: [192.168.10.13:37500] [init le0001] Sent
+06.09.13 12:44:29 :: Send data [number 19] to all clients
+06.09.13 12:44:29 :: [192.168.10.13:37500] [init le0001] Sent
+06.09.13 12:44:29 :: [192.168.10.13:37500] [init le0001] Sent
+06.09.13 12:44:29 :: Send data [endisp] to all clients
+06.09.13 12:44:29 :: [192.168.10.13:37500] [init le0001] Sent
+06.09.13 12:44:54 :: Client Disconnected : 192.168.10.13:37500
+06.09.13 12:44:55 :: [192.168.10.13:37524] [] Sent
+06.09.13 12:44:55 :: [192.168.10.13] Send data [init endisp;19,34,8,11,11,1,24,22,5,31,21,1,15,]
+06.09.13 12:44:55 :: [192.168.10.13:37524] [init le0001] Sent
+06.09.13 12:44:55 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:44:55 :: [192.168.10.13:37524] [init le0001] Sent
+06.09.13 12:44:58 :: Send data [disdisp] to all clients
+06.09.13 12:44:58 :: [192.168.10.13:37524] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:44:58 :: [192.168.10.13:37524] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:45:19 :: Client Disconnected : 192.168.10.13:37524
+06.09.13 12:45:20 :: [192.168.10.13:37529] [] Sent
+06.09.13 12:45:20 :: [192.168.10.13] Send data [init disdisp;19,34,8,11,11,1,24,22,5,31,21,1,15,]
+06.09.13 12:45:20 :: [192.168.10.13:37529] [init le0001] Sent
+06.09.13 12:45:20 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:45:20 :: [192.168.10.13:37529] [init le0001] Sent
+06.09.13 12:45:32 :: Send data [number 23] to all clients
+06.09.13 12:45:32 :: [192.168.10.13:37529] [init le0001] Sent
+06.09.13 12:45:32 :: [192.168.10.13:37529] [init le0001] Sent
+06.09.13 12:45:33 :: Send data [endisp] to all clients
+06.09.13 12:45:33 :: [192.168.10.13:37529] [init le0001] Sent
+06.09.13 12:46:02 :: Send data [disdisp] to all clients
+06.09.13 12:46:02 :: [192.168.10.13:37529] [init le0001] Sent
+06.09.13 12:46:02 :: [192.168.10.13:37529] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:46:36 :: Send data [number 33] to all clients
+06.09.13 12:46:36 :: [192.168.10.13:37529] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:46:36 :: Send data [endisp] to all clients
+06.09.13 12:46:36 :: [192.168.10.13:37529] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:46:43 :: Client Disconnected : 192.168.10.13:37529
+06.09.13 12:46:44 :: [192.168.10.13:37604] [] Sent
+06.09.13 12:46:44 :: [192.168.10.13] Send data [init endisp;33,23,19,34,8,11,11,1,24,22,5,31,21,]
+06.09.13 12:46:44 :: [192.168.10.13:37604] [init le0001] Sent
+06.09.13 12:46:44 :: [192.168.10.13] Send data [cr 221]
+06.09.13 12:46:44 :: [192.168.10.13:37604] [init le0001] Sent
+06.09.13 12:47:05 :: Send data [disdisp] to all clients
+06.09.13 12:47:05 :: [192.168.10.13:37604] [init le0001] Sent
+06.09.13 12:47:05 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:47:40 :: Send data [number 25] to all clients
+06.09.13 12:47:40 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:47:40 :: Send data [endisp] to all clients
+06.09.13 12:47:40 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:48:10 :: Send data [disdisp] to all clients
+06.09.13 12:48:10 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:48:10 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:48:47 :: Send data [number 8] to all clients
+06.09.13 12:48:47 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:48:47 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:48:47 :: Send data [endisp] to all clients
+06.09.13 12:48:47 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:49:16 :: Send data [disdisp] to all clients
+06.09.13 12:49:16 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:49:16 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:49:49 :: Send data [number 24] to all clients
+06.09.13 12:49:49 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:49:49 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:49:49 :: Send data [endisp] to all clients
+06.09.13 12:49:49 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:50:17 :: Send data [disdisp] to all clients
+06.09.13 12:50:17 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:50:17 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:50:51 :: Send data [number 3] to all clients
+06.09.13 12:50:51 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:50:51 :: Send data [endisp] to all clients
+06.09.13 12:50:51 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:51:19 :: Send data [disdisp] to all clients
+06.09.13 12:51:19 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:51:19 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:51:53 :: Send data [number 22] to all clients
+06.09.13 12:51:53 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:51:53 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:51:54 :: Send data [endisp] to all clients
+06.09.13 12:51:54 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:52:22 :: Send data [disdisp] to all clients
+06.09.13 12:52:22 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:52:22 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:52:54 :: Send data [number 8] to all clients
+06.09.13 12:52:54 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:52:54 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:52:55 :: Send data [endisp] to all clients
+06.09.13 12:52:55 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:53:25 :: Send data [disdisp] to all clients
+06.09.13 12:53:25 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:53:25 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:53:57 :: Send data [number 33] to all clients
+06.09.13 12:53:57 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:53:58 :: Send data [endisp] to all clients
+06.09.13 12:53:58 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:54:27 :: Send data [disdisp] to all clients
+06.09.13 12:54:27 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:54:27 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:55:02 :: Send data [number 8] to all clients
+06.09.13 12:55:02 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:55:02 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:55:03 :: Send data [endisp] to all clients
+06.09.13 12:55:03 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:55:31 :: Send data [disdisp] to all clients
+06.09.13 12:55:31 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:55:31 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:56:06 :: Send data [number 21] to all clients
+06.09.13 12:56:06 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:56:06 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:56:34 :: Send data [disdisp] to all clients
+06.09.13 12:56:34 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:56:34 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:57:13 :: Send data [number 19] to all clients
+06.09.13 12:57:13 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:57:13 :: Send data [endisp] to all clients
+06.09.13 12:57:13 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:57:43 :: Send data [disdisp] to all clients
+06.09.13 12:57:43 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:57:43 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:58:17 :: Send data [number 10] to all clients
+06.09.13 12:58:17 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:58:17 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:58:18 :: Send data [endisp] to all clients
+06.09.13 12:58:18 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:58:45 :: Send data [disdisp] to all clients
+06.09.13 12:58:45 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:58:45 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 12:59:21 :: Send data [number 33] to all clients
+06.09.13 12:59:21 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:59:21 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:59:22 :: Send data [endisp] to all clients
+06.09.13 12:59:22 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:59:50 :: Send data [disdisp] to all clients
+06.09.13 12:59:50 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 12:59:50 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:00:26 :: Send data [number 18] to all clients
+06.09.13 13:00:26 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:00:26 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:00:27 :: Send data [endisp] to all clients
+06.09.13 13:00:27 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:00:57 :: Send data [disdisp] to all clients
+06.09.13 13:00:57 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:00:57 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:01:28 :: Send data [number 12] to all clients
+06.09.13 13:01:28 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:01:28 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:01:28 :: Send data [endisp] to all clients
+06.09.13 13:01:28 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:01:56 :: Send data [disdisp] to all clients
+06.09.13 13:01:56 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:01:56 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:02:30 :: Send data [number 25] to all clients
+06.09.13 13:02:30 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:02:30 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:02:30 :: Send data [endisp] to all clients
+06.09.13 13:02:30 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:02:58 :: Send data [disdisp] to all clients
+06.09.13 13:02:58 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:02:58 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:03:32 :: Send data [number 27] to all clients
+06.09.13 13:03:32 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:03:32 :: Send data [endisp] to all clients
+06.09.13 13:03:32 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:04:01 :: Send data [disdisp] to all clients
+06.09.13 13:04:01 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:04:01 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:04:36 :: Send data [number 25] to all clients
+06.09.13 13:04:36 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:04:36 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:04:37 :: Send data [endisp] to all clients
+06.09.13 13:04:37 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:05:07 :: Send data [disdisp] to all clients
+06.09.13 13:05:07 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:05:07 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:05:40 :: Send data [number 2] to all clients
+06.09.13 13:05:40 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:05:40 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:05:40 :: Send data [endisp] to all clients
+06.09.13 13:05:40 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:06:08 :: Send data [disdisp] to all clients
+06.09.13 13:06:08 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:06:08 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:06:46 :: Send data [number 3] to all clients
+06.09.13 13:06:46 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:06:46 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:06:46 :: Send data [endisp] to all clients
+06.09.13 13:06:46 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:07:12 :: Send data [disdisp] to all clients
+06.09.13 13:07:13 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:07:13 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:07:51 :: Send data [number 28] to all clients
+06.09.13 13:07:51 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:07:51 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:07:52 :: Send data [endisp] to all clients
+06.09.13 13:07:52 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:08:21 :: Send data [disdisp] to all clients
+06.09.13 13:08:21 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:08:21 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:08:56 :: Send data [number 19] to all clients
+06.09.13 13:08:56 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:08:56 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:08:56 :: Send data [endisp] to all clients
+06.09.13 13:08:56 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:09:24 :: Send data [disdisp] to all clients
+06.09.13 13:09:24 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:09:24 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:10:02 :: Send data [number 24] to all clients
+06.09.13 13:10:02 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:10:02 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:10:03 :: Send data [endisp] to all clients
+06.09.13 13:10:03 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:10:32 :: Send data [disdisp] to all clients
+06.09.13 13:10:32 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:10:32 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:11:05 :: Send data [number 15] to all clients
+06.09.13 13:11:05 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:11:05 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:11:05 :: Send data [endisp] to all clients
+06.09.13 13:11:05 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:11:36 :: Send data [disdisp] to all clients
+06.09.13 13:11:36 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:11:36 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:12:12 :: Send data [number 34] to all clients
+06.09.13 13:12:12 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:12:13 :: Send data [endisp] to all clients
+06.09.13 13:12:13 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:12:42 :: Send data [disdisp] to all clients
+06.09.13 13:12:42 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:12:42 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:13:15 :: Send data [number 7] to all clients
+06.09.13 13:13:15 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:13:15 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:13:16 :: Send data [endisp] to all clients
+06.09.13 13:13:16 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:13:44 :: Send data [disdisp] to all clients
+06.09.13 13:13:44 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:13:44 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:14:19 :: Send data [number 32] to all clients
+06.09.13 13:14:19 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:14:20 :: Send data [endisp] to all clients
+06.09.13 13:14:20 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:14:49 :: Send data [disdisp] to all clients
+06.09.13 13:14:49 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:14:49 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:15:22 :: Send data [number 12] to all clients
+06.09.13 13:15:22 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:15:23 :: Send data [endisp] to all clients
+06.09.13 13:15:23 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:15:53 :: Send data [disdisp] to all clients
+06.09.13 13:15:53 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:15:53 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:16:28 :: Send data [number 1] to all clients
+06.09.13 13:16:29 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:16:29 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:16:29 :: Send data [endisp] to all clients
+06.09.13 13:16:29 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:16:57 :: Send data [disdisp] to all clients
+06.09.13 13:16:57 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:16:57 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:17:30 :: Send data [number 30] to all clients
+06.09.13 13:17:30 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:17:30 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:17:31 :: Send data [endisp] to all clients
+06.09.13 13:17:31 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:17:59 :: Send data [disdisp] to all clients
+06.09.13 13:17:59 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:17:59 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:18:34 :: Send data [number 19] to all clients
+06.09.13 13:18:34 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:18:34 :: Send data [endisp] to all clients
+06.09.13 13:18:34 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:19:03 :: Send data [disdisp] to all clients
+06.09.13 13:19:03 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:19:03 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:19:36 :: Send data [number 23] to all clients
+06.09.13 13:19:36 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:19:36 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:19:37 :: Send data [endisp] to all clients
+06.09.13 13:19:37 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:20:07 :: Send data [disdisp] to all clients
+06.09.13 13:20:07 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:20:07 :: [192.168.10.13:37604] Data Received => bets 0;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0
+06.09.13 13:20:37 :: Send data [number 11] to all clients
+06.09.13 13:20:38 :: [192.168.10.13:37604] [bets 0;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0] Sent
+06.09.13 13:20:38 :: [192.168.10.13:37604] [bets 0;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0] Sent
+06.09.13 13:20:38 :: Send data [endisp] to all clients
+06.09.13 13:20:38 :: [192.168.10.13:37604] [bets 0;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0] Sent
+06.09.13 13:21:06 :: Send data [disdisp] to all clients
+06.09.13 13:21:06 :: [192.168.10.13:37604] [bets 0;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0;5.555555555555555;0] Sent
+06.09.13 13:21:06 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:21:45 :: Send data [number 32] to all clients
+06.09.13 13:21:45 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:21:45 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:21:45 :: Send data [endisp] to all clients
+06.09.13 13:21:45 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:22:13 :: Send data [disdisp] to all clients
+06.09.13 13:22:13 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:22:13 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:22:50 :: Send data [number 1] to all clients
+06.09.13 13:22:50 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:22:50 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:22:50 :: Send data [endisp] to all clients
+06.09.13 13:22:50 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:23:17 :: Send data [disdisp] to all clients
+06.09.13 13:23:17 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:23:17 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:23:56 :: Send data [number 34] to all clients
+06.09.13 13:23:56 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:23:56 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:23:56 :: Send data [endisp] to all clients
+06.09.13 13:23:56 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:24:26 :: Send data [disdisp] to all clients
+06.09.13 13:24:26 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:24:26 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:24:58 :: Send data [number 27] to all clients
+06.09.13 13:24:58 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:24:58 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:24:58 :: Send data [endisp] to all clients
+06.09.13 13:24:58 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:25:27 :: Send data [disdisp] to all clients
+06.09.13 13:25:27 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:25:27 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:25:59 :: Send data [number 19] to all clients
+06.09.13 13:25:59 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:25:59 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:26:00 :: Send data [endisp] to all clients
+06.09.13 13:26:00 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:26:28 :: Send data [disdisp] to all clients
+06.09.13 13:26:28 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:26:28 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:27:03 :: Send data [number 13] to all clients
+06.09.13 13:27:03 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:27:03 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:27:04 :: Send data [endisp] to all clients
+06.09.13 13:27:04 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:27:33 :: Send data [disdisp] to all clients
+06.09.13 13:27:33 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:27:33 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:28:06 :: Send data [number 21] to all clients
+06.09.13 13:28:06 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:28:06 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:28:06 :: Send data [endisp] to all clients
+06.09.13 13:28:06 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:28:36 :: Send data [disdisp] to all clients
+06.09.13 13:28:36 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:28:36 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:29:12 :: Send data [number 17] to all clients
+06.09.13 13:29:12 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:29:12 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:29:13 :: Send data [endisp] to all clients
+06.09.13 13:29:13 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:29:40 :: Send data [disdisp] to all clients
+06.09.13 13:29:40 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:29:40 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:30:15 :: Send data [number 33] to all clients
+06.09.13 13:30:15 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:30:15 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:30:15 :: Send data [endisp] to all clients
+06.09.13 13:30:15 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:30:44 :: Send data [disdisp] to all clients
+06.09.13 13:30:44 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:30:44 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:31:21 :: Send data [number 0] to all clients
+06.09.13 13:31:21 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:31:21 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:31:21 :: Send data [endisp] to all clients
+06.09.13 13:31:21 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:31:50 :: Send data [disdisp] to all clients
+06.09.13 13:31:50 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:31:50 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:32:21 :: Send data [number 8] to all clients
+06.09.13 13:32:21 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:32:21 :: Send data [endisp] to all clients
+06.09.13 13:32:21 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:32:49 :: Send data [disdisp] to all clients
+06.09.13 13:32:49 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:32:49 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:33:22 :: Send data [number 14] to all clients
+06.09.13 13:33:22 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:33:22 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:33:23 :: Send data [endisp] to all clients
+06.09.13 13:33:23 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:33:52 :: Send data [disdisp] to all clients
+06.09.13 13:33:52 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:33:52 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:34:29 :: Send data [number 14] to all clients
+06.09.13 13:34:29 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:34:29 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:34:30 :: Send data [endisp] to all clients
+06.09.13 13:34:30 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:35:01 :: Send data [disdisp] to all clients
+06.09.13 13:35:01 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:35:01 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:35:34 :: Send data [number 13] to all clients
+06.09.13 13:35:34 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:35:34 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:35:35 :: Send data [endisp] to all clients
+06.09.13 13:35:35 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:36:03 :: Send data [disdisp] to all clients
+06.09.13 13:36:03 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:36:03 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:36:38 :: Send data [number 26] to all clients
+06.09.13 13:36:38 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:36:39 :: Send data [endisp] to all clients
+06.09.13 13:36:39 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:37:09 :: Send data [disdisp] to all clients
+06.09.13 13:37:09 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:37:09 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:37:41 :: Send data [number 22] to all clients
+06.09.13 13:37:41 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:37:41 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:37:41 :: Send data [endisp] to all clients
+06.09.13 13:37:41 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:38:09 :: Send data [disdisp] to all clients
+06.09.13 13:38:09 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:38:09 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:38:45 :: Send data [number 12] to all clients
+06.09.13 13:38:45 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:38:45 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:38:45 :: Send data [endisp] to all clients
+06.09.13 13:38:45 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:39:15 :: Send data [disdisp] to all clients
+06.09.13 13:39:15 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:39:15 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:39:27 :: [192.168.17.100:2105] [] Sent
+06.09.13 13:39:27 :: [192.168.17.100:2105] Data Received => init na0002
+06.09.13 13:39:27 :: [192.168.17.100] Send data [init disdisp;12,22,26,13,14,14,8,0,33,17,21,13,19,]
+06.09.13 13:39:27 :: [192.168.17.100:2105] [init na0002] Sent
+06.09.13 13:39:27 :: [192.168.17.100] Send data [cr 515]
+06.09.13 13:39:27 :: [192.168.17.100:2105] [init na0002] Sent
+06.09.13 13:39:53 :: Send data [number 16] to all clients
+06.09.13 13:39:53 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:39:53 :: [192.168.17.100:2105] [init na0002] Sent
+06.09.13 13:39:53 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:39:53 :: [192.168.17.100:2105] [init na0002] Sent
+06.09.13 13:39:53 :: Send data [endisp] to all clients
+06.09.13 13:39:53 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:39:53 :: [192.168.17.100:2105] [init na0002] Sent
+06.09.13 13:40:20 :: Send data [disdisp] to all clients
+06.09.13 13:40:20 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:40:20 :: [192.168.17.100:2105] [init na0002] Sent
+06.09.13 13:40:20 :: [192.168.17.100:2105] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:40:20 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:40:57 :: Send data [number 23] to all clients
+06.09.13 13:40:57 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:40:57 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:40:57 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:40:58 :: Send data [endisp] to all clients
+06.09.13 13:40:58 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:40:58 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:41:26 :: Send data [disdisp] to all clients
+06.09.13 13:41:26 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:41:26 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:41:26 :: [192.168.17.100:2105] Data Received => bets 0;0;0;0;0;7.5;0;0;7.5;5;0;5;0;5;0;0;5;0;0;5;0;0;0;0;5;0;5;5;0;0;5;5;10;5;5;5;5
+06.09.13 13:42:03 :: Send data [number 29] to all clients
+06.09.13 13:42:03 :: [192.168.17.100:2105] [bets 0;0;0;0;0;7.5;0;0;7.5;5;0;5;0;5;0;0;5;0;0;5;0;0;0;0;5;0;5;5;0;0;5;5;10;5;5;5;5] Sent
+06.09.13 13:42:03 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:42:03 :: [192.168.17.100:2105] [bets 0;0;0;0;0;7.5;0;0;7.5;5;0;5;0;5;0;0;5;0;0;5;0;0;0;0;5;0;5;5;0;0;5;5;10;5;5;5;5] Sent
+06.09.13 13:42:03 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:42:03 :: Send data [endisp] to all clients
+06.09.13 13:42:03 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:42:03 :: [192.168.17.100:2105] [bets 0;0;0;0;0;7.5;0;0;7.5;5;0;5;0;5;0;0;5;0;0;5;0;0;0;0;5;0;5;5;0;0;5;5;10;5;5;5;5] Sent
+06.09.13 13:42:32 :: Send data [disdisp] to all clients
+06.09.13 13:42:32 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:42:32 :: [192.168.17.100:2105] [bets 0;0;0;0;0;7.5;0;0;7.5;5;0;5;0;5;0;0;5;0;0;5;0;0;0;0;5;0;5;5;0;0;5;5;10;5;5;5;5] Sent
+06.09.13 13:42:32 :: [192.168.17.100:2105] Data Received => bets 10;0;0;5;0;0;0;5;0;5;0;0;2;0;0;2;3;1.5;3;2;3.5;2;4;0;0;0;0;0;5;0;0;0;0;0;0;0;0
+06.09.13 13:42:32 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:43:05 :: Send data [number 22] to all clients
+06.09.13 13:43:05 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:43:05 :: [192.168.17.100:2105] [bets 10;0;0;5;0;0;0;5;0;5;0;0;2;0;0;2;3;1.5;3;2;3.5;2;4;0;0;0;0;0;5;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:43:05 :: [192.168.17.100:2105] [bets 10;0;0;5;0;0;0;5;0;5;0;0;2;0;0;2;3;1.5;3;2;3.5;2;4;0;0;0;0;0;5;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:43:06 :: Send data [endisp] to all clients
+06.09.13 13:43:06 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:43:06 :: [192.168.17.100:2105] [bets 10;0;0;5;0;0;0;5;0;5;0;0;2;0;0;2;3;1.5;3;2;3.5;2;4;0;0;0;0;0;5;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:43:34 :: Send data [disdisp] to all clients
+06.09.13 13:43:34 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:43:34 :: [192.168.17.100:2105] [bets 10;0;0;5;0;0;0;5;0;5;0;0;2;0;0;2;3;1.5;3;2;3.5;2;4;0;0;0;0;0;5;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:43:34 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:43:34 :: [192.168.17.100:2105] Data Received => bets 0;0;0;0;0;10;0;0;10;0;10;10;10;10;0;10;10;10;0;0;0;0;0;10;10;0;10;10;0;0;15;0;0;20;0;0;15
+06.09.13 13:44:07 :: Send data [number 2] to all clients
+06.09.13 13:44:07 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:44:07 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:44:07 :: [192.168.17.100:2105] [bets 0;0;0;0;0;10;0;0;10;0;10;10;10;10;0;10;10;10;0;0;0;0;0;10;10;0;10;10;0;0;15;0;0;20;0;0;15] Sent
+06.09.13 13:44:07 :: Send data [endisp] to all clients
+06.09.13 13:44:07 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:44:36 :: Send data [disdisp] to all clients
+06.09.13 13:44:36 :: [192.168.17.100:2105] [bets 0;0;0;0;0;10;0;0;10;0;10;10;10;10;0;10;10;10;0;0;0;0;0;10;10;0;10;10;0;0;15;0;0;20;0;0;15] Sent
+06.09.13 13:44:36 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:44:36 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:44:36 :: [192.168.17.100:2105] Data Received => bets 0;0;5;0;5;5;0;0;5;0;5;5;0;5;0;0;5;0;0;0;0;5;5;5;5;0;0;5;0;5;5;0;5;5;0;5;5
+06.09.13 13:45:11 :: Send data [number 14] to all clients
+06.09.13 13:45:11 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:45:11 :: [192.168.17.100:2105] [bets 0;0;5;0;5;5;0;0;5;0;5;5;0;5;0;0;5;0;0;0;0;5;5;5;5;0;0;5;0;5;5;0;5;5;0;5;5] Sent
+06.09.13 13:45:11 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:45:11 :: Send data [endisp] to all clients
+06.09.13 13:45:11 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:45:38 :: Send data [disdisp] to all clients
+06.09.13 13:45:38 :: [192.168.17.100:2105] [bets 0;0;5;0;5;5;0;0;5;0;5;5;0;5;0;0;5;0;0;0;0;5;5;5;5;0;0;5;0;5;5;0;5;5;0;5;5] Sent
+06.09.13 13:45:38 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:45:38 :: [192.168.17.100:2105] Data Received => bets 0;0;1.6666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;6.666666666666667;5;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;1.6666666666666667;0;1.6666666666666667;0;1.6666666666666667;5;6.666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667
+06.09.13 13:46:15 :: Send data [number 16] to all clients
+06.09.13 13:46:15 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:46:15 :: [192.168.17.100:2105] [bets 0;0;1.6666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;6.666666666666667;5;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;1.6666666666666667;0;1.6666666666666667;0;1.6666666666666667;5;6.666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667] Sent
+06.09.13 13:46:15 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:46:15 :: [192.168.17.100:2105] [bets 0;0;1.6666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;6.666666666666667;5;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;1.6666666666666667;0;1.6666666666666667;0;1.6666666666666667;5;6.666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667] Sent
+06.09.13 13:46:16 :: Send data [endisp] to all clients
+06.09.13 13:46:16 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:46:16 :: [192.168.17.100:2105] [bets 0;0;1.6666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;6.666666666666667;5;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;1.6666666666666667;0;1.6666666666666667;0;1.6666666666666667;5;6.666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667] Sent
+06.09.13 13:46:44 :: Send data [disdisp] to all clients
+06.09.13 13:46:44 :: [192.168.17.100:2105] [bets 0;0;1.6666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;6.666666666666667;5;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;1.6666666666666667;0;1.6666666666666667;0;1.6666666666666667;5;6.666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667;0;1.6666666666666667;5;1.6666666666666667;0;6.666666666666667] Sent
+06.09.13 13:46:44 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:46:44 :: [192.168.17.100:2105] Data Received => bets 0;0;1.9444444444444444;0;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445;0;11.944444444444445;10;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445;0;1.9444444444444444;0;1.9444444444444444;0;1.9444444444444444;15;11.944444444444445;0;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445;0;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445
+06.09.13 13:47:19 :: Send data [number 6] to all clients
+06.09.13 13:47:19 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:47:19 :: [192.168.17.100:2105] [bets 0;0;1.9444444444444444;0;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445;0;11.944444444444445;10;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445;0;1.9444444444444444;0;1.9444444444444444;0;1.9444444444444444;15;11.944444444444445;0;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445;0;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445] Sent
+06.09.13 13:47:19 :: [192.168.17.100:2105] [bets 0;0;1.9444444444444444;0;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445;0;11.944444444444445;10;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445;0;1.9444444444444444;0;1.9444444444444444;0;1.9444444444444444;15;11.944444444444445;0;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445;0;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445] Sent
+06.09.13 13:47:20 :: Send data [endisp] to all clients
+06.09.13 13:47:20 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:47:20 :: [192.168.17.100:2105] [bets 0;0;1.9444444444444444;0;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445;0;11.944444444444445;10;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445;0;1.9444444444444444;0;1.9444444444444444;0;1.9444444444444444;15;11.944444444444445;0;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445;0;1.9444444444444444;10;1.9444444444444444;0;11.944444444444445] Sent
+06.09.13 13:47:49 :: Send data [disdisp] to all clients
+06.09.13 13:47:49 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:47:49 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:47:49 :: [192.168.17.100:2105] Data Received => bets 0;0;0;0;0;15;0;2.5;10;0;12.5;10;0;10;0;0;10;0;0;0;0;0;0;15;10;0;0;10;0;0;10;0;10;10;0;0;15
+06.09.13 13:48:26 :: Send data [number 22] to all clients
+06.09.13 13:48:26 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:48:26 :: [192.168.17.100:2105] [bets 0;0;0;0;0;15;0;2.5;10;0;12.5;10;0;10;0;0;10;0;0;0;0;0;0;15;10;0;0;10;0;0;10;0;10;10;0;0;15] Sent
+06.09.13 13:48:26 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:48:26 :: [192.168.17.100:2105] [bets 0;0;0;0;0;15;0;2.5;10;0;12.5;10;0;10;0;0;10;0;0;0;0;0;0;15;10;0;0;10;0;0;10;0;10;10;0;0;15] Sent
+06.09.13 13:48:26 :: Send data [endisp] to all clients
+06.09.13 13:48:26 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:48:54 :: Send data [disdisp] to all clients
+06.09.13 13:48:54 :: [192.168.17.100:2105] [bets 0;0;0;0;0;15;0;2.5;10;0;12.5;10;0;10;0;0;10;0;0;0;0;0;0;15;10;0;0;10;0;0;10;0;10;10;0;0;15] Sent
+06.09.13 13:48:54 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:48:54 :: [192.168.17.100:2105] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2.5;0;0;7.5;0;0;5;0;0;5
+06.09.13 13:49:29 :: Send data [number 17] to all clients
+06.09.13 13:49:29 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2.5;0;0;7.5;0;0;5;0;0;5] Sent
+06.09.13 13:49:29 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2.5;0;0;7.5;0;0;5;0;0;5] Sent
+06.09.13 13:49:29 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:49:29 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:49:29 :: Send data [endisp] to all clients
+06.09.13 13:49:29 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2.5;0;0;7.5;0;0;5;0;0;5] Sent
+06.09.13 13:49:58 :: Send data [disdisp] to all clients
+06.09.13 13:49:58 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:49:58 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2.5;0;0;7.5;0;0;5;0;0;5] Sent
+06.09.13 13:49:58 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:50:33 :: Send data [number 19] to all clients
+06.09.13 13:50:33 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:50:33 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:50:33 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:50:33 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:50:33 :: Send data [endisp] to all clients
+06.09.13 13:50:33 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:51:00 :: Send data [disdisp] to all clients
+06.09.13 13:51:00 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:51:00 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:51:00 :: [192.168.17.100:2105] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:51:38 :: Send data [number 34] to all clients
+06.09.13 13:51:38 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:51:38 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:51:38 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:51:38 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:51:38 :: Send data [endisp] to all clients
+06.09.13 13:51:38 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:52:06 :: Send data [disdisp] to all clients
+06.09.13 13:52:06 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:52:06 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:52:06 :: [192.168.17.100:2105] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:52:41 :: Send data [number 30] to all clients
+06.09.13 13:52:41 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:52:41 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:52:41 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:52:41 :: Send data [endisp] to all clients
+06.09.13 13:52:41 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:53:10 :: Send data [disdisp] to all clients
+06.09.13 13:53:10 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:53:10 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:53:10 :: [192.168.17.100:2105] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:53:42 :: Send data [number 7] to all clients
+06.09.13 13:53:42 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:53:42 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:53:42 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:53:42 :: Send data [endisp] to all clients
+06.09.13 13:53:42 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:54:09 :: Send data [disdisp] to all clients
+06.09.13 13:54:09 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:54:09 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:54:09 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:54:09 :: [192.168.17.100:2105] Data Received => bets 0;0.08333333333333333;1.5;0;0.08333333333333333;6.5;0;0.5833333333333334;9;0;9.583333333333334;7;0;11.083333333333334;0;0;9.083333333333334;0;0;5.083333333333333;0;0.5;9.083333333333334;0;2;17.583333333333332;0;2;12.083333333333334;0;0.5;13.583333333333334;0;0;4.083333333333334;0;0
+06.09.13 13:54:46 :: Send data [number 0] to all clients
+06.09.13 13:54:46 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:54:46 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:54:46 :: [192.168.17.100:2105] [bets 0;0.08333333333333333;1.5;0;0.08333333333333333;6.5;0;0.5833333333333334;9;0;9.583333333333334;7;0;11.083333333333334;0;0;9.083333333333334;0;0;5.083333333333333;0;0.5;9.083333333333334;0;2;17.583333333333332;0;2;12.083333333333334;0;0.5;13.583333333333334;0;0;4.083333333333334;0;0] Sent
+06.09.13 13:54:46 :: Send data [endisp] to all clients
+06.09.13 13:54:46 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:55:14 :: Send data [disdisp] to all clients
+06.09.13 13:55:14 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:55:14 :: [192.168.17.100:2105] [bets 0;0.08333333333333333;1.5;0;0.08333333333333333;6.5;0;0.5833333333333334;9;0;9.583333333333334;7;0;11.083333333333334;0;0;9.083333333333334;0;0;5.083333333333333;0;0.5;9.083333333333334;0;2;17.583333333333332;0;2;12.083333333333334;0;0.5;13.583333333333334;0;0;4.083333333333334;0;0] Sent
+06.09.13 13:55:14 :: [192.168.10.13:37604] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:55:14 :: [192.168.17.100:2105] Data Received => bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+06.09.13 13:55:49 :: Disconnecting from RR Server!
+06.09.13 13:55:49 :: Send data [server_down] to all clients
+06.09.13 13:55:49 :: [192.168.17.100:2105] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:55:49 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 13:57:00 :: Client Disconnected : 192.168.17.100:2105
+06.09.13 13:57:01 :: [192.168.17.100:2139] [] Sent
+06.09.13 13:57:01 :: [192.168.17.100:2139] Data Received => init na0002
+06.09.13 13:57:01 :: [192.168.17.100] Send data [server_down]
+06.09.13 13:57:01 :: [192.168.17.100:2139] [init na0002] Sent
+06.09.13 13:57:02 :: Client Disconnected : 192.168.17.100:2139
+06.09.13 13:57:03 :: [192.168.17.100:2140] [] Sent
+06.09.13 13:57:03 :: [192.168.17.100:2140] Data Received => init na0002
+06.09.13 13:57:03 :: [192.168.17.100] Send data [server_down]
+06.09.13 13:57:03 :: [192.168.17.100:2140] [init na0002] Sent
+06.09.13 13:57:22 :: [192.168.17.100:2142] [] Sent
+06.09.13 13:57:22 :: [192.168.17.100:2142] Data Received => _callback add_credit na0002;150;3
+06.09.13 13:57:22 :: Доступ к ликвидированному объекту невозможен.
+Имя объекта: "System.Net.Sockets.Socket".
+06.09.13 13:57:22 :: Доступ к ликвидированному объекту невозможен.
+Имя объекта: "System.Net.Sockets.Socket".
+06.09.13 13:57:28 :: Client Disconnected : 192.168.17.100:2140
+06.09.13 13:57:29 :: [192.168.17.100:2143] [] Sent
+06.09.13 13:57:29 :: [192.168.17.100:2143] Data Received => init na0002
+06.09.13 13:57:29 :: [192.168.17.100] Send data [server_down]
+06.09.13 13:57:29 :: [192.168.17.100:2143] [init na0002] Sent
+06.09.13 13:57:31 :: Client Disconnected : 192.168.17.100:2143
+06.09.13 13:57:31 :: [192.168.17.100:2144] [] Sent
+06.09.13 13:57:31 :: [192.168.17.100:2144] Data Received => init na0002
+06.09.13 13:57:31 :: [192.168.17.100] Send data [server_down]
+06.09.13 13:57:31 :: [192.168.17.100:2144] [init na0002] Sent
+06.09.13 13:57:33 :: Client Disconnected : 192.168.17.100:2144
+06.09.13 13:57:38 :: Client Disconnected : 192.168.17.100:2142
+06.09.13 13:58:03 :: [192.168.17.100:2151] [] Sent
+06.09.13 13:58:03 :: [192.168.17.100:2151] Data Received => init na0002
+06.09.13 13:58:03 :: [192.168.17.100] Send data [server_down]
+06.09.13 13:58:03 :: [192.168.17.100:2151] [init na0002] Sent
+06.09.13 13:58:12 :: Client Disconnected : 192.168.17.100:2151
+06.09.13 14:03:10 :: [192.168.10.13:37604] [bets 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0] Sent
+06.09.13 14:03:10 :: LastNumbers: 17,19,34,30,7,0,9,0,0,0,0,0,0,
+06.09.13 14:03:10 :: Client Disconnected : 192.168.10.13:37604
+06.09.13 14:03:12 :: Send data [number 15] to all clients
+06.09.13 14:03:13 :: Send data [endisp] to all clients
+06.09.13 14:03:41 :: Send data [disdisp] to all clients
+06.09.13 14:04:15 :: Send data [number 21] to all clients
+06.09.13 14:04:16 :: Send data [endisp] to all clients
+06.09.13 14:04:44 :: Send data [disdisp] to all clients
+06.09.13 14:05:19 :: Send data [number 34] to all clients
+06.09.13 14:05:19 :: Send data [endisp] to all clients
+06.09.13 14:05:48 :: Send data [disdisp] to all clients
+06.09.13 14:06:22 :: Send data [number 2] to all clients
+06.09.13 14:06:22 :: Send data [endisp] to all clients
+06.09.13 14:06:50 :: Send data [disdisp] to all clients
+06.09.13 14:07:23 :: Send data [number 20] to all clients
+06.09.13 14:07:24 :: Send data [endisp] to all clients
+06.09.13 14:07:53 :: Send data [disdisp] to all clients
+06.09.13 14:08:27 :: Send data [number 7] to all clients
+06.09.13 14:08:28 :: Send data [endisp] to all clients
+06.09.13 14:08:58 :: Send data [disdisp] to all clients
+06.09.13 14:09:32 :: Send data [number 19] to all clients
+06.09.13 14:09:32 :: Send data [endisp] to all clients
+06.09.13 14:10:01 :: Send data [disdisp] to all clients
+06.09.13 14:10:34 :: Send data [number 10] to all clients
+06.09.13 14:10:34 :: Send data [endisp] to all clients
+06.09.13 14:11:03 :: Send data [disdisp] to all clients
+06.09.13 14:11:35 :: Send data [number 2] to all clients
+06.09.13 14:11:35 :: Send data [endisp] to all clients
+06.09.13 14:12:04 :: Send data [disdisp] to all clients
+06.09.13 14:12:37 :: Send data [number 32] to all clients
+06.09.13 14:12:37 :: Send data [endisp] to all clients
+06.09.13 14:13:05 :: Send data [disdisp] to all clients
+06.09.13 14:13:42 :: Send data [number 30] to all clients
+06.09.13 14:13:42 :: Send data [endisp] to all clients
+06.09.13 14:14:10 :: Send data [disdisp] to all clients
+06.09.13 14:14:46 :: Send data [number 3] to all clients
+06.09.13 14:14:47 :: Send data [endisp] to all clients
+06.09.13 14:15:16 :: Send data [disdisp] to all clients
+06.09.13 14:15:50 :: Send data [number 27] to all clients
+06.09.13 14:15:51 :: Send data [endisp] to all clients
+06.09.13 14:16:18 :: Send data [disdisp] to all clients
+06.09.13 14:16:54 :: Send data [number 18] to all clients
+06.09.13 14:16:54 :: Send data [endisp] to all clients
+06.09.13 14:17:23 :: Send data [disdisp] to all clients
+06.09.13 14:17:55 :: Send data [number 7] to all clients
+06.09.13 14:17:55 :: Send data [endisp] to all clients
+06.09.13 14:18:23 :: Send data [disdisp] to all clients
+06.09.13 14:18:57 :: Send data [number 20] to all clients
+06.09.13 14:18:57 :: Send data [endisp] to all clients
+06.09.13 14:19:26 :: Send data [disdisp] to all clients
+06.09.13 14:20:02 :: Send data [number 3] to all clients
+06.09.13 14:20:03 :: Send data [endisp] to all clients
+06.09.13 14:20:31 :: Send data [disdisp] to all clients
+06.09.13 14:21:03 :: Send data [number 10] to all clients
+06.09.13 14:21:03 :: Send data [endisp] to all clients
+06.09.13 14:21:33 :: Send data [disdisp] to all clients
+06.09.13 14:22:05 :: Send data [number 25] to all clients
+06.09.13 14:22:06 :: Send data [endisp] to all clients
+06.09.13 14:22:35 :: Send data [disdisp] to all clients
+06.09.13 14:23:06 :: Send data [number 22] to all clients
+06.09.13 14:23:07 :: Send data [endisp] to all clients
+06.09.13 14:23:35 :: Send data [disdisp] to all clients
+06.09.13 14:24:05 :: Send data [number 31] to all clients
+06.09.13 14:24:06 :: Send data [endisp] to all clients
+06.09.13 14:24:32 :: Send data [disdisp] to all clients
+06.09.13 14:25:10 :: Send data [number 14] to all clients
+06.09.13 14:25:10 :: Send data [endisp] to all clients
+06.09.13 14:25:38 :: Send data [disdisp] to all clients
+06.09.13 14:26:16 :: Send data [number 16] to all clients
+06.09.13 14:26:17 :: Send data [endisp] to all clients

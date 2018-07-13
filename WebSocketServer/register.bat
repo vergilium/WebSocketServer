@@ -1,0 +1,1 @@
+regsvr32 "C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\phpHO.dll"

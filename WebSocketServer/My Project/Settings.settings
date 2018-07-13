@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Server" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">16666</Value>
+    </Setting>
+    <Setting Name="debugPhpFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\inetpub\wwwroot\mysterion\inc\debug.php</Value>
+    </Setting>
+    <Setting Name="PortHelper" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9996</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

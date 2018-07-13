@@ -1,0 +1,68 @@
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.Resources.resources
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.exe.config
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.exe
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.pdb
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.xml
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\Alchemy.dll
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\Alchemy.pdb
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.exe
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.xml
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.pdb
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\Winsock Orcas.dll
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\Winsock Orcas.pdb
+c:\users\evgen\documents\visual studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\Winsock Orcas.xml
+K:\Technic\Desktop\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.exe.config
+K:\Technic\Desktop\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.exe
+K:\Technic\Desktop\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.xml
+K:\Technic\Desktop\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.pdb
+K:\Technic\Desktop\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.exe
+K:\Technic\Desktop\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.pdb
+K:\Technic\Desktop\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.xml
+K:\Technic\Desktop\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\ResolveAssemblyReference.cache
+K:\Technic\Desktop\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.Resources.resources
+K:\Technic\Desktop\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\GenerateResource.read.1.tlog
+K:\Technic\Desktop\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.exe.config
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\Winsock Orcas.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\Winsock Orcas.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebSocketServer\WebSocketServer\bin\Release\Winsock Orcas.xml
+F:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.exe.config
+F:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.exe
+F:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.xml
+F:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.pdb
+H:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.exe.config
+H:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.exe
+H:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.xml
+H:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.pdb
+H:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.exe
+H:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.pdb
+H:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.xml
+H:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\bin\Release\Winsock Orcas.pdb
+H:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\bin\Release\Winsock Orcas.xml
+H:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.vbprojResolveAssemblyReference.cache
+H:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.Resources.resources
+H:\Projects\Mysterion Online\work\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.vbproj.GenerateResource.Cache
+D:\PROJECT\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.exe.config
+D:\PROJECT\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.exe
+D:\PROJECT\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.xml
+D:\PROJECT\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.pdb
+D:\PROJECT\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.exe
+D:\PROJECT\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.pdb
+D:\PROJECT\WebSocketServer\WebSocketServer\bin\Release\WebSocketServer.xml
+D:\PROJECT\WebSocketServer\WebSocketServer\bin\Release\Winsock Orcas.dll
+D:\PROJECT\WebSocketServer\WebSocketServer\bin\Release\Winsock Orcas.pdb
+D:\PROJECT\WebSocketServer\WebSocketServer\bin\Release\Winsock Orcas.xml
+D:\PROJECT\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.Resources.resources
+D:\PROJECT\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.vbproj.GenerateResource.Cache
+D:\PROJECT\WebSocketServer\WebSocketServer\obj\x86\Release\WebSocketServer.vbprojResolveAssemblyReference.cache
